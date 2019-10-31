@@ -1,0 +1,180 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Glynn",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Brunswick",
+        "freeformAddress": "200 Altama Connector, Brunswick, GA 31520",
+        "localName": "Brunswick",
+        "municipality": "Brunswick, Dock Junction",
+        "municipalitySubdivision": "Brunswick, Dock Junction",
+        "postalCode": "31520",
+        "streetName": "Altama Connector",
+        "streetNumber": "200"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 31.21268,
+            "lon": -81.49204
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 31.21127,
+            "lon": -81.49338
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 31.2122,
+            "lon": -81.4916
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 31.21224,
+            "lon": -81.49267
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/1598719",
+      "position": {
+        "lat": 31.21139,
+        "lon": -81.49287
+      },
+      "score": 11.94752,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.21049,
+          "lon": -81.49182
+        },
+        "topLeftPoint": {
+          "lat": 31.21229,
+          "lon": -81.49392
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Glynn",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Brunswick",
+        "freeformAddress": "Altama Connector, Brunswick, GA 31520",
+        "municipality": "Brunswick, Dock Junction",
+        "municipalitySubdivision": "Dock Junction",
+        "postalCode": "31520",
+        "streetName": "Altama Connector"
+      },
+      "id": "US/STR/p0/10330108",
+      "position": {
+        "lat": 31.20887,
+        "lon": -81.49902
+      },
+      "score": 10.2067,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.2083,
+          "lon": -81.49818
+        },
+        "topLeftPoint": {
+          "lat": 31.20918,
+          "lon": -81.50114
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Glynn",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Brunswick",
+        "extendedPostalCode": "315201909,315201910,315252247",
+        "freeformAddress": "Altama Connector, Brunswick, GA",
+        "municipality": "Brunswick, Dock Junction",
+        "municipalitySubdivision": "Brunswick, Dock Junction",
+        "postalCode": "31520,31525",
+        "streetName": "Altama Connector"
+      },
+      "id": "US/STR/p0/10330110",
+      "position": {
+        "lat": 31.21236,
+        "lon": -81.49334
+      },
+      "score": 10.2067,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.21032,
+          "lon": -81.49101
+        },
+        "topLeftPoint": {
+          "lat": 31.21275,
+          "lon": -81.49517
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Glynn",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Brunswick",
+        "extendedPostalCode": "315251800,315251853,315251859,315251877,315251880,315251881,315251888,315251891,315251898,315251991,315252203,315252222,315252242",
+        "freeformAddress": "Altama Connector, Brunswick, GA 31525",
+        "municipality": "Brunswick",
+        "municipalitySubdivision": "Brunswick",
+        "postalCode": "31525",
+        "streetName": "Altama Connector"
+      },
+      "id": "US/STR/p0/160666",
+      "position": {
+        "lat": 31.21479,
+        "lon": -81.48554
+      },
+      "score": 8.12919,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.21305,
+          "lon": -81.48072
+        },
+        "topLeftPoint": {
+          "lat": 31.21525,
+          "lon": -81.48995
+        }
+      }
+    }
+  ],
+  "search_address": "200 Altama Connector Brunswick GA 31520",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "200 altama connector brunswick ga 31520",
+    "queryTime": 47,
+    "queryType": "NON_NEAR",
+    "totalResults": 9
+  }
+}

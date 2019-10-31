@@ -1,0 +1,289 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "extendedPostalCode": "300785646",
+        "freeformAddress": "1670 Scenic Highway North, Snellville, GA 30078",
+        "localName": "Snellville",
+        "municipality": "Snellville",
+        "municipalitySubdivision": "Snellville",
+        "postalCode": "30078",
+        "streetName": "Scenic Highway North",
+        "streetNumber": "1670"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.8817,
+            "lon": -84.01129
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/PAD/p1/1568297",
+      "position": {
+        "lat": 33.88169,
+        "lon": -84.01126
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.88079,
+          "lon": -84.01018
+        },
+        "topLeftPoint": {
+          "lat": 33.88259,
+          "lon": -84.01234
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "extendedPostalCode": "3007821,3007879,300782100,300782109,300782111,300782113,300782114,300782115,300782125,300782126,300782127,300782128,300782129,300782130,300782131,300782132,300782133,300782134,300782137,300782144,300782147,300782149,300782150,300782151,300782155,300782156,300782157,300782168,300782212,300782214,300782222,300782225,300782226,300782235,300782236,300782549,300782559,300782571,300782586,300782592,300782596,300782597,300782598,300782599,300782600,300782633,300782651,300782652,300782653,300782654,300782663,300782664,300782665,300782666,300782680,300782681,300782688,300783044,300783065,300783069,300784701,300784702,300785504,300785605,300785609,300785633,300785634,300785635,300785636,300785637,300785640,300785641,300785642,300785645,300785646,300785647,300785648,300785649,300785653,300785659,300785678,300785685,300785689,300785690,300785778,300786105,300786106,300786111,300786122,300786133,300786141,300786142,300786152,300786157,300786158,300786165,300786167,300786168,300786186,300786187,300786188,300786197,300787907,300787908,300787909,300787910,300787911,300787912,300787913,300787914,300787915,300787916,300787917,300787918,300787919,300787920,300787921,300787922,300787923,300787924",
+        "freeformAddress": "Scenic Highway North, Snellville, GA 30078",
+        "municipality": "Snellville",
+        "municipalitySubdivision": "Snellville",
+        "postalCode": "30078",
+        "streetName": "Scenic Highway North"
+      },
+      "id": "US/STR/p0/7414198",
+      "position": {
+        "lat": 33.87749,
+        "lon": -84.01279
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86858,
+          "lon": -84.0024
+        },
+        "topLeftPoint": {
+          "lat": 33.88657,
+          "lon": -84.02406
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Scenic Highway North, Snellville, GA 30078",
+        "municipality": "Snellville",
+        "postalCode": "30078",
+        "streetName": "Scenic Highway North"
+      },
+      "id": "US/STR/p0/10144259",
+      "position": {
+        "lat": 33.89517,
+        "lon": -84.00715
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.89493,
+          "lon": -84.00715
+        },
+        "topLeftPoint": {
+          "lat": 33.89517,
+          "lon": -84.00723
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "North Road & Scenic Highway North, Snellville, GA 30078",
+        "municipality": "Snellville",
+        "postalCode": "30078",
+        "streetName": "North Road & Scenic Highway North, Georgia 124, Georgia State Route 124, State Route 124"
+      },
+      "id": "US/XSTR/p1/4790614",
+      "position": {
+        "lat": 33.89487,
+        "lon": -84.00709
+      },
+      "score": 10.60552,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.89397,
+          "lon": -84.00601
+        },
+        "topLeftPoint": {
+          "lat": 33.89577,
+          "lon": -84.00817
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "freeformAddress": "Scenic Highway & Scenic Highway North, Lawrenceville, GA 30045",
+        "municipality": "Lawrenceville",
+        "municipalitySubdivision": "Lawrenceville",
+        "postalCode": "30045",
+        "streetName": "Scenic Highway, Georgia 124, Georgia State Route 124, State Route 124 & Scenic Highway North, Georgia 124, Georgia State Route 124, State Route 124"
+      },
+      "id": "US/XSTR/p0/5063449",
+      "position": {
+        "lat": 33.89791,
+        "lon": -84.00627
+      },
+      "score": 10.46464,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.89701,
+          "lon": -84.00519
+        },
+        "topLeftPoint": {
+          "lat": 33.89881,
+          "lon": -84.00735
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Main Street East & Scenic Highway North, Snellville, GA 30078",
+        "municipality": "Snellville",
+        "municipalitySubdivision": "Snellville",
+        "postalCode": "30078",
+        "streetName": "Main Street East, Georgia 10, United States Highway 78 East, East Main Street Southwest, Georgia State Route 10, State Route 10, US-78 East & Scenic Highway North, Georgia 124, Georgia State Route 124, State Route 124"
+      },
+      "id": "US/XSTR/p0/1245010",
+      "position": {
+        "lat": 33.85761,
+        "lon": -84.02007
+      },
+      "score": 10.44471,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.85671,
+          "lon": -84.01899
+        },
+        "topLeftPoint": {
+          "lat": 33.85851,
+          "lon": -84.02115
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Main Street West & Scenic Highway North, Snellville, GA 30078",
+        "municipality": "Snellville",
+        "municipalitySubdivision": "Snellville",
+        "postalCode": "30078",
+        "streetName": "Main Street West, Georgia 10, West Main Street Southwest, Stone Mountain Highway, United States Highway 78 East, Georgia State Route 10, State Route 10, US-78 East & Scenic Highway North, Georgia 124, Georgia State Route 124, State Route 124"
+      },
+      "id": "US/XSTR/p0/1245011",
+      "position": {
+        "lat": 33.85761,
+        "lon": -84.02007
+      },
+      "score": 10.44471,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.85671,
+          "lon": -84.01899
+        },
+        "topLeftPoint": {
+          "lat": 33.85851,
+          "lon": -84.02115
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Scenic Highway North & Scenic Highway South, Snellville, GA 30078",
+        "municipality": "Snellville",
+        "municipalitySubdivision": "Snellville",
+        "postalCode": "30078",
+        "streetName": "Scenic Highway North, Georgia 124, Georgia State Route 124, State Route 124 & Scenic Highway South, Georgia 124, Georgia State Route 124, Centerville Highway, State Route 124"
+      },
+      "id": "US/XSTR/p0/1245012",
+      "position": {
+        "lat": 33.85761,
+        "lon": -84.02007
+      },
+      "score": 10.44471,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.85671,
+          "lon": -84.01899
+        },
+        "topLeftPoint": {
+          "lat": 33.85851,
+          "lon": -84.02115
+        }
+      }
+    }
+  ],
+  "search_address": "1670 Scenic Hwy N Snellville GA 30078",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 8,
+    "offset": 0,
+    "query": "1670 scenic hwy n snellville ga 30078",
+    "queryTime": 267,
+    "queryType": "NON_NEAR",
+    "totalResults": 50
+  }
+}

@@ -1,0 +1,817 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Azure Maps</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="This sample shows how to animate a symbol along a path on the map smoothly. " />
+    <meta name="keywords" content="map, gis, API, SDK, animate, animation, symbols, pushpins, markers, pins, line, linestring, polyline" />
+    <meta name="author" content="Microsoft Azure Maps" />
+
+    <!-- Add references to the Azure Maps Map control JavaScript and CSS files. -->
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/css/atlas.min.css?api-version=2" type="text/css" />
+    <script src="https://atlas.microsoft.com/sdk/js/atlas.min.js?api-version=2"></script>
+
+    <script type='text/javascript'>
+        var map, pin, datasource;
+        var animationTime = 5000;
+        var animation;
+
+        //Create an array of points to define a path to animate along.
+        var path = [
+            [-80.92272, 35.13958],
+            [-80.9214, 35.14009],
+            [-80.92074, 35.1404],
+            [-80.91999, 35.1409],
+            [-80.91981, 35.14118],
+            [-80.91974, 35.14123],
+            [-80.91969, 35.1413],
+            [-80.91938, 35.14173],
+            [-80.91854, 35.14229],
+            [-80.91824, 35.14267],
+            [-80.91483, 35.14107],
+            [-80.9139, 35.14063],
+            [-80.91353, 35.14046],
+            [-80.91338, 35.14039],
+            [-80.91302, 35.14022],
+            [-80.91291, 35.14016],
+            [-80.91238, 35.13992],
+            [-80.91229, 35.13988],
+            [-80.91102, 35.1393],
+            [-80.91076, 35.13917],
+            [-80.91035, 35.13899],
+            [-80.90984, 35.13877],
+            [-80.9097, 35.13872],
+            [-80.90939, 35.13859],
+            [-80.90882, 35.13839],
+            [-80.90865, 35.13831],
+            [-80.90857, 35.13827],
+            [-80.90804, 35.13801],
+            [-80.90784, 35.13789],
+            [-80.90775, 35.13785],
+            [-80.90748, 35.13771],
+            [-80.90729, 35.13762],
+            [-80.90711, 35.13754],
+            [-80.90702, 35.13771],
+            [-80.90698, 35.13775],
+            [-80.90656, 35.13799],
+            [-80.90605, 35.13849],
+            [-80.90535, 35.13931],
+            [-80.90332, 35.14119],
+            [-80.90276, 35.14171],
+            [-80.90139, 35.14336],
+            [-80.90064, 35.14404],
+            [-80.90021, 35.14443],
+            [-80.89983, 35.14477],
+            [-80.89931, 35.14527],
+            [-80.89905, 35.14551],
+            [-80.89898, 35.1456],
+            [-80.89659, 35.14785],
+            [-80.8954, 35.14898],
+            [-80.89464, 35.14993],
+            [-80.89427, 35.15055],
+            [-80.89417, 35.15076],
+            [-80.89395, 35.15122],
+            [-80.89365, 35.15208],
+            [-80.89269, 35.15498],
+            [-80.89225, 35.15625],
+            [-80.89178, 35.15757],
+            [-80.89154, 35.1582],
+            [-80.8915, 35.15831],
+            [-80.89149, 35.15834],
+            [-80.89138, 35.15867],
+            [-80.89096, 35.15988],
+            [-80.88989, 35.16298],
+            [-80.88988, 35.16303],
+            [-80.88987, 35.16309],
+            [-80.88984, 35.16314],
+            [-80.88885, 35.16647],
+            [-80.88862, 35.16714],
+            [-80.8885, 35.16752],
+            [-80.88817, 35.16873],
+            [-80.88758, 35.17082],
+            [-80.88723, 35.17204],
+            [-80.88659, 35.17424],
+            [-80.88643, 35.17476],
+            [-80.88625, 35.17543],
+            [-80.88611, 35.17611],
+            [-80.88608, 35.17648],
+            [-80.88607, 35.17759],
+            [-80.88618, 35.17822],
+            [-80.88625, 35.17866],
+            [-80.88647, 35.17945],
+            [-80.88658, 35.17979],
+            [-80.88662, 35.17989],
+            [-80.88666, 35.18],
+            [-80.88669, 35.18007],
+            [-80.8868, 35.18036],
+            [-80.88738, 35.18222],
+            [-80.88748, 35.18263],
+            [-80.88753, 35.18275],
+            [-80.88769, 35.18327],
+            [-80.88791, 35.18443],
+            [-80.88795, 35.18476],
+            [-80.88796, 35.18515],
+            [-80.88796, 35.18546],
+            [-80.8878, 35.18658],
+            [-80.8874, 35.18776],
+            [-80.88439, 35.19412],
+            [-80.88419, 35.19457],
+            [-80.88406, 35.19486],
+            [-80.88379, 35.19542],
+            [-80.88268, 35.19777],
+            [-80.88266, 35.19782],
+            [-80.88264, 35.19787],
+            [-80.88151, 35.2002],
+            [-80.88135, 35.20051],
+            [-80.88128, 35.20066],
+            [-80.88067, 35.20203],
+            [-80.88055, 35.20228],
+            [-80.8803, 35.20277],
+            [-80.88012, 35.20307],
+            [-80.87982, 35.20353],
+            [-80.87972, 35.20368],
+            [-80.877, 35.2069],
+            [-80.87642, 35.20768],
+            [-80.87606, 35.20826],
+            [-80.87477, 35.21063],
+            [-80.87475, 35.2107],
+            [-80.8747, 35.21081],
+            [-80.8746, 35.21099],
+            [-80.87285, 35.21434],
+            [-80.87266, 35.21468],
+            [-80.87257, 35.21485],
+            [-80.87221, 35.21576],
+            [-80.87202, 35.21669],
+            [-80.87196, 35.21715],
+            [-80.87188, 35.21745],
+            [-80.8718, 35.21774],
+            [-80.87177, 35.21784],
+            [-80.87171, 35.21799],
+            [-80.87133, 35.21877],
+            [-80.87091, 35.21935],
+            [-80.86982, 35.22041],
+            [-80.86936, 35.22084],
+            [-80.86898, 35.22121],
+            [-80.86862, 35.22153],
+            [-80.8683, 35.22185],
+            [-80.86801, 35.22213],
+            [-80.86797, 35.22217],
+            [-80.86709, 35.223],
+            [-80.86702, 35.22307],
+            [-80.86562, 35.22436],
+            [-80.86558, 35.2244],
+            [-80.86445, 35.2253],
+            [-80.86246, 35.22674],
+            [-80.86159, 35.22749],
+            [-80.86117, 35.22795],
+            [-80.8606, 35.22871],
+            [-80.86053, 35.22883],
+            [-80.86049, 35.22889],
+            [-80.86047, 35.22894],
+            [-80.86043, 35.229],
+            [-80.86035, 35.22916],
+            [-80.85971, 35.23093],
+            [-80.85961, 35.23119],
+            [-80.85958, 35.23127],
+            [-80.85945, 35.23158],
+            [-80.85942, 35.2317],
+            [-80.85939, 35.23182],
+            [-80.85937, 35.23185],
+            [-80.85925, 35.2323],
+            [-80.85903, 35.23282],
+            [-80.85855, 35.23363],
+            [-80.85828, 35.23387],
+            [-80.85782, 35.23437],
+            [-80.85611, 35.23568],
+            [-80.85597, 35.23579],
+            [-80.85581, 35.23593],
+            [-80.85578, 35.23597],
+            [-80.85572, 35.23603],
+            [-80.85468, 35.23721],
+            [-80.85427, 35.23769],
+            [-80.85418, 35.23777],
+            [-80.8538, 35.23814],
+            [-80.85277, 35.23901],
+            [-80.85252, 35.23922],
+            [-80.85245, 35.23928],
+            [-80.8524, 35.23931],
+            [-80.8523, 35.2394],
+            [-80.85203, 35.23965],
+            [-80.85139, 35.24021],
+            [-80.85066, 35.24086],
+            [-80.85051, 35.241],
+            [-80.85039, 35.2411],
+            [-80.85002, 35.24139],
+            [-80.84986, 35.2415],
+            [-80.84872, 35.24215],
+            [-80.84816, 35.24247],
+            [-80.84751, 35.24289],
+            [-80.84695, 35.24349],
+            [-80.84692, 35.24354],
+            [-80.84684, 35.24365],
+            [-80.84673, 35.24387],
+            [-80.84661, 35.24414],
+            [-80.84653, 35.24431],
+            [-80.84652, 35.24436],
+            [-80.84648, 35.24451],
+            [-80.84647, 35.24458],
+            [-80.84637, 35.24561],
+            [-80.84629, 35.24626],
+            [-80.84601, 35.24702],
+            [-80.84555, 35.24791],
+            [-80.84547, 35.24808],
+            [-80.84511, 35.24888],
+            [-80.84455, 35.2502],
+            [-80.84426, 35.25086],
+            [-80.84349, 35.25257],
+            [-80.84332, 35.25293],
+            [-80.84326, 35.25303],
+            [-80.84309, 35.2534],
+            [-80.84238, 35.25507],
+            [-80.84169, 35.25676],
+            [-80.84155, 35.25709],
+            [-80.84106, 35.25813],
+            [-80.84084, 35.25869],
+            [-80.84063, 35.25944],
+            [-80.84054, 35.26016],
+            [-80.8406, 35.26096],
+            [-80.84061, 35.26107],
+            [-80.84085, 35.2619],
+            [-80.84128, 35.2628],
+            [-80.84211, 35.26403],
+            [-80.84225, 35.26424],
+            [-80.84249, 35.26454],
+            [-80.84293, 35.26504],
+            [-80.8436, 35.26597],
+            [-80.8437, 35.26611],
+            [-80.84379, 35.26623],
+            [-80.84416, 35.26677],
+            [-80.84486, 35.26774],
+            [-80.84506, 35.26801],
+            [-80.84546, 35.26857],
+            [-80.84585, 35.26914],
+            [-80.8463, 35.26995],
+            [-80.84654, 35.27067],
+            [-80.84673, 35.27137],
+            [-80.84676, 35.27208],
+            [-80.84675, 35.2724],
+            [-80.84674, 35.27252],
+            [-80.84674, 35.27258],
+            [-80.84671, 35.27278],
+            [-80.84666, 35.27311],
+            [-80.84664, 35.27319],
+            [-80.84649, 35.27384],
+            [-80.8463, 35.27433],
+            [-80.84585, 35.27526],
+            [-80.84571, 35.27563],
+            [-80.84543, 35.27649],
+            [-80.8454, 35.27698],
+            [-80.84537, 35.2772],
+            [-80.84543, 35.27808],
+            [-80.84576, 35.27908],
+            [-80.84612, 35.27982],
+            [-80.84697, 35.28147],
+            [-80.84703, 35.28156],
+            [-80.84751, 35.28254],
+            [-80.84778, 35.28303],
+            [-80.84844, 35.28436],
+            [-80.84859, 35.28466],
+            [-80.84929, 35.28606],
+            [-80.84979, 35.28716],
+            [-80.85017, 35.28809],
+            [-80.85022, 35.28823],
+            [-80.8508, 35.29003],
+            [-80.85103, 35.29143],
+            [-80.85107, 35.29266],
+            [-80.851, 35.29379],
+            [-80.85082, 35.29526],
+            [-80.84917, 35.30243],
+            [-80.8491, 35.30276],
+            [-80.84893, 35.30346],
+            [-80.84889, 35.30359],
+            [-80.8484, 35.30591],
+            [-80.84821, 35.30675],
+            [-80.84808, 35.3073],
+            [-80.84805, 35.30743],
+            [-80.84803, 35.30747],
+            [-80.84783, 35.30846],
+            [-80.84755, 35.31006],
+            [-80.84743, 35.31079],
+            [-80.84729, 35.31215],
+            [-80.84729, 35.31223],
+            [-80.84728, 35.31233],
+            [-80.84725, 35.31283],
+            [-80.84723, 35.31433],
+            [-80.84724, 35.31468],
+            [-80.84737, 35.31748],
+            [-80.84739, 35.31791],
+            [-80.84758, 35.32077],
+            [-80.84771, 35.32273],
+            [-80.84774, 35.32326],
+            [-80.84806, 35.32879],
+            [-80.8481, 35.32949],
+            [-80.84812, 35.32979],
+            [-80.84817, 35.33057],
+            [-80.84821, 35.33133],
+            [-80.84825, 35.33203],
+            [-80.84835, 35.3339],
+            [-80.84856, 35.33785],
+            [-80.8485, 35.34098],
+            [-80.84845, 35.34158],
+            [-80.84842, 35.342],
+            [-80.84827, 35.34328],
+            [-80.84818, 35.34394],
+            [-80.84788, 35.34571],
+            [-80.84733, 35.34801],
+            [-80.84726, 35.34824],
+            [-80.84724, 35.34832],
+            [-80.84721, 35.34844],
+            [-80.84715, 35.34863],
+            [-80.84628, 35.35125],
+            [-80.84608, 35.35175],
+            [-80.84548, 35.35318],
+            [-80.84512, 35.354],
+            [-80.845, 35.35426],
+            [-80.84308, 35.35849],
+            [-80.84279, 35.35922],
+            [-80.84232, 35.36074],
+            [-80.84218, 35.3614],
+            [-80.84195, 35.36273],
+            [-80.84189, 35.36367],
+            [-80.84189, 35.36389],
+            [-80.84189, 35.36416],
+            [-80.8419, 35.3644],
+            [-80.84193, 35.36495],
+            [-80.84212, 35.36634],
+            [-80.8425, 35.36778],
+            [-80.84265, 35.36824],
+            [-80.84341, 35.37],
+            [-80.84402, 35.37113],
+            [-80.84463, 35.37218],
+            [-80.84476, 35.37238],
+            [-80.84486, 35.37254],
+            [-80.84544, 35.3735],
+            [-80.84615, 35.37467],
+            [-80.84667, 35.37552],
+            [-80.84695, 35.37598],
+            [-80.84712, 35.37624],
+            [-80.84767, 35.37721],
+            [-80.84837, 35.37876],
+            [-80.84841, 35.37888],
+            [-80.84872, 35.37983],
+            [-80.8491, 35.38149],
+            [-80.84917, 35.38213],
+            [-80.84924, 35.38298],
+            [-80.84924, 35.38342],
+            [-80.84925, 35.38398],
+            [-80.84928, 35.38522],
+            [-80.84931, 35.38555],
+            [-80.84954, 35.38702],
+            [-80.84984, 35.38815],
+            [-80.85011, 35.38854],
+            [-80.85058, 35.38975],
+            [-80.8512, 35.39093],
+            [-80.85136, 35.3912],
+            [-80.85142, 35.39131],
+            [-80.85296, 35.39372],
+            [-80.85389, 35.39526],
+            [-80.85459, 35.39662],
+            [-80.85479, 35.39706],
+            [-80.85497, 35.39744],
+            [-80.85515, 35.39795],
+            [-80.85544, 35.39872],
+            [-80.85596, 35.40064],
+            [-80.85728, 35.40781],
+            [-80.8575, 35.40913],
+            [-80.85792, 35.41175],
+            [-80.85835, 35.41366],
+            [-80.85871, 35.41474],
+            [-80.85881, 35.415],
+            [-80.85937, 35.41641],
+            [-80.86022, 35.41822],
+            [-80.86112, 35.41992],
+            [-80.86215, 35.42186],
+            [-80.8641, 35.42547],
+            [-80.86491, 35.42699],
+            [-80.8653, 35.4277],
+            [-80.86612, 35.42922],
+            [-80.86713, 35.43153],
+            [-80.86751, 35.43259],
+            [-80.86786, 35.43377],
+            [-80.86815, 35.43502],
+            [-80.86842, 35.43679],
+            [-80.86855, 35.43861],
+            [-80.86854, 35.44189],
+            [-80.86854, 35.44237],
+            [-80.86854, 35.44248],
+            [-80.86853, 35.44335],
+            [-80.86842, 35.44374],
+            [-80.86842, 35.44399],
+            [-80.86845, 35.44474],
+            [-80.86853, 35.44574],
+            [-80.86861, 35.44636],
+            [-80.86861, 35.44642],
+            [-80.86867, 35.44674],
+            [-80.86871, 35.44702],
+            [-80.86873, 35.44713],
+            [-80.86889, 35.44787],
+            [-80.86904, 35.4484],
+            [-80.86919, 35.44891],
+            [-80.8695, 35.4498],
+            [-80.86984, 35.45064],
+            [-80.87208, 35.4552],
+            [-80.87224, 35.45554],
+            [-80.87347, 35.45805],
+            [-80.87366, 35.45844],
+            [-80.87419, 35.45952],
+            [-80.87464, 35.46054],
+            [-80.87519, 35.46225],
+            [-80.87546, 35.46384],
+            [-80.87546, 35.46387],
+            [-80.87552, 35.46544],
+            [-80.87537, 35.46728],
+            [-80.87503, 35.47044],
+            [-80.875, 35.47092],
+            [-80.87492, 35.47192],
+            [-80.87478, 35.47616],
+            [-80.87475, 35.47848],
+            [-80.87475, 35.47862],
+            [-80.87475, 35.4789],
+            [-80.87474, 35.47971],
+            [-80.87474, 35.48078],
+            [-80.87474, 35.48125],
+            [-80.87474, 35.48342],
+            [-80.87474, 35.48359],
+            [-80.8747, 35.48484],
+            [-80.87451, 35.48584],
+            [-80.87448, 35.48602],
+            [-80.87431, 35.4866],
+            [-80.87374, 35.48777],
+            [-80.87339, 35.48847],
+            [-80.87316, 35.48889],
+            [-80.87212, 35.49095],
+            [-80.86963, 35.49606],
+            [-80.86959, 35.49615],
+            [-80.8692, 35.49692],
+            [-80.86913, 35.49707],
+            [-80.8679, 35.49955],
+            [-80.86754, 35.50028],
+            [-80.86744, 35.50048],
+            [-80.8674, 35.50057],
+            [-80.86726, 35.50085],
+            [-80.86708, 35.50121],
+            [-80.867, 35.50139],
+            [-80.86595, 35.50286],
+            [-80.86583, 35.50297],
+            [-80.86559, 35.50317],
+            [-80.86549, 35.50321],
+            [-80.8654, 35.50324],
+            [-80.86487, 35.50325],
+            [-80.86413, 35.50295],
+            [-80.86388, 35.50286],
+            [-80.86387, 35.50282],
+            [-80.86384, 35.50278],
+            [-80.86381, 35.50277],
+            [-80.86374, 35.50277],
+            [-80.86368, 35.50279],
+            [-80.86334, 35.50265],
+            [-80.86262, 35.50238],
+            [-80.862, 35.50222],
+            [-80.86171, 35.50219],
+            [-80.86146, 35.50215],
+            [-80.86143, 35.50213],
+            [-80.86132, 35.50204],
+            [-80.86118, 35.50205],
+            [-80.86109, 35.50208],
+            [-80.86106, 35.5021],
+            [-80.86044, 35.50218],
+            [-80.86031, 35.5022],
+            [-80.86009, 35.50225],
+            [-80.86003, 35.5023],
+            [-80.85984, 35.50233],
+            [-80.85947, 35.50239],
+            [-80.85937, 35.50241],
+            [-80.85852, 35.50257],
+            [-80.85798, 35.50266],
+            [-80.85641, 35.50291],
+            [-80.85575, 35.50293],
+            [-80.85372, 35.50287],
+            [-80.85344, 35.50286],
+            [-80.85279, 35.50283],
+            [-80.85227, 35.5028],
+            [-80.85185, 35.50277],
+            [-80.85034, 35.50261],
+            [-80.84968, 35.50252],
+            [-80.84904, 35.50238],
+            [-80.84858, 35.50225],
+            [-80.84801, 35.50209]
+        ];
+
+        function GetMap() {
+            //Initialize a map instance.
+            map = new atlas.Map('myMap', {
+                center: [ -80.86553712525674, 35.30637110882959 ],
+                zoom: 10,
+                authOptions: {
+                    authType: 'subscriptionKey',
+                    subscriptionKey: 'bVRJyooigzq-3XBMqRQ_YqPQq9Y73ZyzRnUx8eCuaWM'
+                }
+            });
+
+            //Wait until the map resources are ready.
+            map.events.add('ready', function () {
+
+                //Load a custom image icon into the map resources.
+                map.imageSprite.add('arrow-icon', 'images/pushpins/gpsArrowIcon.png').then(function () {
+
+                    //Create a data source and add it to the map.
+                    datasource = new atlas.source.DataSource();
+                    map.sources.add(datasource);
+
+                    //Create a layer to render the path.
+                    map.layers.add(new atlas.layer.LineLayer(datasource, null, {
+                        strokeColor: 'DodgerBlue',
+                        strokeWidth: 3
+                    }));
+
+                    //Create a line for the path and add it to the data source.
+                    datasource.add(new atlas.data.LineString(path));
+
+                    //Create a layer to render a symbol which we will animate.
+                    map.layers.add(new atlas.layer.SymbolLayer(datasource, null, {
+                        iconOptions: {
+                            //Pass in the id of the custom icon that was loaded into the map resources.
+                            image: 'arrow-icon',
+
+                            //Anchor the icon to the center of the image.
+                            anchor: 'center',
+
+                            //Rotate the icon based on the rotation property on the point data.
+                            rotation: ['get', 'rotation'],
+
+                            //Have the rotation align with the map.
+                            rotationAlignment: 'map',
+
+                            //For smoother animation, ignore the placement of the icon. This skips the label collision calculations and allows the icon to overlap map labels. 
+                            ignorePlacement: true,
+
+                            //For smoother animation, allow symbol to overlap all other symbols on the map.
+                            allowOverlap: true    
+                        },
+                        textOptions: {
+                            //For smoother animation, ignore the placement of the text. This skips the label collision calculations and allows the text to overlap map labels.
+                            ignorePlacement: true,
+
+                            //For smoother animation, allow text to overlap all other symbols on the map.
+                            allowOverlap: true  
+                        },
+
+                        //Only render the point data in the symbol layer.
+                        filter: ['==', '$type', 'Point']    
+                    }));
+
+                    //Create a pin and wrap with the shape class and add to data source.
+                    pin = new atlas.Shape(new atlas.data.Feature(new atlas.data.Point(path[0]), {
+                        rotation: 180
+                    }));
+                    datasource.add(pin);
+
+                    animation = new animations.PathAnimation(path, function (position, heading, progress) {
+                        //Update the rotation of the symbol. 
+                        pin.setProperties({
+                            rotation: heading
+                        });
+
+                        //Update the symbols coordinates.
+                        pin.setCoordinates(position);
+
+                        if (document.getElementById('followSymbol').checked) {
+                            map.setCamera({
+                                center: position,
+                                bearing: heading,
+                                pitch: 45,
+                                zoom: 15
+                            });
+                        }
+                    }, animationTime);
+                });
+
+                // Create custom Pushpins
+                var pinDataSource = new atlas.source.DataSource();
+                map.sources.add(pinDataSource);
+                pinDataSource.add(new atlas.data.Feature(new atlas.data.Point([-80.832353, 35.151622]), {
+                    name: 'point', 
+                    description: 'Microsoft Store'
+                }));
+                pinDataSource.add(new atlas.data.Feature(new atlas.data.Point([-80.88984, 35.16314]), {
+                    name: 'point', 
+                    description: 'Closest Night'
+                }));
+                pinDataSource.add(new atlas.data.Feature(new atlas.data.Point([-80.90852, 35.1379]), {
+                    name: 'point', 
+                    description: 'Closest Day'
+                }));
+                var pinLayer = new atlas.layer.SymbolLayer(pinDataSource, null, {
+                    iconOptions: {
+                    image: 'pin-red'
+                    }
+                });
+                map.layers.add([pinLayer]);
+            });
+        }
+
+        function play() {
+            if (animation) {
+                animation.play();
+            }
+        }
+
+        function pause() {
+            if (animation) {
+                animation.pause();
+            }
+        }
+
+        function stop() {
+            if (animation) {
+                animation.stop();
+            }
+        }
+
+        var animations = (function () {
+            var self = this;
+            var _delay = 30; //30 = 33.3 frames per second, 16 = 62.5 frames per second
+
+            this.PathAnimation = function (path, intervalCallback, duration) {
+                /// <summary>This class extends from the BaseAnimation class and cycles through a set of positions over a period of time, calculating mid-point positions along the way.</summary>
+                /// <param name="path" type="Position[]">An array of positions to cycle through.</param>
+                /// <param name="intervalCallback" type="Function">A function that is called when a frame is to be rendered. This callback function recieves three values; current position, heading, progress.</param>
+                /// <param name="duration" type="Number">Length of time in ms that the animation should run for. Default is 1000 ms.</param>
+
+                var _totalDistance = 0,
+                    _intervalLocs = [path[0]],
+                    _intervalHeadings = [],
+                    _intervalIdx = [0],
+                    _frameCount = Math.ceil(duration / _delay), idx;
+
+                var progress, dlat, dlon;
+
+                //Calcualte the total distance along the path in degrees.
+                for (var i = 0; i < path.length - 1; i++) {
+                    dlat = (path[i + 1][1] - path[i][1]);
+                    dlon = (path[i + 1][0] - path[i][0]);
+
+                    _totalDistance += Math.sqrt(dlat * dlat + dlon * dlon);
+                }
+
+                //Pre-calculate step points for smoother rendering.
+                for (var f = 0; f < _frameCount; f++) {
+                    progress = (f * _delay) / duration;
+
+                    var travel = progress * _totalDistance;
+                    var alpha;
+                    var dist = 0;
+                    var dx = travel;
+
+                    for (var i = 0; i < path.length - 1; i++) {
+                        dlat = (path[i + 1][1] - path[i][1]);
+                        dlon = (path[i + 1][0] - path[i][0]);
+                        alpha = Math.atan2(dlat * Math.PI / 180, dlon * Math.PI / 180);
+                        dist += Math.sqrt(dlat * dlat + dlon * dlon);
+
+                        if (dist >= travel) {
+                            idx = i;
+                            break;
+                        }
+
+                        dx = travel - dist;
+                    }
+
+                    if (dx != 0 && idx < path.length - 1) {
+                        dlat = dx * Math.sin(alpha);
+                        dlon = dx * Math.cos(alpha);
+
+                        var dest = [path[idx][0] + dlon, path[idx][1] + dlat];
+
+                        _intervalLocs.push(dest);
+                        _intervalHeadings.push(atlas.math.getHeading(path[idx], dest));
+                        _intervalIdx.push(idx);
+                    }
+                }
+
+                //Ensure the last location is the last position in the path.
+                _intervalHeadings.push(atlas.math.getHeading(_intervalLocs[_intervalLocs.length - 1], path[path.length - 1]));
+                _intervalLocs.push(path[path.length - 1]);
+                _intervalIdx.push(path.length - 1);
+
+                if (_intervalHeadings.length < _intervalLocs.length) {
+                    _intervalHeadings.push(_intervalHeadings[_intervalHeadings.length - 1]);
+                }
+
+                return new self.BaseAnimation(
+                    function (progress, frameIdx) {
+
+                        if (intervalCallback) {
+                            intervalCallback(_intervalLocs[frameIdx], _intervalHeadings[frameIdx], progress);
+                        }
+                    }, duration);
+            }
+
+            this.BaseAnimation = function (renderFrameCallback, duration) {
+                /// <summary>A base class that can be used to create animations that support play, pause and stop.</summary>
+                /// <param name="renderFrameCallback" type="Function">A function that is called when a frame is to be rendered. This function recieves two values; progress and frameIdx.</param>
+                /// <param name="duration" type="Number">Length of time in ms that the animation should run for. Default is 1000 ms.</param>
+
+                var _timerId,
+                    frameIdx = 0,
+                    _isPaused = true;
+
+                //Varify value
+                duration = (duration && duration > 0) ? duration : 1000;
+
+                this.play = function () {
+                    if (renderFrameCallback) {
+                        _isPaused = false;
+
+                        if (!_timerId) {
+                            _timerId = setInterval(function () {
+                                if (!_isPaused) {
+                                    var progress = (frameIdx * _delay) / duration;
+
+                                    renderFrameCallback(progress, frameIdx);
+
+                                    if (progress >= 1) {
+                                        reset();
+                                    }
+
+                                    frameIdx++;
+                                }
+                            }, _delay);
+                        }
+                    }
+                };
+
+                this.isPlaying = function () {
+                    return !_isPaused;
+                };
+
+                this.pause = function () {
+                    _isPaused = true;
+                };
+
+                this.stop = function () {
+                    reset();
+                };
+
+                function reset() {
+                    if (_timerId != null) {
+                        clearInterval(_timerId);
+                        _timerId = null;
+                    }
+
+                    frameIdx = 0;
+
+                    renderFrameCallback(0, frameIdx);
+                    _isPaused = true;
+                }
+            }
+
+            return self;
+        })();
+    </script>
+    <style>
+        #myMap {
+            position: relative;
+            width: 100%;
+            min-width: 350px;
+            height: 900px;
+        }
+        .controlPanel {
+            position:absolute;
+            top:15px;
+            left:15px;
+            border-radius:5px;
+            padding:5px;
+            background-color:white;
+        }
+    </style>
+</head>
+
+<body onload="GetMap()">
+    <div id="title" align="center">
+        <h3>Microsoft Charlotte [35.139554, -80.922702] to Davidson College [35.502091, -80.848007]</h3>
+    </div>
+
+    <div id="myMap"></div>
+
+    <div class="controlPanel">
+        <input type="button" value="Play"  style="font-size: 16px; font-weight: bold;" onclick="play()" />
+        <input type="button" value="Pause" style="font-size: 16px; font-weight: bold;" onclick="pause()" />
+        <input type="button" value="Stop"  style="font-size: 16px; font-weight: bold;" onclick="stop()" />
+        <input id="followSymbol" type="checkbox" />
+    </div>
+</body>
+</html>

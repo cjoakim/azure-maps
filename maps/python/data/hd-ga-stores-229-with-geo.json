@@ -1,0 +1,66 @@
+[
+  {
+    "area_code": "229",
+    "city": "Albany",
+    "city_state_zip": "Albany GA 31707",
+    "location": {
+      "lat": 31.61642,
+      "lon": -84.20703
+    },
+    "name": "Albany, GA",
+    "phone": "(229)446-2010",
+    "search_address": "1219 Westover Blvd Albany GA 31707",
+    "state": "GA",
+    "store_num": 2,
+    "street": "1219 Westover Blvd",
+    "zip": "31707"
+  },
+  {
+    "area_code": "229",
+    "city": "Bainbridge",
+    "city_state_zip": "Bainbridge GA 39819",
+    "location": {
+      "lat": 30.88512,
+      "lon": -84.56756
+    },
+    "name": "Bainbridge",
+    "phone": "(229)246-1804",
+    "search_address": "1414 Tallahassee Hwy Bainbridge GA 39819",
+    "state": "GA",
+    "store_num": 8,
+    "street": "1414 Tallahassee Hwy",
+    "zip": "39819"
+  },
+  {
+    "area_code": "229",
+    "city": "Moultrie",
+    "city_state_zip": "Moultrie GA 31788",
+    "location": {
+      "lat": 31.18976,
+      "lon": -83.76041
+    },
+    "name": "Moultrie, GA",
+    "phone": "(229)985-6618",
+    "search_address": "450 Veterans Pkwy North Moultrie GA 31788",
+    "state": "GA",
+    "store_num": 56,
+    "street": "450 Veterans Pkwy North",
+    "zip": "31788"
+  },
+  {
+    "area_code": "229",
+    "city": "Valdosta",
+    "city_state_zip": "Valdosta GA 31601",
+    "location": {
+      "lat": 30.84464,
+      "lon": -83.31579
+    },
+    "name": "Valdosta",
+    "phone": "(229)293-9008",
+    "search_address": "1825 Norman Dr Valdosta GA 31601",
+    "state": "GA",
+    "store_num": 77,
+    "street": "1825 Norman Dr",
+    "zip": "31601"
+  }
+]

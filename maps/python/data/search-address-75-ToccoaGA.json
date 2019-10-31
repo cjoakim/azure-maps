@@ -1,0 +1,228 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Stephens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Toccoa, Rock Creek",
+        "freeformAddress": "302 Memorial Drive, Toccoa, GA 30577",
+        "localName": "Toccoa",
+        "municipality": "Toccoa, Eastanollee",
+        "municipalitySubdivision": "Toccoa",
+        "postalCode": "30577",
+        "streetName": "Memorial Drive",
+        "streetNumber": "302"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.54498,
+            "lon": -83.28523
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.5457,
+            "lon": -83.28536
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.54644,
+            "lon": -83.28519
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/4551193",
+      "position": {
+        "lat": 34.54518,
+        "lon": -83.28699
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.54428,
+          "lon": -83.2859
+        },
+        "topLeftPoint": {
+          "lat": 34.54608,
+          "lon": -83.28808
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Stephens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Toccoa, Rock Creek",
+        "freeformAddress": "Memorial Drive, Toccoa, GA",
+        "municipality": "Toccoa, Eastanollee",
+        "municipalitySubdivision": "Toccoa",
+        "postalCode": "30538,30577",
+        "streetName": "Memorial Drive"
+      },
+      "id": "US/STR/p0/10142418",
+      "position": {
+        "lat": 34.54669,
+        "lon": -83.28504
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.54429,
+          "lon": -83.285
+        },
+        "topLeftPoint": {
+          "lat": 34.54895,
+          "lon": -83.28523
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Stephens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Toccoa, Rock Creek",
+        "freeformAddress": "302 Memorial Drive, Toccoa, GA 30538",
+        "localName": "Toccoa",
+        "municipality": "Toccoa, Eastanollee",
+        "municipalitySubdivision": "Toccoa",
+        "postalCode": "30538",
+        "streetName": "Memorial Drive",
+        "streetNumber": "302"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.54533,
+            "lon": -83.28523
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/PAD/p1/19719853",
+      "position": {
+        "lat": 34.54547,
+        "lon": -83.28697
+      },
+      "score": 9.8938,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.54457,
+          "lon": -83.28588
+        },
+        "topLeftPoint": {
+          "lat": 34.54637,
+          "lon": -83.28806
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Stephens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Toccoa, Rock Creek",
+        "extendedPostalCode": "3053832,305383208,305383212,305383230,305383231,305383232,305383233,305383246",
+        "freeformAddress": "302 Memorial Drive, Eastanollee, GA 30538",
+        "municipality": "Eastanollee",
+        "municipalitySubdivision": "Eastanollee",
+        "postalCode": "30538",
+        "streetName": "Memorial Drive",
+        "streetNumber": "302"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.54385,
+          "lon": -83.28487
+        },
+        "rangeLeft": "936 - 300",
+        "rangeRight": "937 - 301",
+        "to": {
+          "lat": 34.54343,
+          "lon": -83.28466
+        }
+      },
+      "id": "US/ADDR/p0/19048159",
+      "position": {
+        "lat": 34.54345,
+        "lon": -83.28461
+      },
+      "score": 9.5744,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.54343,
+          "lon": -83.28466
+        },
+        "topLeftPoint": {
+          "lat": 34.54385,
+          "lon": -83.28487
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Stephens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rock Creek",
+        "freeformAddress": "Memorial Drive & Toccoa Bypass, Eastanollee, GA 30538",
+        "municipality": "Eastanollee",
+        "postalCode": "30538,30577",
+        "streetName": "Memorial Drive & Toccoa Bypass, Georgia 17, Georgia State Route 17, State Route 17"
+      },
+      "id": "US/XSTR/p0/5234239",
+      "position": {
+        "lat": 34.54385,
+        "lon": -83.28487
+      },
+      "score": 8.87728,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.54295,
+          "lon": -83.28378
+        },
+        "topLeftPoint": {
+          "lat": 34.54475,
+          "lon": -83.28596
+        }
+      }
+    }
+  ],
+  "search_address": "302 Memorial Drive Toccoa GA 30577",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "302 memorial drive toccoa ga 30577",
+    "queryTime": 136,
+    "queryType": "NON_NEAR",
+    "totalResults": 18
+  }
+}

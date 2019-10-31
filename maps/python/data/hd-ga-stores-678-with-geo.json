@@ -1,0 +1,130 @@
+[
+  {
+    "area_code": "678",
+    "city": "Alpharetta",
+    "city_state_zip": "Alpharetta GA 30004",
+    "location": {
+      "lat": 34.09086,
+      "lon": -84.2738
+    },
+    "name": "Alpharetta",
+    "phone": "(678)339-0157",
+    "search_address": "5300 Windward Pkwy Alpharetta GA 30004",
+    "state": "GA",
+    "store_num": 3,
+    "street": "5300 Windward Pkwy",
+    "zip": "30004"
+  },
+  {
+    "area_code": "678",
+    "city": "Cedartown",
+    "city_state_zip": "Cedartown GA 30125",
+    "location": {
+      "lat": 34.04491,
+      "lon": -85.23218
+    },
+    "name": "Cedartown,GA",
+    "phone": "(678)246-0107",
+    "search_address": "1500 Rome Highway Cedartown GA 30125",
+    "state": "GA",
+    "store_num": 20,
+    "street": "1500 Rome Highway",
+    "zip": "30125"
+  },
+  {
+    "area_code": "678",
+    "city": "Ellenwood",
+    "city_state_zip": "Ellenwood GA 30294",
+    "location": {
+      "lat": 33.6206,
+      "lon": -84.23284
+    },
+    "name": "Ellenwood",
+    "phone": "(678)284-9152",
+    "search_address": "65 Fairview Road Ellenwood GA 30294",
+    "state": "GA",
+    "store_num": 33,
+    "street": "65 Fairview Road",
+    "zip": "30294"
+  },
+  {
+    "area_code": "678",
+    "city": "Mcdonough",
+    "city_state_zip": "Mcdonough GA 30253",
+    "location": {
+      "lat": 33.46544,
+      "lon": -84.21333
+    },
+    "name": "Mcdonough",
+    "phone": "(678)432-5827",
+    "search_address": "1750 Jonesboro Rd Mcdonough GA 30253",
+    "state": "GA",
+    "store_num": 51,
+    "street": "1750 Jonesboro Rd",
+    "zip": "30253"
+  },
+  {
+    "area_code": "678",
+    "city": "Roswell",
+    "city_state_zip": "Roswell GA 30075",
+    "location": {
+      "lat": 34.05938,
+      "lon": -84.3867
+    },
+    "name": "Nw Roswell/Westwind",
+    "phone": "(678)461-0155",
+    "search_address": "870 Woodstock Rd Roswell GA 30075",
+    "state": "GA",
+    "store_num": 60,
+    "street": "870 Woodstock Rd",
+    "zip": "30075"
+  },
+  {
+    "area_code": "678",
+    "city": "Peachtree City",
+    "city_state_zip": "Peachtree City GA 30269",
+    "location": {
+      "lat": 33.42785,
+      "lon": -84.55677
+    },
+    "name": "Peachtree City",
+    "phone": "(678)364-0163",
+    "search_address": "2715 Hwy 54 W Peachtree City GA 30269",
+    "state": "GA",
+    "store_num": 62,
+    "street": "2715 Hwy 54 W",
+    "zip": "30269"
+  },
+  {
+    "area_code": "678",
+    "city": "Powder Springs",
+    "city_state_zip": "Powder Springs GA 30127",
+    "location": {
+      "lat": 33.86534,
+      "lon": -84.67766
+    },
+    "name": "Powder Springs",
+    "phone": "(678)567-1161",
+    "search_address": "1062 Richard D Sailors Pkwy Powder Springs GA 30127",
+    "state": "GA",
+    "store_num": 64,
+    "street": "1062 Richard D Sailors Pkwy",
+    "zip": "30127"
+  },
+  {
+    "area_code": "678",
+    "city": "Winder",
+    "city_state_zip": "Winder GA 30680",
+    "location": {
+      "lat": 33.9481,
+      "lon": -83.76283
+    },
+    "name": "Winder",
+    "phone": "(678)425-0220",
+    "search_address": "649 Carl Bethlehem Rd Winder GA 30680",
+    "state": "GA",
+    "store_num": 84,
+    "street": "649 Carl Bethlehem Rd",
+    "zip": "30680"
+  }
+]

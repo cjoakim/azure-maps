@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Chamblee-Doraville",
+        "freeformAddress": "4343 Tilly Mill Road, Atlanta, GA 30360",
+        "localName": "Atlanta",
+        "municipality": "Atlanta, Doraville",
+        "municipalitySubdivision": "Atlanta, Doraville",
+        "postalCode": "30360",
+        "streetName": "Tilly Mill Road",
+        "streetNumber": "4343"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.92088,
+            "lon": -84.2805
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/PAD/p1/19575336",
+      "position": {
+        "lat": 33.92138,
+        "lon": -84.27908
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.92048,
+          "lon": -84.278
+        },
+        "topLeftPoint": {
+          "lat": 33.92228,
+          "lon": -84.28016
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Chamblee-Doraville",
+        "freeformAddress": "Tilly Mill Road, Atlanta, GA 30360",
+        "municipality": "Atlanta, Doraville, Brookhaven",
+        "municipalitySubdivision": "Doraville",
+        "postalCode": "30360",
+        "streetName": "Tilly Mill Road"
+      },
+      "id": "US/STR/p0/2455684",
+      "position": {
+        "lat": 33.9202,
+        "lon": -84.28023
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.92009,
+          "lon": -84.28021
+        },
+        "topLeftPoint": {
+          "lat": 33.9202,
+          "lon": -84.28023
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Chamblee-Doraville",
+        "freeformAddress": "Tilly Mill Road, Atlanta, GA",
+        "municipality": "Atlanta, Dunwoody, Doraville",
+        "municipalitySubdivision": "Atlanta, Dunwoody, Doraville",
+        "postalCode": "30338,30360",
+        "streetName": "Tilly Mill Road"
+      },
+      "id": "US/STR/p0/3965216",
+      "position": {
+        "lat": 33.92657,
+        "lon": -84.2831
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.92599,
+          "lon": -84.28283
+        },
+        "topLeftPoint": {
+          "lat": 33.92675,
+          "lon": -84.28318
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Chamblee-Doraville",
+        "freeformAddress": "Mill Court & Tilly Mill Road, Doraville, GA 30360",
+        "municipality": "Doraville, Atlanta",
+        "municipalitySubdivision": "Doraville, Atlanta",
+        "postalCode": "30360",
+        "streetName": "Mill Court & Tilly Mill Road"
+      },
+      "id": "US/XSTR/p0/296686",
+      "position": {
+        "lat": 33.91459,
+        "lon": -84.28007
+      },
+      "score": 10.44471,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.91369,
+          "lon": -84.27899
+        },
+        "topLeftPoint": {
+          "lat": 33.91549,
+          "lon": -84.28115
+        }
+      }
+    }
+  ],
+  "search_address": "4343 Tilly Mill Rd Atlanta GA 30360",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "4343 tilly mill rd atlanta ga 30360",
+    "queryTime": 254,
+    "queryType": "NON_NEAR",
+    "totalResults": 17
+  }
+}

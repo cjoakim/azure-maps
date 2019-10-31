@@ -1,0 +1,309 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Clayton",
+        "freeformAddress": "1551 US Highway 441 South, Clayton, GA 30525",
+        "localName": "Clayton",
+        "municipality": "Clayton",
+        "municipalitySubdivision": "Clayton",
+        "postalCode": "30525",
+        "streetName": "US Highway 441 South",
+        "streetNumber": "1551"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.85632,
+            "lon": -83.40751
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.85726,
+            "lon": -83.40705
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.85857,
+            "lon": -83.4065
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/24057833",
+      "position": {
+        "lat": 34.85599,
+        "lon": -83.40614
+      },
+      "score": 14.07864,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.85509,
+          "lon": -83.40504
+        },
+        "topLeftPoint": {
+          "lat": 34.85689,
+          "lon": -83.40724
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Mountain City, Clayton",
+        "extendedPostalCode": "305253011,305253029,305253084,305253085",
+        "freeformAddress": "1551 Highway 441 North, Clayton, GA 30525",
+        "municipality": "Clayton",
+        "municipalitySubdivision": "Clayton",
+        "postalCode": "30525",
+        "streetName": "Highway 441 North",
+        "streetNumber": "1551"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.89941,
+          "lon": -83.39231
+        },
+        "rangeLeft": "1543 - 1551",
+        "rangeRight": "1544 - 1552",
+        "to": {
+          "lat": 34.89899,
+          "lon": -83.39221
+        }
+      },
+      "id": "US/ADDR/p2/9282403",
+      "position": {
+        "lat": 34.899,
+        "lon": -83.39216
+      },
+      "score": 13.83563,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.89899,
+          "lon": -83.39221
+        },
+        "topLeftPoint": {
+          "lat": 34.89941,
+          "lon": -83.39231
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Clayton",
+        "extendedPostalCode": "305255448,305255484",
+        "freeformAddress": "441 US Highway 441 South, Clayton, GA 30525",
+        "municipality": "Clayton",
+        "municipalitySubdivision": "Clayton",
+        "postalCode": "30525",
+        "streetName": "US Highway 441 South",
+        "streetNumber": "441"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.87215,
+          "lon": -83.40026
+        },
+        "rangeLeft": "498 - 440",
+        "rangeRight": "499 - 441",
+        "to": {
+          "lat": 34.87135,
+          "lon": -83.39998
+        }
+      },
+      "id": "US/ADDR/p0/13986217",
+      "position": {
+        "lat": 34.87134,
+        "lon": -83.40003
+      },
+      "score": 13.50597,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.87135,
+          "lon": -83.39998
+        },
+        "topLeftPoint": {
+          "lat": 34.87215,
+          "lon": -83.40026
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Mountain City, Clayton",
+        "extendedPostalCode": "3052542,305254246,305254256,305254265,305254286,305254287,305254289,305254293,305254295",
+        "freeformAddress": "441 Highway 441 North, Clayton, GA 30525",
+        "municipality": "Clayton",
+        "municipalitySubdivision": "Clayton",
+        "postalCode": "30525",
+        "streetName": "Highway 441 North",
+        "streetNumber": "441"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.88797,
+          "lon": -83.3938
+        },
+        "rangeLeft": "379 - 733",
+        "rangeRight": "380 - 732",
+        "to": {
+          "lat": 34.88793,
+          "lon": -83.39376
+        }
+      },
+      "id": "US/ADDR/p3/13501455",
+      "position": {
+        "lat": 34.88799,
+        "lon": -83.39375
+      },
+      "score": 13.42603,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.88793,
+          "lon": -83.39376
+        },
+        "topLeftPoint": {
+          "lat": 34.88797,
+          "lon": -83.3938
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Tiger",
+        "freeformAddress": "US Highway 441 South, Clayton, GA 30525",
+        "municipality": "Clayton",
+        "postalCode": "30525",
+        "streetName": "US Highway 441 South"
+      },
+      "id": "US/STR/p0/2525453",
+      "position": {
+        "lat": 34.83809,
+        "lon": -83.4211
+      },
+      "score": 12.37648,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.82815,
+          "lon": -83.40935
+        },
+        "topLeftPoint": {
+          "lat": 34.84613,
+          "lon": -83.43126
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Tiger",
+        "freeformAddress": "US Highway 441 South, Clayton, GA",
+        "municipality": "Clayton, Tiger",
+        "postalCode": "30525,30576",
+        "streetName": "US Highway 441 South"
+      },
+      "id": "US/STR/p0/5664868",
+      "position": {
+        "lat": 34.84234,
+        "lon": -83.41522
+      },
+      "score": 12.37648,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.8399,
+          "lon": -83.41154
+        },
+        "topLeftPoint": {
+          "lat": 34.84568,
+          "lon": -83.41934
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Rabun",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Clayton",
+        "freeformAddress": "US Highway 441 South, Clayton, GA 30525",
+        "municipality": "Clayton",
+        "postalCode": "30525",
+        "streetName": "US Highway 441 South"
+      },
+      "id": "US/STR/p0/5747405",
+      "position": {
+        "lat": 34.85886,
+        "lon": -83.40664
+      },
+      "score": 12.37648,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.84984,
+          "lon": -83.39561
+        },
+        "topLeftPoint": {
+          "lat": 34.86783,
+          "lon": -83.41752
+        }
+      }
+    }
+  ],
+  "search_address": "1551 Hwy 441 South Clayton GA 30525",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 7,
+    "offset": 0,
+    "query": "1551 hwy 441 south clayton ga 30525",
+    "queryTime": 251,
+    "queryType": "NON_NEAR",
+    "totalResults": 232
+  }
+}

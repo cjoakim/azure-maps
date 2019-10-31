@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Spalding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Griffin",
+        "freeformAddress": "1435 Georgia Highway 16 West, Griffin, GA 30223",
+        "localName": "Griffin",
+        "municipality": "Griffin",
+        "municipalitySubdivision": "Griffin",
+        "postalCode": "30223",
+        "streetName": "Georgia Highway 16 West",
+        "streetNumber": "1435"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.24747,
+            "lon": -84.28939
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.24757,
+            "lon": -84.28937
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.24996,
+            "lon": -84.28806
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.24997,
+            "lon": -84.28903
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.24896,
+            "lon": -84.29053
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.24816,
+            "lon": -84.29049
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/5674829",
+      "position": {
+        "lat": 33.24902,
+        "lon": -84.28938
+      },
+      "score": 14.07864,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.24812,
+          "lon": -84.2883
+        },
+        "topLeftPoint": {
+          "lat": 33.24992,
+          "lon": -84.29046
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Spalding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Griffin",
+        "extendedPostalCode": "302232000,302232010,302232034,302232035,302232036,302232037,302232038,302232039,302232040,302232041,302232046,302232047,302232054,302232055,302232058,302232059,302232060,302232061,302232062,302232065,302232066,302232067,302232090,302232091,302232093,302232094,302232096,302237107,302237108",
+        "freeformAddress": "Georgia Highway 16 West, Griffin, GA",
+        "municipality": "Griffin",
+        "municipalitySubdivision": "Griffin",
+        "postalCode": "30223,30224",
+        "streetName": "Georgia Highway 16 West"
+      },
+      "id": "US/STR/p0/3266951",
+      "position": {
+        "lat": 33.24692,
+        "lon": -84.30236
+      },
+      "score": 12.37648,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.23529,
+          "lon": -84.29065
+        },
+        "topLeftPoint": {
+          "lat": 33.25327,
+          "lon": -84.31215
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Spalding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Vaughn",
+        "extendedPostalCode": "302236900,302236909,302236910,302236911,302236912,302236913,302236914,302236915,302236916,302236950,302236959,302236960,302237007,302237008",
+        "freeformAddress": "Newnan Road, Griffin, GA",
+        "municipality": "Griffin",
+        "municipalitySubdivision": "Griffin",
+        "postalCode": "30223,30224",
+        "streetName": "Newnan Road"
+      },
+      "id": "US/STR/p0/11551181",
+      "position": {
+        "lat": 33.23879,
+        "lon": -84.40634
+      },
+      "score": 12.04061,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.23229,
+          "lon": -84.39476
+        },
+        "topLeftPoint": {
+          "lat": 33.25027,
+          "lon": -84.41627
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Spalding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Vaughn, Rover",
+        "extendedPostalCode": "302237001,302237003,302237004,302237005,302237006,302237019,302237044,302237045,302237047,302237050,302237056,302237057,302237059",
+        "freeformAddress": "Newnan Road, Griffin, GA",
+        "municipality": "Griffin",
+        "municipalitySubdivision": "Griffin",
+        "postalCode": "30223,30224",
+        "streetName": "Newnan Road"
+      },
+      "id": "US/STR/p0/11845167",
+      "position": {
+        "lat": 33.24091,
+        "lon": -84.37022
+      },
+      "score": 12.04061,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.23192,
+          "lon": -84.35895
+        },
+        "topLeftPoint": {
+          "lat": 33.2499,
+          "lon": -84.38046
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Spalding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Digbey",
+        "freeformAddress": "Newnan Road, Griffin, GA",
+        "municipality": "Griffin, Brooks",
+        "postalCode": "30205,30223",
+        "streetName": "Newnan Road"
+      },
+      "id": "US/STR/p0/12498992",
+      "position": {
+        "lat": 33.24601,
+        "lon": -84.43198
+      },
+      "score": 12.04061,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.24575,
+          "lon": -84.43107
+        },
+        "topLeftPoint": {
+          "lat": 33.24613,
+          "lon": -84.43295
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Spalding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Griffin, Rover",
+        "extendedPostalCode": "302237002,302237109,302237110,302237111,302237112,302237113,302237114,302237115,302237130,302237188,302237189,302237190,302237191,302237199,302238336,302238337",
+        "freeformAddress": "Newnan Road, Griffin, GA 30223",
+        "municipality": "Griffin",
+        "municipalitySubdivision": "Griffin",
+        "postalCode": "30223",
+        "streetName": "Newnan Road"
+      },
+      "id": "US/STR/p0/12805418",
+      "position": {
+        "lat": 33.24062,
+        "lon": -84.3394
+      },
+      "score": 12.04061,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.23106,
+          "lon": -84.32838
+        },
+        "topLeftPoint": {
+          "lat": 33.24904,
+          "lon": -84.34989
+        }
+      }
+    }
+  ],
+  "search_address": "1435 Highway 16 W Griffin GA 30223",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 6,
+    "offset": 0,
+    "query": "1435 highway 16 w griffin ga 30223",
+    "queryTime": 244,
+    "queryType": "NON_NEAR",
+    "totalResults": 268
+  }
+}

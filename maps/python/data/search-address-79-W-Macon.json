@@ -1,0 +1,113 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Macon-Bibb County",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Macon West",
+        "freeformAddress": "4635 Presidential Parkway, Macon, GA 31206",
+        "localName": "Macon",
+        "municipality": "Macon",
+        "municipalitySubdivision": "Macon, Macon-Bibb County",
+        "postalCode": "31206",
+        "streetName": "Presidential Parkway",
+        "streetNumber": "4635"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 32.8208,
+            "lon": -83.71302
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 32.82156,
+            "lon": -83.71223
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.82214,
+            "lon": -83.7141
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.82121,
+            "lon": -83.71391
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/39576360",
+      "position": {
+        "lat": 32.82267,
+        "lon": -83.71343
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.82177,
+          "lon": -83.71236
+        },
+        "topLeftPoint": {
+          "lat": 32.82357,
+          "lon": -83.7145
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Macon-Bibb County",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Macon West",
+        "extendedPostalCode": "3120687,3120698,312068708,312068712,312068716,312068717,312068718,312068719,312068720,312068721,312068724,312068725,312068726,312068727,312068728,312068746,312068747,312068748,312068749,312068750,312068753,312068754,312068757,312069804",
+        "freeformAddress": "Presidential Parkway, Macon, GA 31206",
+        "municipality": "Macon",
+        "municipalitySubdivision": "Macon, Macon-Bibb County",
+        "postalCode": "31206",
+        "streetName": "Presidential Parkway"
+      },
+      "id": "US/STR/p0/11948337",
+      "position": {
+        "lat": 32.81679,
+        "lon": -83.71449
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.80818,
+          "lon": -83.70417
+        },
+        "topLeftPoint": {
+          "lat": 32.82617,
+          "lon": -83.72557
+        }
+      }
+    }
+  ],
+  "search_address": "4635 Presidential Pkwy Macon GA 31206",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 2,
+    "offset": 0,
+    "query": "4635 presidential pkwy macon ga 31206",
+    "queryTime": 72,
+    "queryType": "NON_NEAR",
+    "totalResults": 2
+  }
+}

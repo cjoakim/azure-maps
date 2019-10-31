@@ -1,0 +1,210 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Woodstock",
+        "freeformAddress": "9037 Highway 92, Woodstock, GA 30189",
+        "localName": "Woodstock",
+        "municipality": "Woodstock",
+        "municipalitySubdivision": "Woodstock",
+        "postalCode": "30189",
+        "streetName": "Highway 92",
+        "streetNumber": "9037"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.08551,
+            "lon": -84.53796
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.08544,
+            "lon": -84.54071
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.08546,
+            "lon": -84.53984
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.0856,
+            "lon": -84.53888
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/29098830",
+      "position": {
+        "lat": 34.08658,
+        "lon": -84.53834
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.08568,
+          "lon": -84.53725
+        },
+        "topLeftPoint": {
+          "lat": 34.08748,
+          "lon": -84.53943
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Woodstock",
+        "extendedPostalCode": "301893401,301893402,301893406,301893452,301893465,301893467,301893470,301893472,301893473,301893480,301893481,301893482,301893483,301893484,301893485,301893499,301893513,301893514,301893546,301893597,301893617,301893623,301893649,301893650,301893671,301893672,301893673,301893674,301893686,301893689,301893691,301893693,301893697,301893698,301893701,301893718,301893722,301893726,301893752,301893753,301895205,301895209,301895210,301895231,301895232,301895233,301895235,301895237,301895238,301895303,301895371,301895378,301896504,301896506,301896507,301896508,301896509,301896513,301896514,301896515,301896516,301896520",
+        "freeformAddress": "Highway 92, Woodstock, GA 30189",
+        "municipality": "Woodstock",
+        "municipalitySubdivision": "Woodstock",
+        "postalCode": "30189",
+        "streetName": "Highway 92"
+      },
+      "id": "US/STR/p0/5723117",
+      "position": {
+        "lat": 34.08534,
+        "lon": -84.55602
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.07692,
+          "lon": -84.54529
+        },
+        "topLeftPoint": {
+          "lat": 34.0949,
+          "lon": -84.567
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Woodstock",
+        "freeformAddress": "Highway 92, Woodstock, GA",
+        "municipality": "Woodstock, Acworth",
+        "postalCode": "30102,30189",
+        "streetName": "Highway 92"
+      },
+      "id": "US/STR/p0/7244537",
+      "position": {
+        "lat": 34.08678,
+        "lon": -84.57217
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.08678,
+          "lon": -84.57217
+        },
+        "topLeftPoint": {
+          "lat": 34.08685,
+          "lon": -84.57243
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Woodstock",
+        "freeformAddress": "Kellogg Creek Road, Woodstock, GA 30189",
+        "municipality": "Woodstock",
+        "postalCode": "30189",
+        "streetName": "Kellogg Creek Road"
+      },
+      "id": "US/STR/p0/7243897",
+      "position": {
+        "lat": 34.1199,
+        "lon": -84.58557
+      },
+      "score": 9.95478,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.11989,
+          "lon": -84.58551
+        },
+        "topLeftPoint": {
+          "lat": 34.11993,
+          "lon": -84.58564
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Woodstock",
+        "freeformAddress": "Highway 92 & Woodstock Square Avenue, Woodstock, GA 30189",
+        "municipality": "Woodstock",
+        "municipalitySubdivision": "Woodstock",
+        "postalCode": "30189",
+        "streetName": "Highway 92, Georgia 92, State Route-92, Georgia State Route 92 & Woodstock Square Avenue"
+      },
+      "id": "US/XSTR/p1/5906389",
+      "position": {
+        "lat": 34.0856,
+        "lon": -84.54273
+      },
+      "score": 8.8601,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.0847,
+          "lon": -84.54164
+        },
+        "topLeftPoint": {
+          "lat": 34.0865,
+          "lon": -84.54382
+        }
+      }
+    }
+  ],
+  "search_address": "9037 Hwy 92, Suite 100 Woodstock GA 30189",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "9037 hwy 92 suite 100 woodstock ga 30189",
+    "queryTime": 218,
+    "queryType": "NON_NEAR",
+    "totalResults": 188
+  }
+}

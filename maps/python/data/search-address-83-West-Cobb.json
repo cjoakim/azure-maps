@@ -1,0 +1,162 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "extendedPostalCode": "300642750",
+        "freeformAddress": "2350 Dallas Highway Southwest, Marietta, GA 30064",
+        "localName": "Marietta",
+        "municipality": "Marietta",
+        "municipalitySubdivision": "Marietta",
+        "postalCode": "30064",
+        "streetName": "Dallas Highway Southwest",
+        "streetNumber": "2350"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.9461,
+            "lon": -84.61973
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.9462,
+            "lon": -84.62101
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/32967740",
+      "position": {
+        "lat": 33.94866,
+        "lon": -84.61958
+      },
+      "score": 11.96183,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94776,
+          "lon": -84.6185
+        },
+        "topLeftPoint": {
+          "lat": 33.94956,
+          "lon": -84.62066
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "freeformAddress": "Dallas Highway, Marietta, GA",
+        "municipality": "Marietta, Powder Springs",
+        "postalCode": "30064,30127",
+        "streetName": "Dallas Highway"
+      },
+      "id": "US/STR/p0/60795",
+      "position": {
+        "lat": 33.94492,
+        "lon": -84.68683
+      },
+      "score": 10.27255,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94492,
+          "lon": -84.68675
+        },
+        "topLeftPoint": {
+          "lat": 33.94493,
+          "lon": -84.68683
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Marietta, Acworth-Kennesaw",
+        "freeformAddress": "Dallas Highway Southwest, Marietta, GA 30064",
+        "municipality": "Marietta",
+        "postalCode": "30064",
+        "streetName": "Dallas Highway Southwest"
+      },
+      "id": "US/STR/p0/60948",
+      "position": {
+        "lat": 33.94546,
+        "lon": -84.60881
+      },
+      "score": 10.22822,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94546,
+          "lon": -84.60881
+        },
+        "topLeftPoint": {
+          "lat": 33.94547,
+          "lon": -84.60891
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "freeformAddress": "Dallas Highway Southwest, Marietta, GA 30064",
+        "municipality": "Marietta",
+        "postalCode": "30064",
+        "streetName": "Dallas Highway Southwest"
+      },
+      "id": "US/STR/p0/4887758",
+      "position": {
+        "lat": 33.94496,
+        "lon": -84.68654
+      },
+      "score": 10.22822,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94493,
+          "lon": -84.68639
+        },
+        "topLeftPoint": {
+          "lat": 33.94497,
+          "lon": -84.68675
+        }
+      }
+    }
+  ],
+  "search_address": "2350 Dallas Hwy Marietta GA 30064",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "2350 dallas hwy marietta ga 30064",
+    "queryTime": 117,
+    "queryType": "NON_NEAR",
+    "totalResults": 79
+  }
+}

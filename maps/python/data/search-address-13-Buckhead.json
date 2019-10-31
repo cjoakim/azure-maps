@@ -1,0 +1,200 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "freeformAddress": "2525 Piedmont Road Northeast, Atlanta, GA 30324",
+        "localName": "Atlanta",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, Lindbergh Morosgo",
+        "postalCode": "30324",
+        "streetName": "Piedmont Road Northeast",
+        "streetNumber": "2525"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.8246,
+            "lon": -84.36713
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.82467,
+            "lon": -84.36543
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/1767780",
+      "position": {
+        "lat": 33.82454,
+        "lon": -84.36545
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.82364,
+          "lon": -84.36437
+        },
+        "topLeftPoint": {
+          "lat": 33.82544,
+          "lon": -84.36653
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303244115,303244117,303244153",
+        "freeformAddress": "Piedmont Road Northeast, Atlanta, GA 30324",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, Piedmont Heights, Lindridge Martin Manor",
+        "postalCode": "30324",
+        "streetName": "Piedmont Road Northeast"
+      },
+      "id": "US/STR/p0/97179",
+      "position": {
+        "lat": 33.80952,
+        "lon": -84.36593
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.80746,
+          "lon": -84.36582
+        },
+        "topLeftPoint": {
+          "lat": 33.81141,
+          "lon": -84.3668
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "freeformAddress": "Piedmont Avenue Northeast, Atlanta, GA 30324",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, Piedmont Heights, Lindridge Martin Manor",
+        "postalCode": "30324",
+        "streetName": "Piedmont Avenue Northeast"
+      },
+      "id": "US/STR/p0/1400602",
+      "position": {
+        "lat": 33.80823,
+        "lon": -84.36591
+      },
+      "score": 12.10257,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.80813,
+          "lon": -84.36586
+        },
+        "topLeftPoint": {
+          "lat": 33.80846,
+          "lon": -84.36593
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "3032458,303092772,303093389,303243884,303244543,303244550,303244816,303244837,303244838,303244839,303244840,303244856,303244863,303244864,303244866,303244868,303244869,303244870,303244874,303244875,303244876,303244877,303244878,303244879,303244881,303244882,303244883,303244884,303244885,303244886,303244892,303244893,303244895,303244896,303244897,303244898,303244899,303244907,303244971,303244972,303244974,303244975,303244976,303244992,303244993,303244994,303244995,303244997,303244998,303244999,303245000,303245009,303245010,303245011,303245018,303245021,303245023,303245024,303245032,303245035,303245038,303245040,303245043,303245044,303245045,303245046,303245081,303245115,303245116,303245118,303245133,303245140,303245141,303245142,303245143,303245144,303245145,303245147,303245149,303245150,303245151,303245152,303245153,303245154,303245155,303245156,303245157,303245158,303245159,303245160,303245161,303245162,303245163,303245164,303245165,303245166,303245167,303245168,303245169,303245170,303245171,303245172,303245173,303245174,303245175,303245176,303245200,303245210,303245211,303245212,303245213,303245214,303245215,303245238,303245239,303245240,303245241,303245242,303245243,303245244,303245245,303245246,303245247,303245248,303245249,303245250,303245251,303245252,303245253,303245256,303245257,303245266,303245267,303245269,303245270,303245271,303245272,303245273,303245274,303245295,303245298,303245299,303245800,303245801,303245802,303245805,303245806,303245807,303245808,303245809,303245810,303245811,303245812,303245813,303245814,303245815",
+        "freeformAddress": "Piedmont Avenue Northeast, Atlanta, GA",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, Piedmont Heights, Morningside Lenox Park",
+        "postalCode": "30309,30324",
+        "streetName": "Piedmont Avenue Northeast"
+      },
+      "id": "US/STR/p0/5721495",
+      "position": {
+        "lat": 33.80126,
+        "lon": -84.36751
+      },
+      "score": 12.10257,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.79234,
+          "lon": -84.35769
+        },
+        "topLeftPoint": {
+          "lat": 33.81032,
+          "lon": -84.37933
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303245106,303245107,303245108,303245109,303245112,303245134,303245135,303245136",
+        "freeformAddress": "Allen Road Northeast, Atlanta, GA 30324",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, Piedmont Heights",
+        "postalCode": "30324",
+        "streetName": "Allen Road Northeast"
+      },
+      "id": "US/STR/p0/1401608",
+      "position": {
+        "lat": 33.80315,
+        "lon": -84.37051
+      },
+      "score": 11.85766,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.80241,
+          "lon": -84.3688
+        },
+        "topLeftPoint": {
+          "lat": 33.8043,
+          "lon": -84.37266
+        }
+      }
+    }
+  ],
+  "search_address": "2525 Piedmont Road Ne Atlanta GA 30324",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "2525 piedmont road ne atlanta ga 30324",
+    "queryTime": 298,
+    "queryType": "NON_NEAR",
+    "totalResults": 132
+  }
+}

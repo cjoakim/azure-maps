@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "extendedPostalCode": "300478417",
+        "freeformAddress": "4121 Stone Mountain Highway, Lilburn, GA 30047",
+        "localName": "Lilburn",
+        "municipality": "Lilburn",
+        "municipalitySubdivision": "Lilburn",
+        "postalCode": "30047",
+        "streetName": "Stone Mountain Highway",
+        "streetNumber": "4121"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.83639,
+            "lon": -84.0721
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.83615,
+            "lon": -84.07302
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.83704,
+            "lon": -84.07636
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.83557,
+            "lon": -84.07478
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.83765,
+            "lon": -84.07528
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.83641,
+            "lon": -84.0722
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/23157392",
+      "position": {
+        "lat": 33.83733,
+        "lon": -84.07277
+      },
+      "score": 11.61063,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.83643,
+          "lon": -84.07169
+        },
+        "topLeftPoint": {
+          "lat": 33.83823,
+          "lon": -84.07385
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Highway 78 West, Lilburn, GA",
+        "municipality": "Lilburn, Snellville",
+        "postalCode": "30039,30047",
+        "streetName": "Highway 78 West"
+      },
+      "id": "US/STR/p0/6433182",
+      "position": {
+        "lat": 33.84188,
+        "lon": -84.06065
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.84168,
+          "lon": -84.06015
+        },
+        "topLeftPoint": {
+          "lat": 33.84212,
+          "lon": -84.06107
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "extendedPostalCode": "300473335,300473336,300473337,300473338,300473339,300473340,300473343,300473364,300473379,300473380,300473381,300478416,300478417,300478418,300478419,300478424,300478427",
+        "freeformAddress": "Stone Mountain Highway, Lilburn, GA 30047",
+        "municipality": "Lilburn",
+        "municipalitySubdivision": "Lilburn",
+        "postalCode": "30047",
+        "streetName": "Stone Mountain Highway"
+      },
+      "id": "US/STR/p0/449944",
+      "position": {
+        "lat": 33.83545,
+        "lon": -84.07403
+      },
+      "score": 9.87296,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.83472,
+          "lon": -84.06937
+        },
+        "topLeftPoint": {
+          "lat": 33.83769,
+          "lon": -84.07924
+        }
+      }
+    }
+  ],
+  "search_address": "4121 Highway 78 Lilburn GA 30047",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "4121 highway 78 lilburn ga 30047",
+    "queryTime": 162,
+    "queryType": "NON_NEAR",
+    "totalResults": 57
+  }
+}

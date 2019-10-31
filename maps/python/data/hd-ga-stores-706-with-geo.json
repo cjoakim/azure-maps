@@ -1,0 +1,306 @@
+[
+  {
+    "area_code": "706",
+    "city": "Athens",
+    "city_state_zip": "Athens GA 30606",
+    "location": {
+      "lat": 33.91815,
+      "lon": -83.4271
+    },
+    "name": "Athens",
+    "phone": "(706)353-6079",
+    "search_address": "1740 Epps Bridge Rd Athens GA 30606",
+    "state": "GA",
+    "store_num": 4,
+    "street": "1740 Epps Bridge Rd",
+    "zip": "30606"
+  },
+  {
+    "area_code": "706",
+    "city": "Augusta",
+    "city_state_zip": "Augusta GA 30907",
+    "location": {
+      "lat": 33.50184,
+      "lon": -82.0906
+    },
+    "name": "Augusta",
+    "phone": "(706)650-7662",
+    "search_address": "499 Bobby Jones Expy Ste B Augusta GA 30907",
+    "state": "GA",
+    "store_num": 5,
+    "street": "499 Bobby Jones Expy Ste B",
+    "zip": "30907"
+  },
+  {
+    "area_code": "706",
+    "city": "Evans",
+    "city_state_zip": "Evans GA 30809",
+    "location": {
+      "lat": 33.5361,
+      "lon": -82.13173
+    },
+    "name": "Augusta North",
+    "phone": "(706)854-7832",
+    "search_address": "520 N Belair Road Evans GA 30809",
+    "state": "GA",
+    "store_num": 6,
+    "street": "520 N Belair Road",
+    "zip": "30809"
+  },
+  {
+    "area_code": "706",
+    "city": "Blairsville",
+    "city_state_zip": "Blairsville GA 30512",
+    "location": {
+      "lat": 34.87662,
+      "lon": -83.96127
+    },
+    "name": "Blairsville",
+    "phone": "(706)781-1865",
+    "search_address": "17 Highway 515 Blairsville GA 30512",
+    "state": "GA",
+    "store_num": 9,
+    "street": "17 Highway 515",
+    "zip": "30512"
+  },
+  {
+    "area_code": "706",
+    "city": "Blue Ridge",
+    "city_state_zip": "Blue Ridge GA 30513",
+    "location": {
+      "lat": 34.87754,
+      "lon": -84.32243
+    },
+    "name": "Blue Ridge",
+    "phone": "(706)258-3555",
+    "search_address": "10012 Blueridge Drive Blue Ridge GA 30513",
+    "state": "GA",
+    "store_num": 10,
+    "street": "10012 Blueridge Drive",
+    "zip": "30513"
+  },
+  {
+    "area_code": "706",
+    "city": "Calhoun",
+    "city_state_zip": "Calhoun GA 30701",
+    "location": {
+      "lat": 34.47477,
+      "lon": -84.92061
+    },
+    "name": "Calhoun",
+    "phone": "(706)629-2509",
+    "search_address": "1280 Curtis Pkwy Calhoun GA 30701",
+    "state": "GA",
+    "store_num": 15,
+    "street": "1280 Curtis Pkwy",
+    "zip": "30701"
+  },
+  {
+    "area_code": "706",
+    "city": "Clayton",
+    "city_state_zip": "Clayton GA 30525",
+    "location": {
+      "lat": 34.85599,
+      "lon": -83.40614
+    },
+    "name": "Clayton,GA",
+    "phone": "(706)782-4664",
+    "search_address": "1551 Hwy 441 South Clayton GA 30525",
+    "state": "GA",
+    "store_num": 21,
+    "street": "1551 Hwy 441 South",
+    "zip": "30525"
+  },
+  {
+    "area_code": "706",
+    "city": "Columbus",
+    "city_state_zip": "Columbus GA 31909",
+    "location": {
+      "lat": 32.52469,
+      "lon": -84.94944
+    },
+    "name": "Columbus",
+    "phone": "(706)322-9240",
+    "search_address": "2891 Sowega Dr Columbus GA 31909",
+    "state": "GA",
+    "store_num": 22,
+    "street": "2891 Sowega Dr",
+    "zip": "31909"
+  },
+  {
+    "area_code": "706",
+    "city": "Commerce",
+    "city_state_zip": "Commerce GA 30529",
+    "location": {
+      "lat": 34.25515,
+      "lon": -83.46867
+    },
+    "name": "Commerce,GA",
+    "phone": "(706)335-5883",
+    "search_address": "230 Steven B Tanger Blvd Commerce GA 30529",
+    "state": "GA",
+    "store_num": 23,
+    "street": "230 Steven B Tanger Blvd",
+    "zip": "30529"
+  },
+  {
+    "area_code": "706",
+    "city": "Dahlonega",
+    "city_state_zip": "Dahlonega GA 30533",
+    "location": {
+      "lat": 34.47246,
+      "lon": -83.96779
+    },
+    "name": "Dahlone, GA",
+    "phone": "(706)867-9618",
+    "search_address": "140 Maxwell Lane Dahlonega GA 30533",
+    "state": "GA",
+    "store_num": 27,
+    "street": "140 Maxwell Lane",
+    "zip": "30533"
+  },
+  {
+    "area_code": "706",
+    "city": "Dalton",
+    "city_state_zip": "Dalton GA 30720",
+    "location": {
+      "lat": 34.79021,
+      "lon": -84.99934
+    },
+    "name": "Dalton",
+    "phone": "(706)278-8881",
+    "search_address": "875 Shugart Rd Dalton GA 30720",
+    "state": "GA",
+    "store_num": 28,
+    "street": "875 Shugart Rd",
+    "zip": "30720"
+  },
+  {
+    "area_code": "706",
+    "city": "Fort Oglethorpe",
+    "city_state_zip": "Fort Oglethorpe GA 30742",
+    "location": {
+      "lat": 34.94766,
+      "lon": -85.22983
+    },
+    "name": "Ft Oglethorpe",
+    "phone": "(706)858-0398",
+    "search_address": "2055 Battlefield Pkwy Fort Oglethorpe GA 30742",
+    "state": "GA",
+    "store_num": 36,
+    "street": "2055 Battlefield Pkwy",
+    "zip": "30742"
+  },
+  {
+    "area_code": "706",
+    "city": "Greensboro",
+    "city_state_zip": "Greensboro GA 30642",
+    "location": {
+      "lat": 33.54049,
+      "lon": -83.20638
+    },
+    "name": "Greensboro,GA",
+    "phone": "(706)454-1623",
+    "search_address": "2490 Meadow Crest Greensboro GA 30642",
+    "state": "GA",
+    "store_num": 38,
+    "street": "2490 Meadow Crest",
+    "zip": "30642"
+  },
+  {
+    "area_code": "706",
+    "city": "Hartwell",
+    "city_state_zip": "Hartwell GA 30643",
+    "location": {
+      "lat": 34.34798,
+      "lon": -82.90158
+    },
+    "name": "Hartwell,GA",
+    "phone": "(706)376-1748",
+    "search_address": "1700 Anderson Hwy Hartwell GA 30643",
+    "state": "GA",
+    "store_num": 41,
+    "street": "1700 Anderson Hwy",
+    "zip": "30643"
+  },
+  {
+    "area_code": "706",
+    "city": "Jasper",
+    "city_state_zip": "Jasper GA 30143",
+    "location": {
+      "lat": 34.46807,
+      "lon": -84.46239
+    },
+    "name": "Jasper, GA",
+    "phone": "(706)301-5615",
+    "search_address": "205 Bill Wigington Pkwy Jasper GA 30143",
+    "state": "GA",
+    "store_num": 42,
+    "street": "205 Bill Wigington Pkwy",
+    "zip": "30143"
+  },
+  {
+    "area_code": "706",
+    "city": "Lagrange",
+    "city_state_zip": "Lagrange GA 30241",
+    "location": {
+      "lat": 33.04011,
+      "lon": -84.98099
+    },
+    "name": "Lagrange",
+    "phone": "(706)882-9869",
+    "search_address": "1500 Layfayette Pkwy Lagrange GA 30241",
+    "state": "GA",
+    "store_num": 45,
+    "street": "1500 Layfayette Pkwy",
+    "zip": "30241"
+  },
+  {
+    "area_code": "706",
+    "city": "Rome",
+    "city_state_zip": "Rome GA 30161",
+    "location": {
+      "lat": 34.25408,
+      "lon": -85.1624
+    },
+    "name": "Rome",
+    "phone": "(706)236-9030",
+    "search_address": "103 Hicks Drive Rome GA 30161",
+    "state": "GA",
+    "store_num": 66,
+    "street": "103 Hicks Drive",
+    "zip": "30161"
+  },
+  {
+    "area_code": "706",
+    "city": "Thomaston",
+    "city_state_zip": "Thomaston GA 30286",
+    "location": {
+      "lat": 32.92215,
+      "lon": -84.33641
+    },
+    "name": "Thomaston",
+    "phone": "(706)648-4800",
+    "search_address": "1025 Hwy 19 North Thomaston GA 30286",
+    "state": "GA",
+    "store_num": 73,
+    "street": "1025 Hwy 19 North",
+    "zip": "30286"
+  },
+  {
+    "area_code": "706",
+    "city": "Toccoa",
+    "city_state_zip": "Toccoa GA 30577",
+    "location": {
+      "lat": 34.54518,
+      "lon": -83.28699
+    },
+    "name": "Toccoa,GA",
+    "phone": "(706)886-5390",
+    "search_address": "302 Memorial Drive Toccoa GA 30577",
+    "state": "GA",
+    "store_num": 75,
+    "street": "302 Memorial Drive",
+    "zip": "30577"
+  }
+]

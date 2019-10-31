@@ -1,0 +1,389 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "extendedPostalCode": "301174411",
+        "freeformAddress": "1332 South Park Street, Carrollton, GA 30117",
+        "localName": "Carrollton",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30117",
+        "streetName": "South Park Street",
+        "streetNumber": "1332"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.55264,
+            "lon": -85.07326
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.55139,
+            "lon": -85.07237
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.55325,
+            "lon": -85.07313
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.55396,
+            "lon": -85.07224
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/21449773",
+      "position": {
+        "lat": 33.55266,
+        "lon": -85.07176
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.55176,
+          "lon": -85.07068
+        },
+        "topLeftPoint": {
+          "lat": 33.55356,
+          "lon": -85.07284
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "extendedPostalCode": "301172262",
+        "freeformAddress": "1332 North Park Street, Carrollton, GA 30117",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30117",
+        "streetName": "North Park Street",
+        "streetNumber": "1332"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.60589,
+          "lon": -85.08251
+        },
+        "rangeLeft": "1332 - 1368",
+        "rangeRight": "1363 - 1369",
+        "to": {
+          "lat": 33.60579,
+          "lon": -85.08242
+        }
+      },
+      "id": "US/ADDR/p2/29595551",
+      "position": {
+        "lat": 33.60592,
+        "lon": -85.08247
+      },
+      "score": 13.63509,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.60579,
+          "lon": -85.08242
+        },
+        "topLeftPoint": {
+          "lat": 33.60589,
+          "lon": -85.08251
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "extendedPostalCode": "3011744,301173253,301173812,301173813,301173822,301173824,301173825,301173826,301173828,301173829,301173830,301173831,301173832,301173833,301173834,301173835,301173836,301173837,301173838,301173839,301173840,301173841,301173842,301173843,301173844,301173845,301173846,301173847,301173848,301173849,301173850,301173851,301173852,301173853,301173854,301173871,301173873,301173875,301173876,301173877,301173878,301173879,301173880,301173881,301173882,301173883,301173884,301173885,301173886,301173887,301174400,301174404,301174405,301174406,301174407,301174409,301174410,301174411,301174412,301174418,301174419,301174423,301174424,301174425,301174426,301174429,301174431,301174432,301174433,301174434,301174437,301174449,301174450,301174452,301174455,301174456,301174457,301174458,301174459,301174461,301174462,301174468,301174479,301174480,301174481,301174499,301174501,301176905,301178901",
+        "freeformAddress": "South Park Street, Carrollton, GA",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30116,30117",
+        "streetName": "South Park Street"
+      },
+      "id": "US/STR/p0/214933",
+      "position": {
+        "lat": 33.56508,
+        "lon": -85.07608
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.55606,
+          "lon": -85.06523
+        },
+        "topLeftPoint": {
+          "lat": 33.57404,
+          "lon": -85.08682
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "extendedPostalCode": "301172219,301172220,301172221,301172222,301172223,301172224,301172225,301172226,301172227,301172228,301172229,301172246,301172247,301172260,301172261,301172262,301172263,301172264,301172265,301172270,301172281,301172282,301172285,301172299,301172376,301172377,301172378,301172379,301172380,301172381,301172382,301172383,301172384,301172385,301172386,301172387,301172388,301172389,301172390,301172391,301172392,301172393,301172394,301172395,301173023,301173028,301173029,301173030,301173031,301173032,301173033,301173034,301173035,301173056,301173057,301177506,301177526,301178342,301178369,301178370,301178739",
+        "freeformAddress": "North Park Street, Carrollton, GA 30117",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30117",
+        "streetName": "North Park Street"
+      },
+      "id": "US/STR/p0/10295092",
+      "position": {
+        "lat": 33.59606,
+        "lon": -85.07932
+      },
+      "score": 12.09621,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.58768,
+          "lon": -85.07281
+        },
+        "topLeftPoint": {
+          "lat": 33.60566,
+          "lon": -85.0944
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "extendedPostalCode": "301175437,301176700,301176701,301177507,301177523,301178339,301178340,301178341,301178792,301179306,301179348,301179361",
+        "freeformAddress": "North Highway 27, Carrollton, GA 30117",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30117",
+        "streetName": "North Highway 27"
+      },
+      "id": "US/STR/p0/3965539",
+      "position": {
+        "lat": 33.62058,
+        "lon": -85.09735
+      },
+      "score": 11.7883,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.61069,
+          "lon": -85.08696
+        },
+        "topLeftPoint": {
+          "lat": 33.62868,
+          "lon": -85.10855
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hillsborough",
+        "countrySubdivision": "FL",
+        "countrySubdivisionName": "Florida",
+        "countryTertiarySubdivision": "Wimauma-Riverview, Plant City, Palm River-Gibsonton, Brandon",
+        "freeformAddress": "Valrico, FL",
+        "municipality": "Valrico, Tampa, Seffner, Riverview, Dover",
+        "municipalitySubdivision": "South Ridge, Colony South, Raulerson Estates South, Glen Oaks South, Lakewood Ridge Estates South, Varn Park, Seffner Park, Park Meadow, Oakmont Park, Melodie Park, Lynwood Park, Legacy Park, Grove Park, Eden Park, Carriage Park, Brandon Park, Shady Oaks Park, Larrie Ellen Park, Brandon Terrace Park, Brandon Lake Park, East Lake-Orient Park, Carrollton, Country Gate, Saint Cloud Reserve, Saint Cloud Oaks, Saint Cloud Manor, Saint Cloud Landings, Yates Estates, Woodmere Heights, Woodland Acres, Woodbery Estates, Winston Manor, Windwood Hills, Windhorst Village, Windcrest Commons, Winchester Woods, Williams Road Mobile Villa, Williams Crossing, Wildwood Hollow, Whitlock, Wheelers Landing, Wheeler Road, Wheeler Oaks, Wheeler Oak, Wheeler Groves, Wheeler Crossings, Westwood, Westminster, Wellington, Welikit Retreat, Watermill at Providence Lakes, Waldrop Estates, Walden Groves, Vista Cay, Vineyards, Victoria Place, Van Sant, Valrico Woodland, Valrico Vista, Valrico Village, Valrico Oaks, Valrico Manor, Valrico Lake Estates, Valrico Highlands, Valrico Heights Estates, Valrico Heights, Valrico Groves, Valrico Forest, Valrico, Valley View Garden Homes, Val Villa, Trails at Durant, Toole Place, Timber Pond, Timber Knoll, Timber Creek, Thousand Oaks Executive Estates, Thonotosassa, Thompson Oaks, The Winds, The Willows, The Groves North, The Estates at Bloomingdale, The Dryden Estates, Taylor Bay Estates, Tanglewood, Tangelo, Sylvia Manor, Sylvan Terrace, Sunway, Sunrise Manor, Suncrest Estates, Sugarloaf Ridge, Suburban Club Estates, Stratford, Stonewood, Stone Hollow, Stevens Manor, Sterling Ranch, Springdell Estates, Southwood Hills, Southern Oaks Grove, Sosa Estates, Somerset, Sisson Heights, Siloam Springs Wood, Sierra Estates, Shoals, Sheffield East, Shady Stables, Shady Hollow, Shadow Bay, Seffner Ridge Estates, Seffner Heights, Seffner, Scanlon Country Estates, Sara Anna Estates, Royal Oaks, Royal Manor, Royal Crest Estates, Rolling Oaks, Rolling Meadows, Rolling Acres, Riverwoods Hammock, Riverview, River Rapids, Ridge Dale, Ridge Court, Ravenwood, Raven Oaks, Raulerson Estates North, Random Oaks, Ranch Road Groves, Providence Oaks, Providence Lakes, Presidential Manor, Ponderosa, Plantation Estates, Pine Lawn Terrace, Pine Landing Villas, Phillips Estates, Perrywood, Peppermill at Providence Lakes, Pemberton Place, Peebles Place, Pats, Parsons Reserve, Parsons Pointe, Parkwood Manor, Parkland Estates East, Parkland, Palm River-Clair Mel, Paka Estates, Orangewood, Orangeland, Olympus Acres, Old Hillsborough Estates, Oakwood Ravine, Oakwood Knoll, Oakwood Heights, Oakwood Forest, Oaks at Valrico, Oakridge Manor, Oakmont Manor, Oaklane Estates, Oaklan, Oakbriar, Oak Valley, Oak Ridge Terrace, Oak Regency, Oak Mont Woods, Oak Mont, Oak Landing, Oak Glen, North Hill, Murray Acres, Mulrennan Groves North, Montclair Meadow, Mobile Riviera, Mirror Lake, Mirror Crest, Miller Woods, Memory Lane, Melanie Manor, Meadowood Estates, Meadow Woods Reserve, Meadow Ridge Estates, Mcintosh Country Acres, McIntosh Oaks, Marvinia Hills, Martin, Marphil Manor, Marlyn Manor, Mango Terrace, Mango Hills, Mango Groves, Mango, Magnolias at Dawn, Magnolia Mobile Manor, Lumsden Trace, Lumsden Pointe, Loral, Long Pond, Lithia Ridge, Limona, Leonard, Legends Pass, Lazy Lane Estates, Lawndale, Las Brisas, Lakewood Ridge Estates North, Lakewood Hills, Lakemont Hills, Lakemont, Lake Weeks, Lake June Estates, Lake Brandon, La Viva, Krebs, Krause Farms, Knifke Estates, Kingswood Heights, Kingsway Oaks, Kingsway Heights, Kingsway Gardens, Kingsway Downs, Kingsway, Kingstowne Place, Kings Row, Kings Mill, Kim Acres, Kenwood Acres, Kennedy Hill, Keebler, Kalebs Forest, Jordan Oaks, Jess Walden Oaks, Jerrys, Jerkins Acres, Jaudon Ranch Estates, Jacobs Place, Irvine Heights, Innergary Point, Indian Trails, Indian Hills, Huntington Woods, Hunters Cove, Hunter Place, Hudsons Haven, Hudson Estates, Hollowtree, Hollington Oaks, Holiday Hills, Hinson Acres, Hillside Manor, Hillsborough Avenue Farms, Hilldale Heights of Brandon, Hillcrest, Highland Ridge, Highland Oaks, Highland Manor, Highland Grove Estates, High View Terrace, High Point Estates, High Oaks Manor, Hidden Lakes Estates, Hidden Forest East, Hidden Forest, Hickory Woods, Hickory Ridge, Hickory Lakes Manor, Hickory Lakes, Hickory Lake Estates, Hickory Hill, Hickory Highlands, Hickory Hammock, Hickory Creek, Heritage Crest, Harvest Field, Harder Oaks, Happy Homes, Greenhills, Greenfield Terrace, Greenewood, Graystone, Gornto Lake, Gold Coast, Goins Terrace, Garden Oaks, Gallery Gardens, Frye, Four Winds Estates, Fleites Acres, Fishers Farms, Fish Hawk, Fernwood Terrace, Faulkenburg Heights, Fairway Ridge, Fairway One, Fairlea Estates, Everina Homes, Estates at Parsons Pointe, Estates at Limona Woods, Ellsworth, Eleven Mile Hill, Eden Wood, Echo Acres, Eastwood Glenn, Eastwood, Eastside Mobile Villa, Eastmonte, Eastlyn, Eastern Terrace Estates, East Brandon Heights, East Brandon Estates, Eaglewood Estates, Durant Woods, Durant Trails, Durant Oaks, Durant, Duncan Groves, Drakes Place, Dovewood Estates, Dover Woods, Dover Oaks, Dogwood Hills, Dixons, Dixie View, Diamond Hill, Delarua, Darby Lake, Crestwood Estates, Countryside Manor, Cottagewood Oaks, Copper Ridge, Colony Hill Estates, Colonial Oaks, Colonial Heights, College Hill Woods, Clayton, Citrus Wood, Citrus Oaks, Cinnamon Trace, Cimarron, Cien Fuegos, Childers, Chickasaw Meadows, Chestnut Forest, Chelsea Woods, Chelsea Manor, Cedar Grove, Castlewood Oaks, Cashin Oaks, Cash Acres, Casa de Sol, Carriage Crossing, Canterbury Oaks, Canter, Campos Valrico, Camelot Woods, Camelot, Camellia Court, Camden Oaks, Cambridge Place, Butler Acres, Burlington Woods, Burlington Heights, Buckingham Place, Buckingham, Buckhorn Trace, Buckhorn Springs Mobile Villa, Buckhorn Springs Manor, Buckhorn Run, Buckhorn Preserve, Buckhorn Oaks, Buckhorn Hills, Buckhorn Groves, Buckhorn Golf Club Estates, Buckhorn Creek, Buckhorn, Bryant Terrace, Bryan Oaks Reserve, Bryan Oaks, Bryan Manor, Brooker Trace, Brock Acres, Broadway Heights East, Brentwood Hills, Breezy Meadows, Brandontree, Brandon Woodlands, Brandon Village, Brandon View Estates, Brandon Valrico Hills Estates, Brandon Valley, Brandon Tradewinds, Brandon Traces, Brandon Spanish Oaks, Brandon Ridgeland, Brandon Ridge, Brandon Oak Grove Estates, Brandon Mobile Villa, Brandon Meadows, Brandon Lakewood Estates, Brandon Lakes, Brandon Hills, Brandon Groves North, Brandon Groves, Brandon Grove Estates, Brandon Gardens, Brandon Forest Reserve, Brandon Forest, Brandon Estates, Brandon East, Brandon Crossroads, Brandon Country Estates, Brandon Brook Plaza, Brandon Brook, Branda Vista, Bonterra, Bloomingdale Villas, Bloomingdale Village, Bloomingdale Trails, Bloomingdale, Big Pines, Bent Tree Estates, Bent Tree, Benson, Belle Timbre, Bell Shoals Gardens, Bates, Barrington Oaks East, Avalon at Providence Lakes, Austin Oaks, Arista, Arbor Acres, Anselmi Acres, Amys Acres, American Gardens, Amaya Estates, Allendale, Alexandria Place, Alafia Estates, Abbey Trace, Abbey Grove"
+      },
+      "boundingBox": {
+        "btmRightPoint": {
+          "lat": 27.85725,
+          "lon": -82.12389
+        },
+        "topLeftPoint": {
+          "lat": 28.03615,
+          "lon": -82.37298
+        }
+      },
+      "dataSources": {
+        "geometry": {
+          "id": "00005858-5800-4600-0000-00007738256d"
+        }
+      },
+      "entityType": "MunicipalitySubdivision",
+      "id": "US/GEO/p0/280768",
+      "position": {
+        "lat": 27.9467,
+        "lon": -82.24844
+      },
+      "score": 10.57007,
+      "type": "Geography",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 27.85725,
+          "lon": -82.12389
+        },
+        "topLeftPoint": {
+          "lat": 28.03615,
+          "lon": -82.37298
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Baltimore County, Baltimore City, Anne Arundel",
+        "countrySubdivision": "MD",
+        "countrySubdivisionName": "Maryland",
+        "countryTertiarySubdivision": "District 9, District 8, District 3, District 2, District 15, District 14, District 13, District 12, District 11, District 1, Baltimore",
+        "freeformAddress": "Woodstock, MD",
+        "municipality": "Woodstock, Windsor Mill, Stevenson, Sparrows Point, Rosedale, Owings Mills, Nottingham, Middle River, Lutherville Timonium, Linthicum Heights, Harmans, Hanover, Halethorpe, Gwynn Oak, Glen Arm, Fort Howard, Essex, Ellicott City, Elkridge, Curtis Bay, Catonsville, Brooklyn, Baltimore",
+        "municipalitySubdivision": "South Clifton Park, South Baltimore, Huntsmoor South, Carroll-South Hilton, Wyman Park, Wilson Park, Wilhelm Park, Weyburn Park, Westview Park, Towson Park, Summit Park, Sudbrook Park, Seneca Park, Riverwood Park, Revere Park, Porters Park, Patterson Park, Patapsco Park, Park Lane, Park Circle, Oakland Park, Oak Park, Norwood Park, Morrell Park, Morgan Park, Montebello Park, McElderry Park, Madison Park, Lucille Park, Kenwood Park, Kenilworth Park, Hyde Park, Howard Park, Hillendale Park, Harlem Park, Harford Park, Harewood Park, Grove Park, Graceland Park, Glenside Park, Glenmore Park, Gallagher Park, Forest Park, Evergreen Park, Denmore Park, Darley Park, Colonial Park, Clifton Park, Chesaco Park, Carroll Park, Brooklyn Park, Beaumont Park, West Forest Park, Seton Business Park, Perry Hall Park, Oak Forest Park, Mount Pleasant Park, Herring Run Park, Garden Village Park, Ellwood Park-Monument, Druid Hill Park, Chinquapin Park-Belvedere, Central Park Heights, Central Forest Park, Middle Branch-Reedbird Parks, Gwynns Falls-Leakin Park, Forest Park Golf Course, North Roland Park-Poplar Hill, Concerned Citizens of Forest Park, Saint Paul, Saint Joseph's, Saint Helena, Saint Denis, Saint Agnes, Halcyon Gate, Gay Street, Essexshire Gate, Carrollton Ridge, Biddle Street, Silver Gate Village, Penrose-Fayette Street Outreach, Yorktown, Yorkleigh, York Ridge, Yale Heights, Wynnewood, Wyndhurst, Woodward Square, Woods at Bay Country, Woodring, Woodmoor, Woodmere, Woodlawn, Woodhome Heights, Woodcroft, Woodbrook, Woodbridge Valley, Woodbourne-McCabe, Woodbourne Heights, Woodberry, Winston-Govans, Winsten Estates, Windwood, Windsor Terrace, Windsor Mill Manor, Windsor Hills, Winchester, Wiltondale, Wilson Point, Wilson Heights, Willow Glen, Williamsburg, Williams Estates, Wildwood Beach, Whitemarsh Estates, White Marsh, Wetheredsville, Westport, Westowne, Westgate, Westfield, Westchester, West Twin River, West Hills, West Glen, West Edmondale, West Baltimore, West Arlington, Wellwood, Waverly, Waterford Place, Water View, Washington Village, Washington Hill, Wampler Village, Waltherson, Walden Circle, Walbrook, Wakefield, Violetville, Villages of Homeland, Village of Vanderway, Village of Pawner, Village of Cross Keys, Villa Nova, Villa Cresta, Victory Villa Gardens, Victory Villa, Van Dyke Manor, Valley Stream, Valewood at Hampton Gardens, Urbanwood, Upton, Upper Fells Point, Uplands, University of Maryland, Union Square, Twinridge, Tuscany-Canterbury, Turner, Turkey Point, Tremont, Towson Estates, Towson, Towanda-Grantley, Thornleigh, Thistle, The Willows of Ruxton, The Village, The Terraces, The Orchards, The Falls, The Colony, The Cloisters at Charles, The Beechs, Terrace View Estates, Ten Hills, Television Hill, Taylor Heights, Swan Point, Sunnyfield Estates, Summit Chase, Sue Creek Landing, Stony Beach, Stoney Beach, Stonewood-Pentwood-Winston, Stoneleigh, Stevenswood, Stevenson, Stemmers Run, Stansbury Estates, Stanbrook, Stadium Area, Spring Hill, Spring Gardens, Spring Garden Industrial Area, Southland Hills, Southfield at Whitemarsh, Sorrento Run, Sorrento, Sollers Point, Silvergate East, Silver Spring Station, Silver Meadow, Silver Manor, Silver Hill Farm, Shipley Hill, Sharp-Leadenhall, Shady Oaks, Severn, Seton Hill, Scotts Level, Satyr Hill Estates, Sandtown-Winchester, Sabina-Mattfeldt, SBIC, Ruxton Ridge, Ruxton Hills, Rutherford Green, Rossville, Roslyn, Rosemont Homeowners-Tenants, Rosemont East, Rosemont, Rosedale Terrace, Rosebank, Rollins View Green, Rolling Road Farms, Rolling Heights, Roland Terrace, Rognel Heights, Rodgers Forge, Rockwell, Rockland Run, Rockdale, Rockaway Beach, Riviera Beach, Riverside, Ridgeway, Ridgely's Delight, Ridgeleigh, Ridge Grove, Riderwood Hills, Riderwood, Ridervale, Richnor Springs, Richardson Mews, Reservoir Hill, Remington, Relay, Reisterstown Station, Randallstown, Ranchleigh, Ramona Beach, Ramblewood, Ralston, Radnor-Winston, Putty Hill, Purnell, Pumphrey, Pulaski Industrial Area, Providence, Powhatan Hill, Powhatan, Port Covington, Port Cherry Gardens Farm, Poppleton, Poplar, Pleasant View Gardens, Pineleigh, Pinedale, Pine Ridge, Pimlico Good Neighbors, Pimlico, Pickwick, Perryvale, Perry View, Perry Hall Village, Perry Hall Estates, Perry Hall, Perring Village, Perring Loch, Perkins Homes, Pennbrook, Penn-Fallsway, Penn North, Pen Lucy, Patterson Place, Patapsco Woods, Pasadena, Parkville Heights, Parkville, Parkview Woodbrook, Parktowne, Parkside Heights, Parkside, Paradise, Panway-Braddish Avenue, Owings Mills, Overlea, Otterbein, Original Northwood, Orchard Beach, Orangeville Industrial Area, Orangeville, Oliver Beach, Oliver, Oldtown, Oakleigh Manor, Oakleigh, Oaklee, Oakhurst, Oakenshawe, Oakdale, Oak Summit, Oak Hill, Oak Forest, O'Donnell Heights, Northwind Village, Northwest Community Action, North Wind Farms, North Wind, North Point Village, North Point, North Harford Road, North Bend, New Southwest-Mount Clare, New Northwood, Necker, Murray Hill, Mount Winans, Mount Wilson, Mount Vernon, Mount Royal, Mount Holly, Mount Clare, Mosher, Morgan State University, Moravia-Walther, Monumental, Montebello, Mondawmin, Milton-Montford, Mill Hill, Milford Mill, Milford, Midtown-Edmondson, Middlesex, Middleborough, Middle River, Middle East, Mid-Town Belvedere, Mid-Govans, Miami Beach, Merrymount, Melvale, Medfield, McDonogh, Mayfield, Martins Choice, Mars Estates, Marlywood, Maple Crest, Mansfield Woods, Malvern, Madison-Eastend, Lynnhurst, Lynnbrook, Lynn Acres, Lynch Point, Lutz Hill, Loyola-Notre Dame, Lowell Ridge, Long Meadows Estates, Long Beach Estates, Lodge Forest, Locust Point Industrial Area, Locust Point, Lochearn, Loch Raven Village, Loch Raven Heights, Loch Raven, Loch Hill, Little Italy, Linthicum, Linhigh, Liberty Square, Liberty Manor, Levindale, Len Mar Community, Leahigh, Laureldale, Lauraville, Latrobe Homes, Lansdowne-Baltimore Highlands, Langston Hughes, Lakeland, Lake Walker, Lake Evesham, Lake, Kresson, Knollwood, Knollview, Knoll Acres, Knettishall, Kingswood Common, Kings Ridge, Kings Court, Keyser Woods, Keswick, Kernewood, Julian Woods, Joseph Lee, Josenhans, Joppa View, Joppa Vale, Joppa Manor, Joppa Heights, Jonestown, Jones Valley, Jones Falls Area, Johnston Square, Johns Hopkins Homewood, Island View Beach, Irvington, Inverness, Inner Harbor, Idlewylde, Idlewood, Hunting Ridge, Hunting Lodge, Huntcrest Estates, Hudson Heights, Howardsville, Hopkins Landing, Hopkins Bayview, Homestead, Homeland, Hollins Market, Holland Hills, Hoes Heights, Hines Estates, Hilton Place, Hillsdale Green, Hillendale Farms, Hillendale, Hillen, Hillcrest, Hillbrook, Heritage Crossing, Heraldry Square, Helmsley Court, Hebbville, Haywood Heights, Hawthorne, Haver Hill, Harwood, Hartland Village, Hartland Run, Harristown, Harrington Manor, Harmony Hills, Harford-Echodale-Perring Parkway, Harford Hills, Harford Farms, Harewood, Harborview, Harbor Valley Estates, Hanlon-Longwood, Hampton Village, Hampton Gardens, Hampton East, Hampton, Hampden, Hallfield Manor, Hall Spring, Gwynns Falls, Guilford Manor, Guilford, Grimesdale, Grey Rock, Greenspring, Greenmount West, Greenmount Cemetery, Greenland Bch, Greengate, Greene Tree, Greenbrier, Greektown, Gray Manor, Gray Haven, Grange, Graceland, Govanstown, Goucher Woods, Goodnow Hill, Goldentree, Golden Ring, Glenmar Manor, Glenham-Belford, Glendale, Glenartney, Glen Oaks, Glen Ellen, Glen Burnie, Glen, Gilmor Homes, Garwyn Oaks, Garrison Farms, Garrison, Gardenville, Fulton, Fullerton Heights, Fullerton Farms, Fullerton, Frederick Village, Frederick Douglass Homes, Franklintown Road, Franklintown, Franklin Square, Frankford, Foxhall Farm, Fox Ridge Manor, Four Winds, Four By Four, Fort Howard, Fontana Village, Fishtown, Fields of Stevenson, Ferndale, Ferguson Meadows, Fells Point, Fellowship Forest, Federal Hill, Featherbed, Fallstaff, Falls Gable, Fairmont, Fairfield Homes, Fairfield Area, Fairfield, Fair Brook, Evergreen Lawn, Evergreen, Euclid Heights, Essexshire, Essex, English Consul, Elmwood, Ednor Gardens-Lakeside, Edmondson Village, Edmondson Ridge, Edgewater, Edgemere, Eden Roc, Eastwood, Eastfield, Easterwood, Eastern Terrace, East Brooklyn, East Baltimore Midway, East Arlington, Eagle Nest, Dundee Village, Dundalk, Dunbar-Broadway, Dumbarton, Druid Heights, Drexel Woods, Downtown Baltimore, Dorchester Heights, Dorchester, Donnybrook, Dolfield, Dogwood Hills, Dixon Hill, Dickeyville, Dembeigh Hill, Defense Heights, Daybreak Estates, Darleigh Manor, Curtis Bay Industrial Area, Cunninghill Cove, Cub Hills, Cub Hill Farms, Cub Hill, Cross Keys, Cross Country, Cromwood, Cromwell Woods, Cromwell Station, Cranwood, Cowdensville, Coventry, Country Ridge, Coppin Heights-Ash-County-East, Colonial Village, Colonial Gardens, College Hills, Colgate Creek, Coldstream Homestead Montebello, Coldspring, Clyburn, Cloverfield Manor, Cloisters, Clifford, Clearwater Beach, Clear Water Beach, Claremont-Freedom, Christopher, Cheswolde, Chestnut Hill Cove, Chestnut Hill, Chesterwood, Chesapeake Terrace, Cherry Hill, Chase, Charlestown, Charlesmont, Charles Village, Charles North, Chapel Valley, Chapel Manor, Chalfone Manor, Chadwick Manor, Cedonia, Cedmont, Cedarwood Estates, Cedarside Farm, Cedarcroft, Cedar Beach, Catonsville Manor, Catonsville Heights, Catonsville, Carvel Beach, Carrollwood Manor, Carrollwood, Carroll-Camden Industrial Area, Carroll Island, Carney Grove, Carney, Cape May Landing, Cape May Beach, Canton Industrial Area, Canton, Canterbury Estates, Canterbury, Campus Hills, Cameron Village, Calverton, Callaway-Garrison, Butcher's Hill, Burnbrae, Burleith-Leighton, Brookwood, Brookview Farms, Brooks Hill, Brooklyn Manor, Brooklyn Homes, Brookhurst, Broening Manor, Broadway-Orleans Homes, Broadway East, Britinay Hills, Brigadoon, Bridleshire, Bridgeview-Greenlawn, Briarwood Estate, Brewers Hill, Breezy Point Beach, Brandon Shores, Bowleys Quarters, Booth-Boyd, Bonnie Ridge, Bolton Hill, Blythewood, Bluegrass Heights, Bloomsbury, Biscayne Bay Village, Bird River Beach, Beverly Hills, Better Waverly, Berkfield, Berea, Bengies, Belmont, Belmar, Bellview, Bellona-Gittings, Belle Farm Estates, Belgravia, Belair-Parkside, Belair-Edison, Beechfield, Bear Creek Junction, Beachwood, Baynesville, Battle Grove, Barrington, Barre Circle, Bare Hills, Barclay, Baltimore-Linwood, Baltimore Highlands, Baltimore, Ballard Gardens, Back River Highlands, Back River, Avalon, Ashlar Hill, Ashburton, Arundel Village, Arundel Gardens, Armistead Homes, Armistead Gardens, Armagh, Arcadia, Arbour Manor, Arbour Green, Apple Ridge, Anton Woods, Anton North, Anthonyville, Annesley, Allendale, Aero Acres, Adil Meadows, Academy Heights, Abell"
+      },
+      "boundingBox": {
+        "btmRightPoint": {
+          "lat": 39.14396,
+          "lon": -76.28768
+        },
+        "topLeftPoint": {
+          "lat": 39.4731,
+          "lon": -76.84188
+        }
+      },
+      "dataSources": {
+        "geometry": {
+          "id": "0000554d-4400-4600-0000-00004787b37e"
+        }
+      },
+      "entityType": "MunicipalitySubdivision",
+      "id": "US/GEO/p0/201240",
+      "position": {
+        "lat": 39.30853,
+        "lon": -76.56478
+      },
+      "score": 10.46941,
+      "type": "Geography",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 39.14396,
+          "lon": -76.28768
+        },
+        "topLeftPoint": {
+          "lat": 39.4731,
+          "lon": -76.84188
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "freeformAddress": "Alabama Street & South Park Street, Carrollton, GA 30117",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30117",
+        "streetName": "Alabama Street, State Route 16, United States Highway 27 Alternate Route North, US-27 Alternate South, US-27 Alternate North, Georgia 16, United States Highway 27 Alternate Route South, Georgia State Route 16 & South Park Street, US-27 North, United States Highway 27 South, Georgia 1, US-27 South, State Route-1, United States Highway 27 North, Georgia State Route 1"
+      },
+      "id": "US/XSTR/p0/1244527",
+      "position": {
+        "lat": 33.58039,
+        "lon": -85.07851
+      },
+      "score": 10.44471,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.57949,
+          "lon": -85.07743
+        },
+        "topLeftPoint": {
+          "lat": 33.58129,
+          "lon": -85.07959
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Carroll",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Carrollton",
+        "freeformAddress": "South Park Street & State Route 166, Carrollton, GA 30116",
+        "municipality": "Carrollton",
+        "municipalitySubdivision": "Carrollton",
+        "postalCode": "30116,30117",
+        "streetName": "South Park Street, United States Highway 27 South, Georgia 1, US-27 South, State Route-1, Georgia State Route 1 & State Route 166"
+      },
+      "id": "US/XSTR/p0/2137071",
+      "position": {
+        "lat": 33.55774,
+        "lon": -85.0733
+      },
+      "score": 10.44471,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.55684,
+          "lon": -85.07222
+        },
+        "topLeftPoint": {
+          "lat": 33.55864,
+          "lon": -85.07438
+        }
+      }
+    }
+  ],
+  "search_address": "1332 South Park St Carrollton GA 30117",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 9,
+    "offset": 0,
+    "query": "1332 south park st carrollton ga 30117",
+    "queryTime": 298,
+    "queryType": "NON_NEAR",
+    "totalResults": 47
+  }
+}

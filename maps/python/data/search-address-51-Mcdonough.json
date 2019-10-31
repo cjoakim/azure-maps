@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McDonough",
+        "extendedPostalCode": "302535900",
+        "freeformAddress": "1750 Jonesboro Road, McDonough, GA 30253",
+        "localName": "McDonough",
+        "municipality": "McDonough",
+        "municipalitySubdivision": "McDonough",
+        "postalCode": "30253",
+        "streetName": "Jonesboro Road",
+        "streetNumber": "1750"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.4637,
+            "lon": -84.21401
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/PAD/p1/49911942",
+      "position": {
+        "lat": 33.46544,
+        "lon": -84.21333
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.46454,
+          "lon": -84.21225
+        },
+        "topLeftPoint": {
+          "lat": 33.46634,
+          "lon": -84.21441
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McDonough",
+        "freeformAddress": "Jonesboro Road, McDonough, GA 30253",
+        "municipality": "McDonough",
+        "postalCode": "30253",
+        "streetName": "Jonesboro Road"
+      },
+      "id": "US/STR/p0/5721116",
+      "position": {
+        "lat": 33.46415,
+        "lon": -84.21584
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.46376,
+          "lon": -84.21479
+        },
+        "topLeftPoint": {
+          "lat": 33.46429,
+          "lon": -84.2167
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McDonough",
+        "extendedPostalCode": "302533169,302533717,302533718,302533719,302533720,302533722,302533724,302533725,302533742,302533769,302533794,302533797,302533901,302533902,302533903,302533904,302536007,302536030,302536031,302536033,302536039,302536040,302536041,302536042,302536043,302536045,302536046,302536098,302537015",
+        "freeformAddress": "Jonesboro Road, McDonough, GA 30253",
+        "municipality": "McDonough",
+        "municipalitySubdivision": "McDonough",
+        "postalCode": "30253",
+        "streetName": "Jonesboro Road"
+      },
+      "id": "US/STR/p0/10940579",
+      "position": {
+        "lat": 33.45908,
+        "lon": -84.18107
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.44621,
+          "lon": -84.17089
+        },
+        "topLeftPoint": {
+          "lat": 33.46419,
+          "lon": -84.19244
+        }
+      }
+    }
+  ],
+  "search_address": "1750 Jonesboro Rd Mcdonough GA 30253",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "1750 jonesboro rd mcdonough ga 30253",
+    "queryTime": 372,
+    "queryType": "NON_NEAR",
+    "totalResults": 73
+  }
+}

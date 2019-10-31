@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Buford-Sugar Hill",
+        "freeformAddress": "4120 Buford Drive, Buford, GA 30518",
+        "localName": "Buford",
+        "municipality": "Buford",
+        "municipalitySubdivision": "Buford",
+        "postalCode": "30518",
+        "streetName": "Buford Drive",
+        "streetNumber": "4120"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.09193,
+            "lon": -84.00124
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.09088,
+            "lon": -83.99977
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.0921,
+            "lon": -84.00276
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/35284506",
+      "position": {
+        "lat": 34.09062,
+        "lon": -84.00189
+      },
+      "score": 11.40529,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.08972,
+          "lon": -84.0008
+        },
+        "topLeftPoint": {
+          "lat": 34.09152,
+          "lon": -84.00298
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Buford-Sugar Hill",
+        "extendedPostalCode": "3051839,305183400,305183428,305183437,305183438,305183439,305183440,305183441,305183442,305183443,305183444,305183448,305183452,305183458,305183459,305183460,305183476,305183900,305184959,305184960,305185405,305185409,305187502",
+        "freeformAddress": "Buford Drive, Buford, GA 30518",
+        "municipality": "Buford",
+        "municipalitySubdivision": "Buford",
+        "postalCode": "30518",
+        "streetName": "Buford Drive"
+      },
+      "id": "US/STR/p0/5723399",
+      "position": {
+        "lat": 34.09227,
+        "lon": -84.0031
+      },
+      "score": 9.67894,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.0827,
+          "lon": -83.99248
+        },
+        "topLeftPoint": {
+          "lat": 34.10068,
+          "lon": -84.01419
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Buford-Sugar Hill",
+        "extendedPostalCode": "305188137,305188138",
+        "freeformAddress": "Cumming Highway, Buford, GA 30518",
+        "municipality": "Buford, Sugar Hill",
+        "municipalitySubdivision": "Buford, Sugar Hill",
+        "postalCode": "30518",
+        "streetName": "Cumming Highway"
+      },
+      "id": "US/STR/p0/97352",
+      "position": {
+        "lat": 34.12483,
+        "lon": -84.0909
+      },
+      "score": 9.64992,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.12434,
+          "lon": -84.08847
+        },
+        "topLeftPoint": {
+          "lat": 34.12615,
+          "lon": -84.09318
+        }
+      }
+    }
+  ],
+  "search_address": "4120 Highway 20 Buford GA 30518",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "4120 highway 20 buford ga 30518",
+    "queryTime": 194,
+    "queryType": "NON_NEAR",
+    "totalResults": 312
+  }
+}

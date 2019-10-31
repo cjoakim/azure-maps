@@ -1,0 +1,193 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Richmond",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Augusta",
+        "extendedPostalCode": "309072454",
+        "freeformAddress": "499 Bobby Jones Expressway, Augusta, GA 30907",
+        "localName": "Augusta",
+        "municipality": "Augusta",
+        "municipalitySubdivision": "Augusta, Augusta (Richmond County), Montclair",
+        "postalCode": "30907",
+        "streetName": "Bobby Jones Expressway",
+        "streetNumber": "499"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.5028,
+            "lon": -82.08831
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.50167,
+            "lon": -82.08949
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.49978,
+            "lon": -82.0903
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.50296,
+            "lon": -82.08861
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.50023,
+            "lon": -82.08951
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.50068,
+            "lon": -82.08873
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/31884415",
+      "position": {
+        "lat": 33.50184,
+        "lon": -82.0906
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.50094,
+          "lon": -82.08952
+        },
+        "topLeftPoint": {
+          "lat": 33.50274,
+          "lon": -82.09168
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Richmond",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Augusta",
+        "freeformAddress": "Bobby Jones Expressway, Augusta, GA 30907",
+        "municipality": "Augusta",
+        "municipalitySubdivision": "Augusta (Richmond County), Montclair",
+        "postalCode": "30907",
+        "streetName": "Bobby Jones Expressway"
+      },
+      "id": "US/STR/p0/9521393",
+      "position": {
+        "lat": 33.50213,
+        "lon": -82.08792
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.50122,
+          "lon": -82.08732
+        },
+        "topLeftPoint": {
+          "lat": 33.50299,
+          "lon": -82.08844
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Richmond",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Augusta",
+        "freeformAddress": "Bobby Jones Expressway West, Augusta, GA 30907",
+        "municipality": "Augusta",
+        "municipalitySubdivision": "Augusta (Richmond County), Montclair",
+        "postalCode": "30907",
+        "streetName": "Bobby Jones Expressway West"
+      },
+      "id": "US/STR/p0/9521459",
+      "position": {
+        "lat": 33.4972,
+        "lon": -82.08571
+      },
+      "score": 12.37648,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.49335,
+          "lon": -82.08417
+        },
+        "topLeftPoint": {
+          "lat": 33.50124,
+          "lon": -82.08732
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Richmond",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Augusta",
+        "freeformAddress": "Bobby Jones Expressway East, Augusta, GA 30907",
+        "municipality": "Augusta",
+        "municipalitySubdivision": "West Augusta, Augusta (Richmond County), Belair",
+        "postalCode": "30907",
+        "streetName": "Bobby Jones Expressway East"
+      },
+      "id": "US/STR/p0/9521500",
+      "position": {
+        "lat": 33.4933,
+        "lon": -82.08434
+      },
+      "score": 12.37648,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.4932,
+          "lon": -82.0843
+        },
+        "topLeftPoint": {
+          "lat": 33.4933,
+          "lon": -82.08434
+        }
+      }
+    }
+  ],
+  "search_address": "499 Bobby Jones Expy Ste B Augusta GA 30907",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "499 bobby jones expy ste b augusta ga 30907",
+    "queryTime": 105,
+    "queryType": "NON_NEAR",
+    "totalResults": 28
+  }
+}

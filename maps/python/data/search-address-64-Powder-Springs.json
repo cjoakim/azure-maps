@@ -1,0 +1,245 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Powder Springs",
+        "freeformAddress": "1062 Richard D. Sailors Parkway, Powder Springs, GA 30127",
+        "localName": "Powder Springs",
+        "municipality": "Powder Springs",
+        "municipalitySubdivision": "Powder Springs",
+        "postalCode": "30127",
+        "streetName": "Richard D. Sailors Parkway",
+        "streetNumber": "1062"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.86383,
+            "lon": -84.67835
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.86415,
+            "lon": -84.67877
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.86448,
+            "lon": -84.67615
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.86337,
+            "lon": -84.67667
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/41856371",
+      "position": {
+        "lat": 33.86534,
+        "lon": -84.67766
+      },
+      "score": 18.48964,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86444,
+          "lon": -84.67658
+        },
+        "topLeftPoint": {
+          "lat": 33.86624,
+          "lon": -84.67874
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Powder Springs",
+        "extendedPostalCode": "301275217,301275221,301275223,301275224,301275228,301275229,301275230,301275231,301275232",
+        "freeformAddress": "Richard D. Sailors Parkway, Powder Springs, GA 30127",
+        "municipality": "Powder Springs",
+        "municipalitySubdivision": "Powder Springs",
+        "postalCode": "30127",
+        "streetName": "Richard D. Sailors Parkway"
+      },
+      "id": "US/STR/p0/2609204",
+      "position": {
+        "lat": 33.86552,
+        "lon": -84.68366
+      },
+      "score": 16.83856,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.8555,
+          "lon": -84.67293
+        },
+        "topLeftPoint": {
+          "lat": 33.87349,
+          "lon": -84.69459
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Powder Springs",
+        "freeformAddress": "Powder Springs Road & Richard D. Sailors Parkway, Powder Springs, GA 30127",
+        "municipality": "Powder Springs",
+        "municipalitySubdivision": "Powder Springs",
+        "postalCode": "30127",
+        "streetName": "Powder Springs Road, For Hillt Road, Forest Hill Road & Richard D. Sailors Parkway"
+      },
+      "id": "US/XSTR/p0/629098",
+      "position": {
+        "lat": 33.86064,
+        "lon": -84.66679
+      },
+      "score": 14.70491,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.85974,
+          "lon": -84.66571
+        },
+        "topLeftPoint": {
+          "lat": 33.86154,
+          "lon": -84.66787
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Powder Springs",
+        "freeformAddress": "Richard D. Sailors Parkway & Silver Springs Boulevard, Powder Springs, GA 30127",
+        "municipality": "Powder Springs",
+        "municipalitySubdivision": "Powder Springs",
+        "postalCode": "30127",
+        "streetName": "Richard D. Sailors Parkway & Silver Springs Boulevard"
+      },
+      "id": "US/XSTR/p0/629094",
+      "position": {
+        "lat": 33.86664,
+        "lon": -84.69178
+      },
+      "score": 14.17885,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86574,
+          "lon": -84.6907
+        },
+        "topLeftPoint": {
+          "lat": 33.86754,
+          "lon": -84.69286
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Powder Springs",
+        "freeformAddress": "Richard D. Sailors Parkway & Villa Springs Circle, Powder Springs, GA 30127",
+        "municipality": "Powder Springs",
+        "municipalitySubdivision": "Powder Springs",
+        "postalCode": "30127",
+        "streetName": "Richard D. Sailors Parkway & Villa Springs Circle"
+      },
+      "id": "US/XSTR/p0/4057178",
+      "position": {
+        "lat": 33.86146,
+        "lon": -84.67072
+      },
+      "score": 14.17885,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86056,
+          "lon": -84.66964
+        },
+        "topLeftPoint": {
+          "lat": 33.86236,
+          "lon": -84.6718
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Powder Springs",
+        "freeformAddress": "C. H. James Parkway & Richard D. Sailors Parkway, Powder Springs, GA 30127",
+        "municipality": "Powder Springs",
+        "municipalitySubdivision": "Powder Springs",
+        "postalCode": "30127",
+        "streetName": "C. H. James Parkway & Richard D. Sailors Parkway"
+      },
+      "id": "US/XSTR/p0/629091",
+      "position": {
+        "lat": 33.86752,
+        "lon": -84.69687
+      },
+      "score": 14.00319,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86662,
+          "lon": -84.69579
+        },
+        "topLeftPoint": {
+          "lat": 33.86842,
+          "lon": -84.69795
+        }
+      }
+    }
+  ],
+  "search_address": "1062 Richard D Sailors Pkwy Powder Springs GA 30127",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 6,
+    "offset": 0,
+    "query": "1062 richard d sailors pkwy powder springs ga 30127",
+    "queryTime": 62,
+    "queryType": "NON_NEAR",
+    "totalResults": 10
+  }
+}

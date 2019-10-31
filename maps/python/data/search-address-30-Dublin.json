@@ -1,0 +1,161 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Laurens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dublin",
+        "extendedPostalCode": "310213647",
+        "freeformAddress": "1833 Veterans Boulevard, Dublin, GA 31021",
+        "localName": "Dublin",
+        "municipality": "Dublin",
+        "municipalitySubdivision": "Dublin",
+        "postalCode": "31021",
+        "streetName": "Veterans Boulevard",
+        "streetNumber": "1833"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 32.53936,
+            "lon": -82.94288
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 32.54295,
+            "lon": -82.94445
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.54036,
+            "lon": -82.94149
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.53999,
+            "lon": -82.9435
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.54202,
+            "lon": -82.94346
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.54183,
+            "lon": -82.94305
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/6100810",
+      "position": {
+        "lat": 32.54143,
+        "lon": -82.94187
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.54053,
+          "lon": -82.9408
+        },
+        "topLeftPoint": {
+          "lat": 32.54233,
+          "lon": -82.94294
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Laurens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dublin",
+        "extendedPostalCode": "3102175,3102177,310212909,310212910,310212924,310213001,310213002,310213030,310213031,310213032,310213033,310213037,310213042,310213043,310213048,310213049,310213050,310213051,310213063,310213064,310213065,310213066,310213067,310213068,310213097,310213098,310213099,310213500,310213502,310213503,310213504,310213505,310213506,310213551,310213560,310213561,310213576,310213587,310213588,310213589,310213590,310213591,310213593,310213595,310213601,310213602,310213620,310213628,310213642,310213647,310213648,310213649,310213650,310213651,310213655,310213663,310213664,310213666,310213672,310213673,310213674,310213675,310213676,310213677,310213678,310213679,310213680,310213698,310213699,310214227,310217500,310217501,310217502,310217503,310217504,310217505,310217506,310217507,310217508,310217509,310217510,310217511,310217512,310217513,310217514,310217515,310217516,310217517,310217518,310217519,310217520,310217521,310217522,310217523,310217524,310217525,310217526,310217527,310217528,310217529,310217531,310217532,310217533,310217535,310217537,310217538,310217539,310217540,310217541,310217542,310217543,310217544,310217545,310217546,310217547,310217548,310217549,310217550,310217551,310217552,310217553,310217554,310217555,310217556,310217557,310217558,310217559,310217560,310217561,310217562,310217563,310217564,310217566,310217702,310217703,310217704,310217705,310217707,310217708,310217709,310217710,310217711,310217712,310217713,310217714,310217715,310217716,310219063,310219064,310219065,310219066,310219067",
+        "freeformAddress": "Veterans Boulevard, Dublin, GA 31021",
+        "municipality": "Dublin",
+        "municipalitySubdivision": "Dublin",
+        "postalCode": "31021",
+        "streetName": "Veterans Boulevard"
+      },
+      "id": "US/STR/p0/5667100",
+      "position": {
+        "lat": 32.54016,
+        "lon": -82.94518
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.53134,
+          "lon": -82.93412
+        },
+        "topLeftPoint": {
+          "lat": 32.54932,
+          "lon": -82.95546
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Laurens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dublin",
+        "freeformAddress": "Industrial Boulevard & Veterans Boulevard, Dublin, GA 31021",
+        "municipality": "Dublin",
+        "municipalitySubdivision": "Dublin",
+        "postalCode": "31021",
+        "streetName": "Industrial Boulevard, County Road 493 & Veterans Boulevard, United States Highway 80 West, Georgia 19, Georgia State Route 26, State Route 19, Georgia State Route 19, Georgia 26, State Route 26, Macon Road, US-80 West"
+      },
+      "id": "US/XSTR/p1/2114205",
+      "position": {
+        "lat": 32.54237,
+        "lon": -82.95751
+      },
+      "score": 8.55533,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.54147,
+          "lon": -82.95644
+        },
+        "topLeftPoint": {
+          "lat": 32.54327,
+          "lon": -82.95858
+        }
+      }
+    }
+  ],
+  "search_address": "1833 Veterans Blvd Dublin GA 31021",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "1833 veterans blvd dublin ga 31021",
+    "queryTime": 83,
+    "queryType": "NON_NEAR",
+    "totalResults": 3
+  }
+}

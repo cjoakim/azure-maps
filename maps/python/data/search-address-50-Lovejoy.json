@@ -1,0 +1,179 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Clayton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Jonesboro",
+        "freeformAddress": "11075 Tara Boulevard, Hampton, GA 30228",
+        "localName": "Hampton",
+        "municipality": "Bonanza, Hampton",
+        "municipalitySubdivision": "Lovejoy, Hampton, Bonanza",
+        "postalCode": "30228",
+        "streetName": "Tara Boulevard",
+        "streetNumber": "11075"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.45304,
+            "lon": -84.32639
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.4487,
+            "lon": -84.32913
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.45198,
+            "lon": -84.32621
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.45377,
+            "lon": -84.32781
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/5675194",
+      "position": {
+        "lat": 33.4527,
+        "lon": -84.32813
+      },
+      "score": 9.70732,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.4518,
+          "lon": -84.32705
+        },
+        "topLeftPoint": {
+          "lat": 33.4536,
+          "lon": -84.32921
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Clayton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Jonesboro",
+        "extendedPostalCode": "3022836,302283600,302283601,302283609,302283660",
+        "freeformAddress": "Tara Boulevard, Lovejoy, GA 30228",
+        "municipality": "Lovejoy, Hampton",
+        "municipalitySubdivision": "Lovejoy, Hampton",
+        "postalCode": "30228",
+        "streetName": "Tara Boulevard"
+      },
+      "id": "US/STR/p0/3964715",
+      "position": {
+        "lat": 33.43004,
+        "lon": -84.32041
+      },
+      "score": 8.12919,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.42955,
+          "lon": -84.32035
+        },
+        "topLeftPoint": {
+          "lat": 33.43088,
+          "lon": -84.32048
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Clayton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Jonesboro",
+        "freeformAddress": "Tara Boulevard, Lovejoy, GA 30228",
+        "municipality": "Lovejoy, Hampton",
+        "municipalitySubdivision": "Lovejoy",
+        "postalCode": "30228",
+        "streetName": "Tara Boulevard"
+      },
+      "id": "US/STR/p0/8381024",
+      "position": {
+        "lat": 33.44782,
+        "lon": -84.32475
+      },
+      "score": 8.12919,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.44706,
+          "lon": -84.32436
+        },
+        "topLeftPoint": {
+          "lat": 33.44888,
+          "lon": -84.32513
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Clayton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Jonesboro",
+        "freeformAddress": "Tara Boulevard, Bonanza, GA 30228",
+        "municipality": "Bonanza, Hampton",
+        "municipalitySubdivision": "Lovejoy, Bonanza",
+        "postalCode": "30228",
+        "streetName": "Tara Boulevard"
+      },
+      "id": "US/STR/p0/3076764",
+      "position": {
+        "lat": 33.45183,
+        "lon": -84.32606
+      },
+      "score": 7.94055,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.45147,
+          "lon": -84.32596
+        },
+        "topLeftPoint": {
+          "lat": 33.45218,
+          "lon": -84.32616
+        }
+      }
+    }
+  ],
+  "search_address": "11075 Tara Boulevard Lovejoy GA 30250",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "11075 tara boulevard lovejoy ga 30250",
+    "queryTime": 93,
+    "queryType": "NON_NEAR",
+    "totalResults": 9
+  }
+}

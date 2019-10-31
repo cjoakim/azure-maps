@@ -1,0 +1,50 @@
+[
+  {
+    "area_code": "912",
+    "city": "Brunswick",
+    "city_state_zip": "Brunswick GA 31520",
+    "location": {
+      "lat": 31.21139,
+      "lon": -81.49287
+    },
+    "name": "Brunswick",
+    "phone": "(912)264-2025",
+    "search_address": "200 Altama Connector Brunswick GA 31520",
+    "state": "GA",
+    "store_num": 12,
+    "street": "200 Altama Connector",
+    "zip": "31520"
+  },
+  {
+    "area_code": "912",
+    "city": "Savannah",
+    "city_state_zip": "Savannah GA 31404",
+    "location": {
+      "lat": 32.04164,
+      "lon": -81.06731
+    },
+    "name": "East Savannah",
+    "phone": "(912)352-3562",
+    "search_address": "1901 E Victory Dr Savannah GA 31404",
+    "state": "GA",
+    "store_num": 32,
+    "street": "1901 E Victory Dr",
+    "zip": "31404"
+  },
+  {
+    "area_code": "912",
+    "city": "Pooler",
+    "city_state_zip": "Pooler GA 31322",
+    "location": {
+      "lat": 32.14353,
+      "lon": -81.24584
+    },
+    "name": "Pooler",
+    "phone": "(912)748-1642",
+    "search_address": "190 Pooler Pkwy Pooler GA 31322",
+    "state": "GA",
+    "store_num": 63,
+    "street": "190 Pooler Pkwy",
+    "zip": "31322"
+  }
+]

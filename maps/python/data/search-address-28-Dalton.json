@@ -1,0 +1,205 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Whitfield",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dalton",
+        "freeformAddress": "875 Shugart Road, Dalton, GA 30720",
+        "localName": "Dalton",
+        "municipality": "Dalton",
+        "municipalitySubdivision": "Dalton",
+        "postalCode": "30720",
+        "streetName": "Shugart Road",
+        "streetNumber": "875"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.79022,
+            "lon": -84.99647
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.79122,
+            "lon": -84.99701
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.78613,
+            "lon": -84.99662
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/25060894",
+      "position": {
+        "lat": 34.79021,
+        "lon": -84.99934
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.78931,
+          "lon": -84.99824
+        },
+        "topLeftPoint": {
+          "lat": 34.79111,
+          "lon": -85.00044
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Whitfield",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dalton",
+        "extendedPostalCode": "307202400,307202401,307202403,307202405,307202411,307202414,307202421,307202424,307202429,307202433,307202434,307202435,307202437,307202438,307202440,307202444,307202445,307202446,307202448,307202449,307202450,307202451,307202452,307202453,307202454,307202455,307202456,307202457,307202463,307202464,307202466,307202467,307202477,307202478,307202485,307202486,307202487",
+        "freeformAddress": "Shugart Road, Dalton, GA 30720",
+        "municipality": "Dalton",
+        "municipalitySubdivision": "Dalton",
+        "postalCode": "30720",
+        "streetName": "Shugart Road"
+      },
+      "id": "US/STR/p0/7412443",
+      "position": {
+        "lat": 34.78693,
+        "lon": -84.99646
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.77812,
+          "lon": -84.9853
+        },
+        "topLeftPoint": {
+          "lat": 34.79611,
+          "lon": -85.00721
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Whitfield",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dalton",
+        "freeformAddress": "Ivy Gate Place & Shugart Road, Dalton, GA 30720",
+        "municipality": "Dalton",
+        "municipalitySubdivision": "Dalton",
+        "postalCode": "30720",
+        "streetName": "Ivy Gate Place & Shugart Road"
+      },
+      "id": "US/XSTR/p1/290253",
+      "position": {
+        "lat": 34.7791,
+        "lon": -84.99555
+      },
+      "score": 8.8601,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.7782,
+          "lon": -84.99446
+        },
+        "topLeftPoint": {
+          "lat": 34.78,
+          "lon": -84.99664
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Whitfield",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dalton",
+        "freeformAddress": "Chattanooga Road & Shugart Road, Dalton, GA 30720",
+        "municipality": "Dalton",
+        "municipalitySubdivision": "Dalton",
+        "postalCode": "30720",
+        "streetName": "Chattanooga Road, Georgia 3, State Route 3, US-76 East, United States Highway 41 South, Georgia State Route 3, US-41 South, United States Highway 76 East & Shugart Road"
+      },
+      "id": "US/XSTR/p0/1520558",
+      "position": {
+        "lat": 34.79501,
+        "lon": -84.99655
+      },
+      "score": 8.53746,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.79411,
+          "lon": -84.99545
+        },
+        "topLeftPoint": {
+          "lat": 34.79591,
+          "lon": -84.99765
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Whitfield",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Dalton",
+        "freeformAddress": "North Tibbs Road & Shugart Road, Dalton, GA 30720",
+        "municipality": "Dalton",
+        "municipalitySubdivision": "Dalton",
+        "postalCode": "30720",
+        "streetName": "North Tibbs Road & Shugart Road"
+      },
+      "id": "US/XSTR/p0/3499241",
+      "position": {
+        "lat": 34.7791,
+        "lon": -84.99555
+      },
+      "score": 8.53746,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.7782,
+          "lon": -84.99446
+        },
+        "topLeftPoint": {
+          "lat": 34.78,
+          "lon": -84.99664
+        }
+      }
+    }
+  ],
+  "search_address": "875 Shugart Rd Dalton GA 30720",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "875 shugart rd dalton ga 30720",
+    "queryTime": 136,
+    "queryType": "NON_NEAR",
+    "totalResults": 5
+  }
+}

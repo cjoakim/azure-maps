@@ -1,0 +1,146 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Muscogee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Columbus East",
+        "freeformAddress": "2891 Sowega Drive, Columbus, GA 31909",
+        "localName": "Columbus",
+        "municipality": "Columbus",
+        "municipalitySubdivision": "Columbus",
+        "postalCode": "31909",
+        "streetName": "Sowega Drive",
+        "streetNumber": "2891"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 32.52376,
+            "lon": -84.9493
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 32.52383,
+            "lon": -84.94928
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.52364,
+            "lon": -84.95029
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.52436,
+            "lon": -84.94853
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/41862968",
+      "position": {
+        "lat": 32.52469,
+        "lon": -84.94944
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.52379,
+          "lon": -84.94837
+        },
+        "topLeftPoint": {
+          "lat": 32.52559,
+          "lon": -84.95051
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Muscogee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Columbus East",
+        "extendedPostalCode": "319094518,319094519,319094520,319094529,319094531,319094532",
+        "freeformAddress": "Sowega Drive, Columbus, GA 31909",
+        "municipality": "Columbus",
+        "municipalitySubdivision": "Columbus",
+        "postalCode": "31909",
+        "streetName": "Sowega Drive"
+      },
+      "id": "US/STR/p0/8006746",
+      "position": {
+        "lat": 32.5235,
+        "lon": -84.95024
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.52346,
+          "lon": -84.94721
+        },
+        "topLeftPoint": {
+          "lat": 32.52404,
+          "lon": -84.95333
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Muscogee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Columbus East",
+        "freeformAddress": "Smoke Drive & Sowega Drive, Columbus, GA 31909",
+        "municipality": "Columbus",
+        "municipalitySubdivision": "Columbus",
+        "postalCode": "31909",
+        "streetName": "Smoke Drive & Sowega Drive"
+      },
+      "id": "US/XSTR/p1/1212867",
+      "position": {
+        "lat": 32.5235,
+        "lon": -84.95128
+      },
+      "score": 8.55533,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.5226,
+          "lon": -84.95021
+        },
+        "topLeftPoint": {
+          "lat": 32.5244,
+          "lon": -84.95235
+        }
+      }
+    }
+  ],
+  "search_address": "2891 Sowega Dr Columbus GA 31909",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "2891 sowega dr columbus ga 31909",
+    "queryTime": 118,
+    "queryType": "NON_NEAR",
+    "totalResults": 3
+  }
+}

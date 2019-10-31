@@ -1,0 +1,225 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rome",
+        "freeformAddress": "103 Hicks Drive, Rome, GA 30161",
+        "localName": "Rome",
+        "municipality": "Rome",
+        "municipalitySubdivision": "Rome",
+        "postalCode": "30161",
+        "streetName": "Hicks Drive",
+        "streetNumber": "103"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.25359,
+            "lon": -85.16147
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.25454,
+            "lon": -85.16121
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.25275,
+            "lon": -85.16235
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.25344,
+            "lon": -85.16165
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/3813691",
+      "position": {
+        "lat": 34.25408,
+        "lon": -85.1624
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.25318,
+          "lon": -85.16131
+        },
+        "topLeftPoint": {
+          "lat": 34.25498,
+          "lon": -85.16349
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rome",
+        "extendedPostalCode": "301616064",
+        "freeformAddress": "103 Hicks Drive Southeast, Rome, GA 30161",
+        "municipality": "Rome",
+        "municipalitySubdivision": "Rome",
+        "postalCode": "30161",
+        "streetName": "Hicks Drive Southeast",
+        "streetNumber": "103"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.25342,
+          "lon": -85.16226
+        },
+        "rangeLeft": "103 - 103",
+        "to": {
+          "lat": 34.25266,
+          "lon": -85.16161
+        }
+      },
+      "id": "US/ADDR/p3/10762326",
+      "position": {
+        "lat": 34.25345,
+        "lon": -85.16222
+      },
+      "score": 11.777,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.25266,
+          "lon": -85.16161
+        },
+        "topLeftPoint": {
+          "lat": 34.25342,
+          "lon": -85.16226
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rome",
+        "freeformAddress": "Hicks Drive, Rome, GA 30161",
+        "municipality": "Rome",
+        "municipalitySubdivision": "Rome",
+        "postalCode": "30161",
+        "streetName": "Hicks Drive"
+      },
+      "id": "US/STR/p0/12151047",
+      "position": {
+        "lat": 34.25451,
+        "lon": -85.16112
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.25359,
+          "lon": -85.16098
+        },
+        "topLeftPoint": {
+          "lat": 34.25506,
+          "lon": -85.16147
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rome",
+        "extendedPostalCode": "301616063,301616064",
+        "freeformAddress": "Hicks Drive Southeast, Rome, GA 30161",
+        "municipality": "Rome",
+        "municipalitySubdivision": "Rome",
+        "postalCode": "30161",
+        "streetName": "Hicks Drive Southeast"
+      },
+      "id": "US/STR/p0/12151046",
+      "position": {
+        "lat": 34.25266,
+        "lon": -85.16226
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.2523,
+          "lon": -85.16147
+        },
+        "topLeftPoint": {
+          "lat": 34.25359,
+          "lon": -85.16342
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rome",
+        "freeformAddress": "Hicks Drive Southeast & Riverbend Drive Southwest, Rome, GA 30161",
+        "municipality": "Rome",
+        "municipalitySubdivision": "Rome",
+        "postalCode": "30161",
+        "streetName": "Hicks Drive Southeast & Riverbend Drive Southwest, Riverbend Mall Southwest"
+      },
+      "id": "US/XSTR/p1/3541787",
+      "position": {
+        "lat": 34.2523,
+        "lon": -85.16341
+      },
+      "score": 8.51754,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.2514,
+          "lon": -85.16232
+        },
+        "topLeftPoint": {
+          "lat": 34.2532,
+          "lon": -85.1645
+        }
+      }
+    }
+  ],
+  "search_address": "103 Hicks Drive Rome GA 30161",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "103 hicks drive rome ga 30161",
+    "queryTime": 131,
+    "queryType": "NON_NEAR",
+    "totalResults": 5
+  }
+}

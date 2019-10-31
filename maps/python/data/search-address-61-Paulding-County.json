@@ -1,0 +1,212 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Paulding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Hiram",
+        "freeformAddress": "145 Depot Drive, Hiram, GA 30141",
+        "localName": "Hiram",
+        "municipality": "Hiram",
+        "municipalitySubdivision": "Hiram",
+        "postalCode": "30141",
+        "streetName": "Depot Drive",
+        "streetNumber": "145"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.88779,
+            "lon": -84.7526
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.88908,
+            "lon": -84.75203
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.88781,
+            "lon": -84.75247
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.88839,
+            "lon": -84.75231
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/39066738",
+      "position": {
+        "lat": 33.88761,
+        "lon": -84.75128
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.88671,
+          "lon": -84.7502
+        },
+        "topLeftPoint": {
+          "lat": 33.88851,
+          "lon": -84.75236
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Paulding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Hiram",
+        "extendedPostalCode": "301412731,301412732,301412765",
+        "freeformAddress": "Depot Drive, Hiram, GA 30141",
+        "municipality": "Hiram",
+        "municipalitySubdivision": "Hiram",
+        "postalCode": "30141",
+        "streetName": "Depot Drive"
+      },
+      "id": "US/STR/p0/5746430",
+      "position": {
+        "lat": 33.88857,
+        "lon": -84.75238
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.88721,
+          "lon": -84.75133
+        },
+        "topLeftPoint": {
+          "lat": 33.89023,
+          "lon": -84.75291
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Paulding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Hiram",
+        "freeformAddress": "Lake Road, Hiram, GA 30141",
+        "municipality": "Hiram",
+        "municipalitySubdivision": "Hiram",
+        "postalCode": "30141",
+        "streetName": "Lake Road"
+      },
+      "id": "US/STR/p0/5047961",
+      "position": {
+        "lat": 33.89034,
+        "lon": -84.75128
+      },
+      "score": 9.99689,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.89023,
+          "lon": -84.75125
+        },
+        "topLeftPoint": {
+          "lat": 33.89043,
+          "lon": -84.75133
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Paulding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Hiram",
+        "freeformAddress": "Depot Drive & Lake Road, Hiram, GA 30141",
+        "municipality": "Hiram",
+        "municipalitySubdivision": "Hiram",
+        "postalCode": "30141",
+        "streetName": "Depot Drive & Lake Road, Depot Drive"
+      },
+      "id": "US/XSTR/p0/4057897",
+      "position": {
+        "lat": 33.89023,
+        "lon": -84.75133
+      },
+      "score": 8.71613,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.88933,
+          "lon": -84.75025
+        },
+        "topLeftPoint": {
+          "lat": 33.89113,
+          "lon": -84.75241
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Paulding",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Hiram",
+        "freeformAddress": "Depot Drive & Rosedale Drive, Hiram, GA 30141",
+        "municipality": "Hiram",
+        "municipalitySubdivision": "Hiram",
+        "postalCode": "30141",
+        "streetName": "Depot Drive & Rosedale Drive"
+      },
+      "id": "US/XSTR/p1/2967286",
+      "position": {
+        "lat": 33.88721,
+        "lon": -84.75291
+      },
+      "score": 8.55533,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.88631,
+          "lon": -84.75183
+        },
+        "topLeftPoint": {
+          "lat": 33.88811,
+          "lon": -84.75399
+        }
+      }
+    }
+  ],
+  "search_address": "145 Depot Drive Hiram GA 30141",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "145 depot drive hiram ga 30141",
+    "queryTime": 125,
+    "queryType": "NON_NEAR",
+    "totalResults": 5
+  }
+}

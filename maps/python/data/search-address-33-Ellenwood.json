@@ -1,0 +1,201 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Stockbridge",
+        "freeformAddress": "65 Fairview Road, Ellenwood, GA 30294",
+        "localName": "Ellenwood",
+        "municipality": "Ellenwood",
+        "postalCode": "30294",
+        "streetName": "Fairview Road",
+        "streetNumber": "65"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.61973,
+            "lon": -84.2351
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.61948,
+            "lon": -84.23456
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.62151,
+            "lon": -84.23409
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/34799038",
+      "position": {
+        "lat": 33.6206,
+        "lon": -84.23284
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.6197,
+          "lon": -84.23176
+        },
+        "topLeftPoint": {
+          "lat": 33.6215,
+          "lon": -84.23392
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Stockbridge",
+        "freeformAddress": "Fairview Road, Ellenwood, GA 30294",
+        "municipality": "Ellenwood",
+        "postalCode": "30294",
+        "streetName": "Fairview Road"
+      },
+      "id": "US/STR/p0/97688",
+      "position": {
+        "lat": 33.61968,
+        "lon": -84.23507
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.61831,
+          "lon": -84.23445
+        },
+        "topLeftPoint": {
+          "lat": 33.62076,
+          "lon": -84.23631
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Stockbridge",
+        "extendedPostalCode": "302942502,302942531,302942532,302942533,302942534,302942535,302942536,302942537,302942538,302942539,302942540,302942541,302942542,302942543,302942553,302942581,302942601,302942603,302942624,302942625,302942626,302942627,302942628,302942629,302942630,302942631,302942632,302942633,302942634,302942635,302942636,302942704,302942721,302942722,302942723,302942767,302942779,302942795,302944112,302944113",
+        "freeformAddress": "Fairview Road, Ellenwood, GA 30294",
+        "municipality": "Ellenwood",
+        "municipalitySubdivision": "Ellenwood",
+        "postalCode": "30294",
+        "streetName": "Fairview Road"
+      },
+      "id": "US/STR/p0/7412171",
+      "position": {
+        "lat": 33.63308,
+        "lon": -84.25863
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.62383,
+          "lon": -84.24074
+        },
+        "topLeftPoint": {
+          "lat": 33.64182,
+          "lon": -84.26235
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Stockbridge",
+        "freeformAddress": "Fairview Road, Ellenwood, GA",
+        "municipality": "Ellenwood, Stockbridge",
+        "postalCode": "30281,30294",
+        "streetName": "Fairview Road"
+      },
+      "id": "US/STR/p0/12511755",
+      "position": {
+        "lat": 33.61947,
+        "lon": -84.2351
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.61831,
+          "lon": -84.23445
+        },
+        "topLeftPoint": {
+          "lat": 33.6205,
+          "lon": -84.23597
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Stockbridge",
+        "freeformAddress": "Anvil Block Road & Fairview Road, Ellenwood, GA 30294",
+        "municipality": "Ellenwood",
+        "postalCode": "30294",
+        "streetName": "Anvil Block Road & Fairview Road"
+      },
+      "id": "US/XSTR/p0/1244224",
+      "position": {
+        "lat": 33.62608,
+        "lon": -84.25632
+      },
+      "score": 8.71613,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.62518,
+          "lon": -84.25524
+        },
+        "topLeftPoint": {
+          "lat": 33.62698,
+          "lon": -84.2574
+        }
+      }
+    }
+  ],
+  "search_address": "65 Fairview Road Ellenwood GA 30294",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "65 fairview road ellenwood ga 30294",
+    "queryTime": 300,
+    "queryType": "NON_NEAR",
+    "totalResults": 18
+  }
+}

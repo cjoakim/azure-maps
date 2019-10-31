@@ -1,0 +1,267 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Gainesville",
+        "freeformAddress": "924 Dawsonville Highway, Gainesville, GA 30501",
+        "localName": "Gainesville",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501",
+        "streetName": "Dawsonville Highway",
+        "streetNumber": "924"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.29944,
+            "lon": -83.85723
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.29881,
+            "lon": -83.85657
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/52382022",
+      "position": {
+        "lat": 34.30025,
+        "lon": -83.85524
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.29935,
+          "lon": -83.85415
+        },
+        "topLeftPoint": {
+          "lat": 34.30115,
+          "lon": -83.85633
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Gainesville",
+        "extendedPostalCode": "3050126,3050400,3050411,305010025,305011005,305011525,305011527,305011528,305011529,305011530,305011531,305011532,305011533,305011534,305011536,305011538,305012600,305012601,305012602,305012603,305012604,305012605,305012606,305012607,305012608,305012609,305012610,305012611,305012612,305012614,305012615,305012616,305012617,305012618,305012619,305012621,305012622,305012623,305012624,305012625,305012626,305012627,305012628,305012629,305012630,305012631,305012632,305012633,305012634,305012635,305012636,305012637,305012638,305012639,305012640,305012641,305012642,305012643,305012644,305012645,305012646,305012647,305012648,305012649,305012650,305012651,305012653,305012654,305012661,305013516,305013552,305018571,305019997,305040001,305040002,305040003,305040004,305040005,305040006,305040007,305040008,305040009,305040010,305040011,305040012,305040013,305040014,305040015,305040016,305040017,305040018,305040021,305040022,305040023,305040024,305040025,305040026,305040027,305040028,305040029,305040030,305040031,305040032,305040033,305040034,305040035,305040036,305040037,305040038,305040039,305040040,305040041,305040042,305040043,305040044,305040045,305040046,305040047,305040048,305040049,305040050,305040051,305040052,305040053,305040054,305040055,305040056,305040057,305040058,305040059,305040060,305040061,305040062,305040063,305040064,305040065,305040066,305040067,305040068,305040069,305040070,305040071,305040072,305040073,305040074,305040075,305040076,305040077,305040078,305040079,305040080,305040081,305040082,305040083,305040084,305040085,305040086,305040087,305040088,305040089,305040090,305040091,305040092,305040093,305040094,305040095,305040096,305040097,305040098,305041100,305041101,305041102,305041103,305041104,305041105,305041106,305041107,305041108,305041109,305041110,305041111,305041112,305041113,305041114,305041115,305041116,305041117,305041118,305041119,305041120,305041121,305041122,305041123,305041124,305041125,305041126,305041127,305041128,305041129,305041130,305041131,305041132,305041133,305041134,305041135,305041152",
+        "freeformAddress": "Dawsonville Highway, Gainesville, GA",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501,30504",
+        "streetName": "Dawsonville Highway"
+      },
+      "id": "US/STR/p0/97613",
+      "position": {
+        "lat": 34.30814,
+        "lon": -83.8639
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.29988,
+          "lon": -83.85126
+        },
+        "topLeftPoint": {
+          "lat": 34.31786,
+          "lon": -83.87304
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Murrayville",
+        "extendedPostalCode": "305011006",
+        "freeformAddress": "Dawsonville Highway, Gainesville, GA",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501,30506",
+        "streetName": "Dawsonville Highway"
+      },
+      "id": "US/STR/p0/2727633",
+      "position": {
+        "lat": 34.32392,
+        "lon": -83.88169
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.32236,
+          "lon": -83.88018
+        },
+        "topLeftPoint": {
+          "lat": 34.32497,
+          "lon": -83.88291
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Gainesville",
+        "extendedPostalCode": "305011012,305011013,305011014",
+        "freeformAddress": "Old Dawsonville Road, Gainesville, GA 30501",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501",
+        "streetName": "Old Dawsonville Road"
+      },
+      "id": "US/STR/p0/3404958",
+      "position": {
+        "lat": 34.31838,
+        "lon": -83.87056
+      },
+      "score": 9.95478,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.31664,
+          "lon": -83.86866
+        },
+        "topLeftPoint": {
+          "lat": 34.31971,
+          "lon": -83.87252
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Gainesville",
+        "extendedPostalCode": "305013549,305013550,305013551,305013558,305013565,305013572,305013579,305018500,305018505,305018527,305018529,305018530,305018531,305018532,305018534,305018537",
+        "freeformAddress": "John W Morrow Junior Parkway, Gainesville, GA 30501",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501",
+        "streetName": "John W Morrow Junior Parkway"
+      },
+      "id": "US/STR/p0/767358",
+      "position": {
+        "lat": 34.2952,
+        "lon": -83.83692
+      },
+      "score": 9.87296,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.28598,
+          "lon": -83.82592
+        },
+        "topLeftPoint": {
+          "lat": 34.30396,
+          "lon": -83.8477
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Gainesville",
+        "freeformAddress": "Dawsonville Highway & Old Dawsonville Road, Gainesville, GA 30501",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501",
+        "streetName": "Dawsonville Highway, Dawsonville Road, Georgia State Route 53, State Route 53, Georgia 53 & Old Dawsonville Road, Old Dawsonville Highway"
+      },
+      "id": "US/XSTR/p0/4521715",
+      "position": {
+        "lat": 34.31664,
+        "lon": -83.86871
+      },
+      "score": 8.55533,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.31574,
+          "lon": -83.86762
+        },
+        "topLeftPoint": {
+          "lat": 34.31754,
+          "lon": -83.8698
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Gainesville",
+        "freeformAddress": "John W Morrow Junior Parkway & Washington Street Southwest, Gainesville, GA 30501",
+        "municipality": "Gainesville",
+        "municipalitySubdivision": "Gainesville",
+        "postalCode": "30501",
+        "streetName": "John W Morrow Junior Parkway, Washington Street West, Georgia State Route 53 Connector, State Route 53 Connector, Dawsonville Highway, Georgia 53 Connector & Washington Street Southwest, Dawsonville Road, Georgia State Route 53 Connector, State Route 53 Connector, Georgia 53 Connector"
+      },
+      "id": "US/XSTR/p0/4521699",
+      "position": {
+        "lat": 34.29637,
+        "lon": -83.83898
+      },
+      "score": 8.25508,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.29547,
+          "lon": -83.83789
+        },
+        "topLeftPoint": {
+          "lat": 34.29727,
+          "lon": -83.84007
+        }
+      }
+    }
+  ],
+  "search_address": "924 Dawsonville Hwy Gainesville GA 30501",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 7,
+    "offset": 0,
+    "query": "924 dawsonville hwy gainesville ga 30501",
+    "queryTime": 114,
+    "queryType": "NON_NEAR",
+    "totalResults": 26
+  }
+}

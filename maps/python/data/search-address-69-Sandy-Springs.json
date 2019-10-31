@@ -1,0 +1,254 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303282932",
+        "freeformAddress": "6400 Colebridge Road Northwest, Sandy Springs, GA 30328",
+        "municipality": "Sandy Springs, Atlanta",
+        "municipalitySubdivision": "Sandy Springs, Atlanta",
+        "postalCode": "30328",
+        "streetName": "Colebridge Road Northwest",
+        "streetNumber": "6400"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.93004,
+          "lon": -84.39512
+        },
+        "rangeLeft": "6400 - 6400",
+        "rangeRight": "6401 - 6401",
+        "to": {
+          "lat": 33.92934,
+          "lon": -84.39504
+        }
+      },
+      "id": "US/ADDR/p0/15717350",
+      "position": {
+        "lat": 33.93004,
+        "lon": -84.39507
+      },
+      "score": 12.5294,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.92934,
+          "lon": -84.39504
+        },
+        "topLeftPoint": {
+          "lat": 33.93004,
+          "lon": -84.39512
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303282934,303282935",
+        "freeformAddress": "6400 Scott Valley Road Northwest, Sandy Springs, GA 30328",
+        "municipality": "Sandy Springs, Atlanta",
+        "municipalitySubdivision": "Sandy Springs, Atlanta",
+        "postalCode": "30328",
+        "streetName": "Scott Valley Road Northwest",
+        "streetNumber": "6400"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.93087,
+          "lon": -84.3951
+        },
+        "rangeLeft": "6400 - 6400",
+        "rangeRight": "6401 - 6401",
+        "to": {
+          "lat": 33.93087,
+          "lon": -84.3946
+        }
+      },
+      "id": "US/ADDR/p3/24024859",
+      "position": {
+        "lat": 33.93092,
+        "lon": -84.3951
+      },
+      "score": 12.48692,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.93087,
+          "lon": -84.3946
+        },
+        "topLeftPoint": {
+          "lat": 33.93087,
+          "lon": -84.3951
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303282904",
+        "freeformAddress": "6400 Bridgewood Valley Road, Atlanta, GA 30328",
+        "localName": "Atlanta",
+        "municipality": "Sandy Springs, Atlanta",
+        "municipalitySubdivision": "Sandy Springs, Atlanta",
+        "postalCode": "30328",
+        "streetName": "Bridgewood Valley Road",
+        "streetNumber": "6400"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.9299,
+            "lon": -84.3971
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/PAD/p0/22740868",
+      "position": {
+        "lat": 33.9299,
+        "lon": -84.39751
+      },
+      "score": 12.4119,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.929,
+          "lon": -84.39643
+        },
+        "topLeftPoint": {
+          "lat": 33.9308,
+          "lon": -84.39859
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "freeformAddress": "Abernathy Road Northwest, Sandy Springs, GA 30328",
+        "municipality": "Sandy Springs, Atlanta",
+        "municipalitySubdivision": "Sandy Springs",
+        "postalCode": "30328",
+        "streetName": "Abernathy Road Northwest"
+      },
+      "id": "US/STR/p0/306181",
+      "position": {
+        "lat": 33.93581,
+        "lon": -84.38871
+      },
+      "score": 12.40386,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.93563,
+          "lon": -84.38798
+        },
+        "topLeftPoint": {
+          "lat": 33.93601,
+          "lon": -84.38939
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303284813,303284814,303284815,303284816,303284818,303284841,303284849,303284855,303284873,303284874,303284875,303286227",
+        "freeformAddress": "Mitchell Road Northwest, Sandy Springs, GA 30328",
+        "municipality": "Sandy Springs, Atlanta",
+        "municipalitySubdivision": "Sandy Springs, Atlanta",
+        "postalCode": "30328",
+        "streetName": "Mitchell Road Northwest"
+      },
+      "id": "US/STR/p0/2522466",
+      "position": {
+        "lat": 33.91647,
+        "lon": -84.39023
+      },
+      "score": 12.40386,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.9139,
+          "lon": -84.39008
+        },
+        "topLeftPoint": {
+          "lat": 33.91931,
+          "lon": -84.39276
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303281825,303281826,303281827",
+        "freeformAddress": "Landfall Road Northwest, Sandy Springs, GA 30328",
+        "municipality": "Sandy Springs, Atlanta",
+        "municipalitySubdivision": "Sandy Springs, Atlanta",
+        "postalCode": "30328",
+        "streetName": "Landfall Road Northwest"
+      },
+      "id": "US/STR/p0/6570126",
+      "position": {
+        "lat": 33.94184,
+        "lon": -84.39998
+      },
+      "score": 12.40386,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94182,
+          "lon": -84.39765
+        },
+        "topLeftPoint": {
+          "lat": 33.94282,
+          "lon": -84.40219
+        }
+      }
+    }
+  ],
+  "search_address": "6400 Ptree-Dnwdy Rd Nw Sandy Springs GA 30328",
+  "summary": {
+    "fuzzyLevel": 2,
+    "numResults": 6,
+    "offset": 0,
+    "query": "6400 ptree dnwdy rd nw sandy springs ga 30328",
+    "queryTime": 307,
+    "queryType": "NON_NEAR",
+    "totalResults": 1219
+  }
+}

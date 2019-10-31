@@ -1,0 +1,172 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Canton",
+        "freeformAddress": "2200 Riverstone Boulevard, Canton, GA 30114",
+        "localName": "Canton",
+        "municipality": "Canton",
+        "municipalitySubdivision": "Canton",
+        "postalCode": "30114",
+        "streetName": "Riverstone Boulevard",
+        "streetNumber": "2200"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.25342,
+            "lon": -84.47454
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.25312,
+            "lon": -84.47422
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.25255,
+            "lon": -84.47365
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/1539976",
+      "position": {
+        "lat": 34.25398,
+        "lon": -84.47333
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.25308,
+          "lon": -84.47224
+        },
+        "topLeftPoint": {
+          "lat": 34.25488,
+          "lon": -84.47442
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Canton",
+        "extendedPostalCode": "3011403,3016901,3016950,3016951,301140300,301140301,301140302,301140303,301140304,301140305,301140306,301140307,301140308,301140309,301140310,301140311,301140312,301140313,301140314,301140315,301140316,301140317,301140318,301140319,301140332,301145227,301145235,301145250,301145254,301145600,301145604,301145635,301149998,301690100,301690101,301690102,301690103,301690104,301690105,301690107,301690108,301690109,301690111,301690112,301690117,301690118,301690119,301690120,301690121,301690122,301690123,301690124,301690125,301690127,301690128,301690129,301690131,301690132,301690133,301690134,301690135,301690136,301690137,301690138,301690139,301690140,301690141,301690142,301690143,301690144,301690145,301690147,301690148,301690149,301690151,301690152,301690153,301690154,301690155,301690156,301690157,301690158,301690159,301690160,301690161,301690162,301690163,301690164,301690165,301690167,301690168,301690169,301690170,301690171,301690172,301690173,301690174,301690175,301690176,301690177,301690178,301690179,301690180,301690181,301690182,301690183,301690184,301690185,301690186,301690187,301690188,301690189,301690190,301690191,301690192,301690193,301690194,301690195,301690196,301690197,301690198,301690199,301695000,301695001,301695002,301695003,301695004,301695005,301695006,301695007,301695008,301695009,301695010,301695011,301695012,301695013,301695014,301695015,301695016,301695017,301695018,301695019,301695020,301695021,301695022,301695023,301695024,301695025,301695026,301695027,301695028,301695029,301695030,301695031,301695032,301695033,301695034,301695035,301695036,301695037,301695038,301695039,301695040,301695041,301695042,301695043,301695044,301695045,301695046,301695047,301695048,301695049,301695050,301695051,301695052,301695053,301695054,301695055,301695056,301695057,301695058,301695059,301695060,301695061,301695062,301695063,301695064,301695065,301695066,301695067,301695068,301695069,301695070,301695071,301695072,301695073,301695074,301695075,301695076,301695077,301695078,301695079,301695080,301695081,301695082,301695083,301695084,301695085,301695086,301695087,301695088,301695089,301695090,301695091,301695092,301695093,301695094,301695095,301695096,301695097,301695098,301695099,301695100",
+        "freeformAddress": "Riverstone Boulevard, Canton, GA",
+        "municipality": "Canton",
+        "municipalitySubdivision": "Canton",
+        "postalCode": "30114,30169",
+        "streetName": "Riverstone Boulevard"
+      },
+      "id": "US/STR/p0/7240975",
+      "position": {
+        "lat": 34.25439,
+        "lon": -84.47511
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.24538,
+          "lon": -84.46658
+        },
+        "topLeftPoint": {
+          "lat": 34.26337,
+          "lon": -84.48834
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Canton",
+        "freeformAddress": "Riverstone Boulevard & Riverstone Parkway, Canton, GA 30114",
+        "municipality": "Canton",
+        "municipalitySubdivision": "Canton",
+        "postalCode": "30114",
+        "streetName": "Riverstone Boulevard & Riverstone Parkway, Georgia 5 Business, Georgia State Route 5 Business, Canton Highway, State Route 5 Business"
+      },
+      "id": "US/XSTR/p0/5650871",
+      "position": {
+        "lat": 34.25142,
+        "lon": -84.4732
+      },
+      "score": 8.82673,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.25052,
+          "lon": -84.47211
+        },
+        "topLeftPoint": {
+          "lat": 34.25232,
+          "lon": -84.47429
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Canton",
+        "freeformAddress": "Liberty Boulevard & Riverstone Parkway, Canton, GA 30114",
+        "municipality": "Canton",
+        "municipalitySubdivision": "Canton",
+        "postalCode": "30114",
+        "streetName": "Liberty Boulevard & Riverstone Parkway, Georgia 5 Business, Georgia State Route 5 Business, Canton Highway, Ball Ground Highway, State Route 5 Business"
+      },
+      "id": "US/XSTR/p0/5650875",
+      "position": {
+        "lat": 34.2575,
+        "lon": -84.46453
+      },
+      "score": 8.4729,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.2566,
+          "lon": -84.46344
+        },
+        "topLeftPoint": {
+          "lat": 34.2584,
+          "lon": -84.46562
+        }
+      }
+    }
+  ],
+  "search_address": "2200 Riverstone Blvd Canton GA 30114",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "2200 riverstone blvd canton ga 30114",
+    "queryTime": 56,
+    "queryType": "NON_NEAR",
+    "totalResults": 4
+  }
+}

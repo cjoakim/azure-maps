@@ -1,0 +1,200 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "freeformAddress": "3755 Shackleford Road, Duluth, GA 30096",
+        "localName": "Duluth",
+        "municipality": "Duluth",
+        "municipalitySubdivision": "Duluth",
+        "postalCode": "30096",
+        "streetName": "Shackleford Road",
+        "streetNumber": "3755"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.94806,
+            "lon": -84.13131
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.94923,
+            "lon": -84.13425
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.9478,
+            "lon": -84.13212
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.94971,
+            "lon": -84.13214
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.94875,
+            "lon": -84.13144
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.94928,
+            "lon": -84.13182
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.9475,
+            "lon": -84.13303
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/31691741",
+      "position": {
+        "lat": 33.94879,
+        "lon": -84.13182
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94789,
+          "lon": -84.13074
+        },
+        "topLeftPoint": {
+          "lat": 33.94969,
+          "lon": -84.1329
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "extendedPostalCode": "300961852,300961855,300961856,300961857,300961858,300961859,300961860,300961862,300961868,300964543,300964544,300964545,300964546,300968268,300968269,300968270",
+        "freeformAddress": "Shackleford Road, Duluth, GA 30096",
+        "municipality": "Duluth",
+        "municipalitySubdivision": "Duluth",
+        "postalCode": "30096",
+        "streetName": "Shackleford Road"
+      },
+      "id": "US/STR/p0/768580",
+      "position": {
+        "lat": 33.94664,
+        "lon": -84.13439
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.93771,
+          "lon": -84.12383
+        },
+        "topLeftPoint": {
+          "lat": 33.9557,
+          "lon": -84.14552
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "freeformAddress": "Pleasant Hill Road & Shackleford Road, Duluth, GA 30096",
+        "municipality": "Duluth",
+        "municipalitySubdivision": "Duluth",
+        "postalCode": "30096",
+        "streetName": "Pleasant Hill Road & Shackleford Road"
+      },
+      "id": "US/XSTR/p0/5186566",
+      "position": {
+        "lat": 33.94968,
+        "lon": -84.12833
+      },
+      "score": 8.54114,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94878,
+          "lon": -84.12725
+        },
+        "topLeftPoint": {
+          "lat": 33.95058,
+          "lon": -84.12941
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "freeformAddress": "Pineland Road & Shackleford Road, Duluth, GA 30096",
+        "municipality": "Duluth",
+        "municipalitySubdivision": "Duluth",
+        "postalCode": "30096",
+        "streetName": "Pineland Road & Shackleford Road"
+      },
+      "id": "US/XSTR/p1/1418413",
+      "position": {
+        "lat": 33.94739,
+        "lon": -84.13268
+      },
+      "score": 8.54114,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94649,
+          "lon": -84.1316
+        },
+        "topLeftPoint": {
+          "lat": 33.94829,
+          "lon": -84.13376
+        }
+      }
+    }
+  ],
+  "search_address": "3755 Shackleford Rd Duluth GA 30096",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "3755 shackleford rd duluth ga 30096",
+    "queryTime": 231,
+    "queryType": "NON_NEAR",
+    "totalResults": 4
+  }
+}

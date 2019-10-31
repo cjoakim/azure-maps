@@ -1,0 +1,298 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "freeformAddress": "5300 Windward Parkway, Alpharetta, GA 30004",
+        "localName": "Alpharetta",
+        "municipality": "Alpharetta",
+        "municipalitySubdivision": "Alpharetta, Milton",
+        "postalCode": "30004",
+        "streetName": "Windward Parkway",
+        "streetNumber": "5300"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.09012,
+            "lon": -84.27489
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.09054,
+            "lon": -84.27484
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/9152504",
+      "position": {
+        "lat": 34.09086,
+        "lon": -84.2738
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.08996,
+          "lon": -84.27271
+        },
+        "topLeftPoint": {
+          "lat": 34.09176,
+          "lon": -84.27489
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "extendedPostalCode": "3000464,300043815,300043827,300043828,300043829,300043841,300043842,300043843,300046407,300046408,300046409,300048950",
+        "freeformAddress": "Windward Parkway, Alpharetta, GA 30004",
+        "municipality": "Alpharetta",
+        "municipalitySubdivision": "Alpharetta, Milton",
+        "postalCode": "30004",
+        "streetName": "Windward Parkway"
+      },
+      "id": "US/STR/p0/5665794",
+      "position": {
+        "lat": 34.09075,
+        "lon": -84.27548
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.08826,
+          "lon": -84.27117
+        },
+        "topLeftPoint": {
+          "lat": 34.09431,
+          "lon": -84.27869
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "extendedPostalCode": "3000552,300043809,300043817,300043818,300043887,300043889,300043890,300043891,300043892,300043893,300043894,300043895,300044667,300044668,300044671,300044672,300044954,300045205,300047407,300048915,300048967,300048968,300048969,300048970,300048971,300048972,300048973,300048974,300048978,300048979,300048980,300048981,300048982,300048983,300048984,300048985,300052021,300052044,300052045,300052047,300052076,300054181,300054182,300054184,300054185,300054187,300054191,300054202,300055203,300055204,300055205,300055206,300055207,300055208,300055209,300055212,300055216,300055217,300055225,300055477,300055478,300055479,300055480,300057802,300057814,300058802,300058803,300058804,300058805,300058809,300058860,300058861,300058862,300058869,300058879,300058881,300058882,300058897,300058898",
+        "freeformAddress": "Windward Parkway, Alpharetta, GA",
+        "municipality": "Alpharetta",
+        "municipalitySubdivision": "Alpharetta",
+        "postalCode": "30004,30005,30009",
+        "streetName": "Windward Parkway"
+      },
+      "id": "US/STR/p0/5721906",
+      "position": {
+        "lat": 34.09167,
+        "lon": -84.24497
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.08201,
+          "lon": -84.23344
+        },
+        "topLeftPoint": {
+          "lat": 34.09999,
+          "lon": -84.25516
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "freeformAddress": "Windward Parkway West, Alpharetta, GA 30004",
+        "municipality": "Alpharetta, Milton",
+        "municipalitySubdivision": "Alpharetta, Milton",
+        "postalCode": "30004",
+        "streetName": "Windward Parkway West"
+      },
+      "id": "US/STR/p0/3584087",
+      "position": {
+        "lat": 34.09887,
+        "lon": -84.27993
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.09834,
+          "lon": -84.27992
+        },
+        "topLeftPoint": {
+          "lat": 34.09928,
+          "lon": -84.27995
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "freeformAddress": "Windward Village Parkway, Alpharetta, GA 30004",
+        "municipality": "Alpharetta, Milton",
+        "municipalitySubdivision": "Milton",
+        "postalCode": "30004",
+        "streetName": "Windward Village Parkway"
+      },
+      "id": "US/STR/p0/5745135",
+      "position": {
+        "lat": 34.09931,
+        "lon": -84.27285
+      },
+      "score": 9.7698,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.09822,
+          "lon": -84.27084
+        },
+        "topLeftPoint": {
+          "lat": 34.10022,
+          "lon": -84.27299
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "freeformAddress": "Highway 9 North & Windward Parkway, Alpharetta, GA 30004",
+        "municipality": "Alpharetta",
+        "municipalitySubdivision": "Milton, Alpharetta",
+        "postalCode": "30004",
+        "streetName": "Highway 9 North, Georgia State Route 9, Alpharetta Road, State Route 9, Cumming Highway, Georgia 9, Alpharetta Highway & Windward Parkway"
+      },
+      "id": "US/XSTR/p0/5773928",
+      "position": {
+        "lat": 34.09431,
+        "lon": -84.27869
+      },
+      "score": 8.7565,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.09341,
+          "lon": -84.2776
+        },
+        "topLeftPoint": {
+          "lat": 34.09521,
+          "lon": -84.27978
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "freeformAddress": "North Main Street & Windward Parkway, Alpharetta, GA 30004",
+        "municipality": "Alpharetta",
+        "municipalitySubdivision": "Alpharetta",
+        "postalCode": "30004,30009",
+        "streetName": "North Main Street, Georgia State Route 9, Alpharetta Road, State Route 9, Cumming Highway, Georgia 9, Alpharetta Highway & Windward Parkway"
+      },
+      "id": "US/XSTR/p0/5773929",
+      "position": {
+        "lat": 34.09431,
+        "lon": -84.27869
+      },
+      "score": 8.7565,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.09341,
+          "lon": -84.2776
+        },
+        "topLeftPoint": {
+          "lat": 34.09521,
+          "lon": -84.27978
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "freeformAddress": "North Main Street & Windward Parkway West, Alpharetta, GA 30004",
+        "municipality": "Alpharetta",
+        "municipalitySubdivision": "Alpharetta",
+        "postalCode": "30004",
+        "streetName": "North Main Street, Georgia State Route 9, State Route 9, Alpharetta Road, Cumming Highway, Georgia 9, Alpharetta Highway & Windward Parkway West"
+      },
+      "id": "US/XSTR/p0/5773931",
+      "position": {
+        "lat": 34.09425,
+        "lon": -84.27881
+      },
+      "score": 8.71872,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.09335,
+          "lon": -84.27772
+        },
+        "topLeftPoint": {
+          "lat": 34.09515,
+          "lon": -84.2799
+        }
+      }
+    }
+  ],
+  "search_address": "5300 Windward Pkwy Alpharetta GA 30004",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 8,
+    "offset": 0,
+    "query": "5300 windward pkwy alpharetta ga 30004",
+    "queryTime": 48,
+    "queryType": "NON_NEAR",
+    "totalResults": 43
+  }
+}

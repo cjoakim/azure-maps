@@ -1,2 +1,4 @@
 # azure-maps
-Examples of Azure Maps
+
+Azure Maps examples
+

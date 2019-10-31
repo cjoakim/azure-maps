@@ -1,0 +1,235 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "freeformAddress": "3355 Cobb Parkway Northwest, Acworth, GA 30101",
+        "localName": "Acworth",
+        "municipality": "Acworth",
+        "municipalitySubdivision": "Acworth",
+        "postalCode": "30101",
+        "streetName": "Cobb Parkway Northwest",
+        "streetNumber": "3355"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.03602,
+            "lon": -84.68473
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.03594,
+            "lon": -84.68519
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.03662,
+            "lon": -84.68703
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/53447723",
+      "position": {
+        "lat": 34.03536,
+        "lon": -84.68494
+      },
+      "score": 11.91501,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.03446,
+          "lon": -84.68385
+        },
+        "topLeftPoint": {
+          "lat": 34.03626,
+          "lon": -84.68603
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "freeformAddress": "Cobb Parkway Northwest, Acworth, GA 30101",
+        "municipality": "Acworth",
+        "postalCode": "30101",
+        "streetName": "Cobb Parkway Northwest"
+      },
+      "id": "US/STR/p0/60307",
+      "position": {
+        "lat": 34.05412,
+        "lon": -84.70502
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.05097,
+          "lon": -84.70162
+        },
+        "topLeftPoint": {
+          "lat": 34.05565,
+          "lon": -84.70929
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Bartow",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Emerson",
+        "freeformAddress": "Cobb Parkway Northwest, Acworth, GA",
+        "municipality": "Acworth, Cartersville",
+        "postalCode": "30101,30120",
+        "streetName": "Cobb Parkway Northwest"
+      },
+      "id": "US/STR/p0/5666551",
+      "position": {
+        "lat": 34.09343,
+        "lon": -84.74019
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.0907,
+          "lon": -84.73956
+        },
+        "topLeftPoint": {
+          "lat": 34.09603,
+          "lon": -84.74032
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Bartow",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Emerson",
+        "freeformAddress": "Cobb Parkway Northwest, Acworth, GA 30101",
+        "municipality": "Acworth",
+        "postalCode": "30101",
+        "streetName": "Cobb Parkway Northwest"
+      },
+      "id": "US/STR/p0/9334607",
+      "position": {
+        "lat": 34.08443,
+        "lon": -84.73404
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.07588,
+          "lon": -84.7236
+        },
+        "topLeftPoint": {
+          "lat": 34.09386,
+          "lon": -84.74531
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "freeformAddress": "Cobb Parkway North Northwest, Acworth, GA 30101",
+        "municipality": "Acworth",
+        "municipalitySubdivision": "Acworth",
+        "postalCode": "30101",
+        "streetName": "Cobb Parkway North Northwest"
+      },
+      "id": "US/STR/p0/2727560",
+      "position": {
+        "lat": 34.04962,
+        "lon": -84.70037
+      },
+      "score": 10.13738,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.04946,
+          "lon": -84.70024
+        },
+        "topLeftPoint": {
+          "lat": 34.0499,
+          "lon": -84.70058
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Acworth-Kennesaw",
+        "extendedPostalCode": "301014130,301014132,301014141,301014143,301014145,301014147,301014152,301014153,301014154,301014155,301014180,301014181,301014182,301014219,301014262,301014263",
+        "freeformAddress": "Cobb Parkway North Northwest, Acworth, GA 30101",
+        "municipality": "Acworth",
+        "municipalitySubdivision": "Acworth",
+        "postalCode": "30101",
+        "streetName": "Cobb Parkway North Northwest"
+      },
+      "id": "US/STR/p0/2727561",
+      "position": {
+        "lat": 34.06622,
+        "lon": -84.72448
+      },
+      "score": 10.13738,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.05818,
+          "lon": -84.7108
+        },
+        "topLeftPoint": {
+          "lat": 34.07617,
+          "lon": -84.73251
+        }
+      }
+    }
+  ],
+  "search_address": "3355 Cobb Pkwy Acworth GA 30101",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 6,
+    "offset": 0,
+    "query": "3355 cobb pkwy acworth ga 30101",
+    "queryTime": 109,
+    "queryType": "NON_NEAR",
+    "totalResults": 195
+  }
+}

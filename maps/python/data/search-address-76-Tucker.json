@@ -1,0 +1,90 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lilburn",
+        "freeformAddress": "4136 Jimmy Carter Boulevard, Norcross, GA 30093",
+        "localName": "Norcross",
+        "municipality": "Norcross",
+        "municipalitySubdivision": "Norcross",
+        "postalCode": "30093",
+        "streetName": "Jimmy Carter Boulevard",
+        "streetNumber": "4136"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.86866,
+            "lon": -84.18827
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/PAD/p1/25827665",
+      "position": {
+        "lat": 33.86862,
+        "lon": -84.18999
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86772,
+          "lon": -84.18891
+        },
+        "topLeftPoint": {
+          "lat": 33.86952,
+          "lon": -84.19107
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lilburn",
+        "freeformAddress": "Jimmy Carter Boulevard, Norcross, GA 30093",
+        "municipality": "Norcross",
+        "postalCode": "30093",
+        "streetName": "Jimmy Carter Boulevard"
+      },
+      "id": "US/STR/p0/2524246",
+      "position": {
+        "lat": 33.88517,
+        "lon": -84.19163
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.88479,
+          "lon": -84.1913
+        },
+        "topLeftPoint": {
+          "lat": 33.88553,
+          "lon": -84.192
+        }
+      }
+    }
+  ],
+  "search_address": "4136 Jimmy Carter Blvd Norcross GA 30093",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 2,
+    "offset": 0,
+    "query": "4136 jimmy carter blvd norcross ga 30093",
+    "queryTime": 62,
+    "queryType": "NON_NEAR",
+    "totalResults": 43
+  }
+}

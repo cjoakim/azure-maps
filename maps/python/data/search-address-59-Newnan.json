@@ -1,0 +1,193 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Coweta",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Newnan",
+        "extendedPostalCode": "302652164,302652190",
+        "freeformAddress": "1100 Highway 34 East, Newnan, GA 30265",
+        "municipality": "Newnan",
+        "municipalitySubdivision": "Newnan",
+        "postalCode": "30265",
+        "streetName": "Highway 34 East",
+        "streetNumber": "1100"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.39703,
+          "lon": -84.74259
+        },
+        "rangeLeft": "1062 - 1112",
+        "to": {
+          "lat": 33.397,
+          "lon": -84.74227
+        }
+      },
+      "id": "US/ADDR/p0/27262819",
+      "position": {
+        "lat": 33.39705,
+        "lon": -84.74234
+      },
+      "score": 11.50897,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.397,
+          "lon": -84.74227
+        },
+        "topLeftPoint": {
+          "lat": 33.39703,
+          "lon": -84.74259
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Coweta",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Newnan",
+        "freeformAddress": "Bullsboro Drive, Newnan, GA 30265",
+        "municipality": "Newnan",
+        "municipalitySubdivision": "Newnan",
+        "postalCode": "30265",
+        "streetName": "Bullsboro Drive"
+      },
+      "id": "US/STR/p0/306657",
+      "position": {
+        "lat": 33.39817,
+        "lon": -84.73428
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.39791,
+          "lon": -84.73406
+        },
+        "topLeftPoint": {
+          "lat": 33.39826,
+          "lon": -84.7344
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Coweta",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Newnan",
+        "extendedPostalCode": "3026384,302631017,302631018,302631019,302631020,302631069,302631292,302631293,302631294,302631295,302631400,302631412,302631413,302631434,302631435,302631460,302631461,302631462,302631463,302631476,302631477,302631478,302631570,302631680,302631681,302631690,302633158,302633159,302633160,302633166,302633167,302634825,302634826,302634845,302635800,302635819,302635820,302635839,302635840,302635841,302636390,302636402,302636403,302638403,302638404",
+        "freeformAddress": "Bullsboro Drive, Newnan, GA",
+        "municipality": "Newnan",
+        "municipalitySubdivision": "Newnan",
+        "postalCode": "30263,30265",
+        "streetName": "Bullsboro Drive"
+      },
+      "id": "US/STR/p0/5896684",
+      "position": {
+        "lat": 33.38831,
+        "lon": -84.77661
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.38005,
+          "lon": -84.76635
+        },
+        "topLeftPoint": {
+          "lat": 33.39804,
+          "lon": -84.78789
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Coweta",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Newnan",
+        "extendedPostalCode": "3026500,3026528,3026532,3026552,3026564,3026568,302650001,302650002,302650003,302650004,302650005,302650006,302650007,302650008,302650009,302650010,302650011,302650012,302650013,302650014,302650015,302650016,302650017,302650018,302650019,302650020,302650021,302650022,302650023,302650024,302650025,302650026,302650027,302650028,302650029,302650030,302651007,302651008,302651034,302651035,302651043,302651045,302651304,302651320,302651321,302651322,302651323,302651324,302651325,302651326,302651327,302651328,302651329,302651330,302651331,302651332,302651333,302651342,302651343,302651366,302651383,302651384,302651434,302652102,302652120,302652121,302652122,302652123,302652126,302652128,302652130,302652131,302652132,302652139,302652143,302652144,302652145,302652156,302652162,302652164,302652173,302652174,302652176,302652177,302652178,302652179,302652182,302652183,302652185,302652190,302652191,302652192,302652193,302652194,302652195,302652196,302652309,302652315,302652316,302652335,302652349,302652350,302652352,302652353,302652355,302652372,302652373,302652375,302652376,302652377,302652378,302652379,302652380,302652382,302652388,302652389,302652393,302652394,302652401,302652403,302652404,302652800,302652801,302653184,302653185,302653186,302653187,302653188,302653189,302653190,302653191,302653192,302653193,302653200,302655200,302655631,302655675,302655692,302656402,302656403,302656404,302656407,302656408,302656409,302656410,302656411,302656414,302656415,302656416,302656417,302656418,302656419,302656420,302656421,302656422,302656423,302656426,302656427,302656428,302656429,302656430,302656431,302656432,302656800,302656801,302656802,302656803,302656804",
+        "freeformAddress": "Highway 34 East, Newnan, GA 30265",
+        "municipality": "Newnan",
+        "municipalitySubdivision": "Newnan",
+        "postalCode": "30265",
+        "streetName": "Highway 34 East"
+      },
+      "id": "US/STR/p0/4355066",
+      "position": {
+        "lat": 33.40294,
+        "lon": -84.7183
+      },
+      "score": 9.91348,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.39306,
+          "lon": -84.70721
+        },
+        "topLeftPoint": {
+          "lat": 33.41104,
+          "lon": -84.72876
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Coweta",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Newnan",
+        "freeformAddress": "Highway 34 East, Newnan, GA 30265",
+        "municipality": "Newnan",
+        "postalCode": "30265",
+        "streetName": "Highway 34 East"
+      },
+      "id": "US/STR/p0/5147472",
+      "position": {
+        "lat": 33.39675,
+        "lon": -84.75357
+      },
+      "score": 9.91348,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.39664,
+          "lon": -84.75255
+        },
+        "topLeftPoint": {
+          "lat": 33.39685,
+          "lon": -84.75469
+        }
+      }
+    }
+  ],
+  "search_address": "1100 Bullsboro Dr Newnan GA 30265",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "1100 bullsboro dr newnan ga 30265",
+    "queryTime": 144,
+    "queryType": "NON_NEAR",
+    "totalResults": 31
+  }
+}

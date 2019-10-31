@@ -1,0 +1,82 @@
+[
+  {
+    "area_code": "404",
+    "city": "Atlanta",
+    "city_state_zip": "Atlanta GA 30324",
+    "location": {
+      "lat": 33.82454,
+      "lon": -84.36545
+    },
+    "name": "Buckhead",
+    "phone": "(404)841-5608",
+    "search_address": "2525 Piedmont Road Ne Atlanta GA 30324",
+    "state": "GA",
+    "store_num": 13,
+    "street": "2525 Piedmont Road Ne",
+    "zip": "30324"
+  },
+  {
+    "area_code": "404",
+    "city": "Atlanta",
+    "city_state_zip": "Atlanta GA 30331",
+    "location": {
+      "lat": 33.72704,
+      "lon": -84.5039
+    },
+    "name": "Cascade",
+    "phone": "(404)691-2077",
+    "search_address": "1032 Research Center Atlanta Drive Atlanta GA 30331",
+    "state": "GA",
+    "store_num": 19,
+    "street": "1032 Research Center Atlanta Drive",
+    "zip": "30331"
+  },
+  {
+    "area_code": "404",
+    "city": "Atlanta",
+    "city_state_zip": "Atlanta GA 30354",
+    "location": {
+      "lat": 33.68097,
+      "lon": -84.3667
+    },
+    "name": "Jonesboro",
+    "phone": "(404)361-5634",
+    "search_address": "3885 Jonesboro Rd Se Atlanta GA 30354",
+    "state": "GA",
+    "store_num": 43,
+    "street": "3885 Jonesboro Rd Se",
+    "zip": "30354"
+  },
+  {
+    "area_code": "404",
+    "city": "Atlanta",
+    "city_state_zip": "Atlanta GA 30308",
+    "location": {
+      "lat": 33.77408,
+      "lon": -84.36586
+    },
+    "name": "Midtown",
+    "phone": "(404)892-8042",
+    "search_address": "650 Ponce De Leon Atlanta GA 30308",
+    "state": "GA",
+    "store_num": 53,
+    "street": "650 Ponce De Leon",
+    "zip": "30308"
+  },
+  {
+    "area_code": "404",
+    "city": "Decatur",
+    "city_state_zip": "Decatur GA 30033",
+    "location": {
+      "lat": 33.81331,
+      "lon": -84.26898
+    },
+    "name": "Wages Drive",
+    "phone": "(404)315-0015",
+    "search_address": "2295 Lawrenceville Hwy Decatur GA 30033",
+    "state": "GA",
+    "store_num": 80,
+    "street": "2295 Lawrenceville Hwy",
+    "zip": "30033"
+  }
+]

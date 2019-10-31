@@ -1,0 +1,247 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Colquitt",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Moultrie",
+        "extendedPostalCode": "317884110",
+        "freeformAddress": "450 Veterans Parkway North, Moultrie, GA 31788",
+        "localName": "Moultrie",
+        "municipality": "Moultrie",
+        "municipalitySubdivision": "Moultrie",
+        "postalCode": "31788",
+        "streetName": "Veterans Parkway North",
+        "streetNumber": "450"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 31.18946,
+            "lon": -83.76192
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 31.189,
+            "lon": -83.76149
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 31.18832,
+            "lon": -83.76046
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 31.18871,
+            "lon": -83.75973
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/31884634",
+      "position": {
+        "lat": 31.18976,
+        "lon": -83.76041
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.18886,
+          "lon": -83.75936
+        },
+        "topLeftPoint": {
+          "lat": 31.19066,
+          "lon": -83.76146
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Colquitt",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Moultrie",
+        "extendedPostalCode": "317689127,317881903,317881911,317881919,317881929,317881930,317881933,317881934,317881935,317881940,317881941,317881942,317881943,317881944,317884108,317884109,317884110,317884117,317884118,317884121,317884122,317884160,317884171,317884176,317884178,317889101,317889102,317889120,317889121,317889125,317889126",
+        "freeformAddress": "Veterans Parkway North, Moultrie, GA",
+        "municipality": "Moultrie",
+        "municipalitySubdivision": "Moultrie",
+        "postalCode": "31768,31788",
+        "streetName": "Veterans Parkway North"
+      },
+      "id": "US/STR/p0/4889249",
+      "position": {
+        "lat": 31.19629,
+        "lon": -83.76775
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.18446,
+          "lon": -83.75977
+        },
+        "topLeftPoint": {
+          "lat": 31.20245,
+          "lon": -83.78079
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Colquitt",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Moultrie",
+        "extendedPostalCode": "3178888,3178894,317886200,317886201,317886210,317886283,317886286,317886287,317886703,317886705,317886706,317886708,317886711,317886756,317886759,317886760,317886761,317886762,317886763,317886782,317887710,317887746,317887762,317887778,317887779,317887780,317888800,317888801,317888802,317888803,317888804,317888805,317888806,317888807,317888808,317888809,317888810,317888811,317888812,317888813,317888814,317888815,317888816,317888817,317888818,317888819,317888820,317888821,317888822,317888823,317888824,317888825,317888826,317888827,317888828,317888829,317888830,317888831,317888832,317888833,317888834,317888835,317888836,317888837,317888838,317888839,317888840,317888841,317888842,317888843,317888844,317889400,317889401",
+        "freeformAddress": "Veterans Parkway South, Moultrie, GA",
+        "municipality": "Moultrie",
+        "municipalitySubdivision": "Moultrie",
+        "postalCode": "31768,31788",
+        "streetName": "Veterans Parkway South"
+      },
+      "id": "US/STR/p0/8380300",
+      "position": {
+        "lat": 31.1441,
+        "lon": -83.76636
+      },
+      "score": 12.09621,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.13791,
+          "lon": -83.7627
+        },
+        "topLeftPoint": {
+          "lat": 31.15589,
+          "lon": -83.78371
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Colquitt",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Moultrie",
+        "freeformAddress": "US Highway 319 North & Veterans Parkway North, Moultrie, GA 31788",
+        "municipality": "Moultrie",
+        "municipalitySubdivision": "Moultrie",
+        "postalCode": "31768,31788",
+        "streetName": "US Highway 319 North, US-319 South, Tifton Highway, Georgia State Route 35, Georgia 35, State Route 133, State Route 35, United States Highway 319 South, Georgia State Route 33, United States Highway 319 North, Georgia State Route 133, Georgia 133, State Route 33, US-319 North, Georgia 33 & Veterans Parkway North, State Route 35, Georgia State Route 35, United States Highway 319 North, Georgia State Route 133, East Bypass Northeast, Georgia 35, Georgia 133, State Route 133, US-319 North"
+      },
+      "id": "US/XSTR/p0/3179259",
+      "position": {
+        "lat": 31.20846,
+        "lon": -83.77876
+      },
+      "score": 10.60552,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.20756,
+          "lon": -83.77771
+        },
+        "topLeftPoint": {
+          "lat": 31.20936,
+          "lon": -83.77981
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Colquitt",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Moultrie",
+        "freeformAddress": "Georgia Highway 133 North & Veterans Parkway North, Moultrie, GA 31768",
+        "municipality": "Moultrie",
+        "municipalitySubdivision": "Moultrie",
+        "postalCode": "31768",
+        "streetName": "Georgia Highway 133 North, Georgia State Route 33, Georgia State Route 133, Georgia 133, State Route 33, State Route 133, Georgia 33 & Veterans Parkway North, State Route 35, Georgia State Route 35, United States Highway 319 North, Georgia State Route 133, East Bypass Northeast, Georgia 35, Georgia 133, State Route 133, US-319 North"
+      },
+      "id": "US/XSTR/p0/3179260",
+      "position": {
+        "lat": 31.20853,
+        "lon": -83.7787
+      },
+      "score": 10.60552,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.20763,
+          "lon": -83.77765
+        },
+        "topLeftPoint": {
+          "lat": 31.20943,
+          "lon": -83.77975
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Colquitt",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Moultrie",
+        "freeformAddress": "US Highway 319 South & Veterans Parkway South, Moultrie, GA 31788",
+        "municipality": "Moultrie",
+        "municipalitySubdivision": "Moultrie",
+        "postalCode": "31768,31788",
+        "streetName": "US Highway 319 South, State Route 35, Georgia State Route 35, United States Highway 319 North, Georgia 35, US-319 North & Veterans Parkway South, State Route 35, East Bypass, Georgia State Route 35, United States Highway 319 North, Georgia 35, US-319 North"
+      },
+      "id": "US/XSTR/p1/5398178",
+      "position": {
+        "lat": 31.11539,
+        "lon": -83.78486
+      },
+      "score": 10.39695,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 31.11449,
+          "lon": -83.78381
+        },
+        "topLeftPoint": {
+          "lat": 31.11629,
+          "lon": -83.78591
+        }
+      }
+    }
+  ],
+  "search_address": "450 Veterans Pkwy North Moultrie GA 31788",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 6,
+    "offset": 0,
+    "query": "450 veterans pkwy north moultrie ga 31788",
+    "queryTime": 128,
+    "queryType": "NON_NEAR",
+    "totalResults": 11
+  }
+}

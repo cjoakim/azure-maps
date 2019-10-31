@@ -1,0 +1,307 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "extendedPostalCode": "300524930",
+        "freeformAddress": "4141 Atlanta Highway, Loganville, GA 30052",
+        "localName": "Loganville",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Atlanta Highway",
+        "streetNumber": "4141"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.84434,
+            "lon": -83.90936
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.84464,
+            "lon": -83.90995
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.84385,
+            "lon": -83.90945
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/55839930",
+      "position": {
+        "lat": 33.84334,
+        "lon": -83.91126
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.84244,
+          "lon": -83.91018
+        },
+        "topLeftPoint": {
+          "lat": 33.84424,
+          "lon": -83.91234
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Walton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Loganville",
+        "extendedPostalCode": "300522341,300522600,300522608,300522615,300522616,300522636,300522638,300522639,300522640,300522641,300522642,300522646,300522652,300522666,300522686,300522688,300522689,300523078,300523090,300523155,300523188,300523189,300523214,300523232,300523262,300523264,300523276,300523288,300523313,300523326,300523700,300523725,300523736,300523737,300523754,300526005,300526731,300526732,300526734,300526735,300526736,300526777,300526778,300526779,300526786,300526788,300526792,300526793,300527300,300527305,300527306,300527307,300527308,300527310,300527311,300527312,300527313,300527314,300527315,300527316,300527317,300527324,300527325,300527326,300527355,300527361,300527371,300527389,300527465,300527467,300527468,300527469,300527470,300527471,300527472",
+        "freeformAddress": "Atlanta Highway, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Atlanta Highway"
+      },
+      "id": "US/STR/p0/3266791",
+      "position": {
+        "lat": 33.83536,
+        "lon": -83.8965
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.82887,
+          "lon": -83.88429
+        },
+        "topLeftPoint": {
+          "lat": 33.84685,
+          "lon": -83.90594
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "extendedPostalCode": "300522200,300522204,300522207,300522210,300522211,300522214,300522215,300522217,300522229,300522230,300522247,300522250,300522259,300522260,300522268,300522269,300522270,300522271,300522277,300522278,300522295,300522296,300522477,300522482,300523093,300523094,300524902,300524903,300524904,300524905,300524931,300524934,300524935,300524936,300524937,300524938,300524939,300524940,300524941,300524947,300524948,300524952,300524953,300524967,300524968,300524970,300524973,300524974,300524975,300524984,300524987,300524991,300524997,300525137,300525282,300525284,300527809,300527898,300527943,300527980,300527981,300527982,300528213,300528256,300528257,300528263,300528272,300528273,300528274,300528290,300528293",
+        "freeformAddress": "Athens Highway, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Athens Highway"
+      },
+      "id": "US/STR/p0/5721510",
+      "position": {
+        "lat": 33.85518,
+        "lon": -83.93594
+      },
+      "score": 9.87296,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.84609,
+          "lon": -83.92526
+        },
+        "topLeftPoint": {
+          "lat": 33.86408,
+          "lon": -83.94691
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Walton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Loganville",
+        "extendedPostalCode": "300523702,300523711,300523714,300523715,300523716,300523717,300523720,300523721,300523722,300523724,300523726,300523727,300523728,300523729,300523733,300523735,300523740,300523741,300523742,300523743,300523744,300523746,300523747,300523748,300523749,300523753,300523755,300523757,300523758,300523762,300523765,300523819,300523820,300523829,300523830,300523846,300523852,300523855,300523957,300523958,300527115,300527129,300527164",
+        "freeformAddress": "Highway 78, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Highway 78"
+      },
+      "id": "US/STR/p0/12514949",
+      "position": {
+        "lat": 33.8296,
+        "lon": -83.85008
+      },
+      "score": 9.87296,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.81883,
+          "lon": -83.83925
+        },
+        "topLeftPoint": {
+          "lat": 33.83681,
+          "lon": -83.8609
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Athens Highway & Old Loganville Road, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Athens Highway, Atlanta Highway, Georgia 10, United States Highway 78 West, United States Highway 78 East, Georgia State Route 10, State Route 10, US-78 East, US-78 West & Old Loganville Road"
+      },
+      "id": "US/XSTR/p1/4790605",
+      "position": {
+        "lat": 33.84945,
+        "lon": -83.91694
+      },
+      "score": 8.55985,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.84855,
+          "lon": -83.91586
+        },
+        "topLeftPoint": {
+          "lat": 33.85035,
+          "lon": -83.91802
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Walton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Loganville",
+        "freeformAddress": "Atlanta Highway & Highway 78, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Atlanta Highway, Georgia 81, Georgia 10, United States Highway 78 West, United States Highway 78 East, State Route 81, Georgia State Route 10, State Route 10, US-78 East, US-78 West, Georgia State Route 81 & Highway 78, Atlanta Highway, Georgia 10, United States Highway 78 West, United States Highway 78 East, Georgia State Route 10, State Route 10, US-78 East, US-78 West"
+      },
+      "id": "US/XSTR/p0/1243794",
+      "position": {
+        "lat": 33.83287,
+        "lon": -83.88177
+      },
+      "score": 8.54114,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.83197,
+          "lon": -83.88069
+        },
+        "topLeftPoint": {
+          "lat": 33.83377,
+          "lon": -83.88285
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Snellville-Grayson",
+        "freeformAddress": "Atlanta Highway & Logan Drive, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Atlanta Highway, Athens Highway, Georgia 10, United States Highway 78 West, United States Highway 78 East, Georgia State Route 10, State Route 10, US-78 East, US-78 West & Logan Drive, Highway 78"
+      },
+      "id": "US/XSTR/p0/5929825",
+      "position": {
+        "lat": 33.84399,
+        "lon": -83.90912
+      },
+      "score": 8.54114,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.84309,
+          "lon": -83.90804
+        },
+        "topLeftPoint": {
+          "lat": 33.84489,
+          "lon": -83.9102
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Walton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Loganville",
+        "freeformAddress": "Atlanta Highway & Highway 81, Loganville, GA 30052",
+        "municipality": "Loganville",
+        "municipalitySubdivision": "Loganville",
+        "postalCode": "30052",
+        "streetName": "Atlanta Highway, Georgia 81, Georgia 10, United States Highway 78 West, United States Highway 78 East, State Route 81, Georgia State Route 10, State Route 10, US-78 East, US-78 West, Georgia State Route 81 & Highway 81, Georgia 81, State Route 81, Georgia State Route 81"
+      },
+      "id": "US/XSTR/p1/3700286",
+      "position": {
+        "lat": 33.83287,
+        "lon": -83.88177
+      },
+      "score": 8.54114,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.83197,
+          "lon": -83.88069
+        },
+        "topLeftPoint": {
+          "lat": 33.83377,
+          "lon": -83.88285
+        }
+      }
+    }
+  ],
+  "search_address": "4141 Atlanta Highway Loganville GA 30052",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 8,
+    "offset": 0,
+    "query": "4141 atlanta highway loganville ga 30052",
+    "queryTime": 151,
+    "queryType": "NON_NEAR",
+    "totalResults": 9
+  }
+}

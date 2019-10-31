@@ -1,0 +1,138 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Vinings",
+        "freeformAddress": "2450 Cumberland Parkway Southeast, Atlanta, GA 30339",
+        "localName": "Atlanta",
+        "municipality": "Atlanta, Vinings",
+        "municipalitySubdivision": "Atlanta, Vinings",
+        "postalCode": "30339",
+        "streetName": "Cumberland Parkway Southeast",
+        "streetNumber": "2450"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.86281,
+            "lon": -84.47727
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.86247,
+            "lon": -84.47738
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.86339,
+            "lon": -84.4769
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/26781546",
+      "position": {
+        "lat": 33.86234,
+        "lon": -84.47627
+      },
+      "score": 11.91501,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.86144,
+          "lon": -84.47519
+        },
+        "topLeftPoint": {
+          "lat": 33.86324,
+          "lon": -84.47735
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Vinings",
+        "freeformAddress": "Cumberland Parkway, Atlanta, GA 30339",
+        "municipality": "Atlanta, Vinings",
+        "municipalitySubdivision": "Vinings",
+        "postalCode": "30339",
+        "streetName": "Cumberland Parkway"
+      },
+      "id": "US/STR/p0/307530",
+      "position": {
+        "lat": 33.87639,
+        "lon": -84.46009
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.87616,
+          "lon": -84.45962
+        },
+        "topLeftPoint": {
+          "lat": 33.87648,
+          "lon": -84.46048
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Vinings",
+        "freeformAddress": "Cumberland Parkway Southeast, Atlanta, GA 30339",
+        "municipality": "Atlanta, Vinings",
+        "municipalitySubdivision": "Vinings",
+        "postalCode": "30339",
+        "streetName": "Cumberland Parkway Southeast"
+      },
+      "id": "US/STR/p0/97623",
+      "position": {
+        "lat": 33.87855,
+        "lon": -84.4719
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.87789,
+          "lon": -84.47151
+        },
+        "topLeftPoint": {
+          "lat": 33.87902,
+          "lon": -84.47237
+        }
+      }
+    }
+  ],
+  "search_address": "2450 Cumberland Pkwy Atlanta GA 30339",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "2450 cumberland pkwy atlanta ga 30339",
+    "queryTime": 65,
+    "queryType": "NON_NEAR",
+    "totalResults": 59
+  }
+}

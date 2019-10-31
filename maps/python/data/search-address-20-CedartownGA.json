@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Polk",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Cedartown",
+        "extendedPostalCode": "301254479",
+        "freeformAddress": "1500 Rome Highway, Cedartown, GA 30125",
+        "localName": "Cedartown",
+        "municipality": "Cedartown",
+        "municipalitySubdivision": "Cedartown",
+        "postalCode": "30125",
+        "streetName": "Rome Highway",
+        "streetNumber": "1500"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.04534,
+            "lon": -85.23619
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.04449,
+            "lon": -85.23635
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.04393,
+            "lon": -85.23457
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.0459,
+            "lon": -85.23581
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.04399,
+            "lon": -85.23272
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.04403,
+            "lon": -85.2317
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/4551203",
+      "position": {
+        "lat": 34.04491,
+        "lon": -85.23218
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.04401,
+          "lon": -85.23109
+        },
+        "topLeftPoint": {
+          "lat": 34.04581,
+          "lon": -85.23327
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Polk",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Cedartown",
+        "extendedPostalCode": "301254400,301254401,301254402,301254403,301254404,301254406,301254407,301254408,301254409,301254410,301254411,301254412,301254413,301254414,301254415,301254416,301254417,301254418,301254423,301254445,301254446,301254478,301254479,301254480,301254481,301254586,301256656,301256912",
+        "freeformAddress": "Rome Highway, Cedartown, GA 30125",
+        "municipality": "Cedartown",
+        "municipalitySubdivision": "Cedartown",
+        "postalCode": "30125",
+        "streetName": "Rome Highway"
+      },
+      "id": "US/STR/p0/4888058",
+      "position": {
+        "lat": 34.06373,
+        "lon": -85.23277
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.05438,
+          "lon": -85.22641
+        },
+        "topLeftPoint": {
+          "lat": 34.07237,
+          "lon": -85.24813
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Polk",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Cedartown",
+        "freeformAddress": "North Main Street & Rome Highway, Cedartown, GA 30125",
+        "municipality": "Cedartown",
+        "municipalitySubdivision": "Cedartown",
+        "postalCode": "30125",
+        "streetName": "North Main Street, United States Highway 27 Business Route North, Georgia 1 Business, Georgia State Route 1 Business, State Route 1 Business, US-27 Business North, US-27 Business South, United States Highway 27 Business Route South & Rome Highway, United States Highway 27 Business Route North, Georgia 1 Business, Georgia State Route 1 Business, State Route 1 Business, US-27 Business North, US-27 Business South, United States Highway 27 Business Route South"
+      },
+      "id": "US/XSTR/p0/5884502",
+      "position": {
+        "lat": 34.03716,
+        "lon": -85.24222
+      },
+      "score": 8.71613,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.03626,
+          "lon": -85.24113
+        },
+        "topLeftPoint": {
+          "lat": 34.03806,
+          "lon": -85.24331
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Polk",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Cedartown",
+        "freeformAddress": "Rome Highway & Syble W Brannon Parkway, Cedartown, GA 30125",
+        "municipality": "Cedartown",
+        "municipalitySubdivision": "Cedartown",
+        "postalCode": "30125",
+        "streetName": "Rome Highway, US-27 North, Georgia 1, State Route-1, United States Highway 27 North, Georgia State Route 1 & Syble W Brannon Parkway, US-27 North, United States Highway 27 Business Route North, Georgia 1, Georgia 1 Business, Georgia State Route 1 Business, State Route-1, United States Highway 27 North, State Route 1 Business, US-27 Business North, US-27 Business South, United States Highway 27 Business Route South, Georgia State Route 1"
+      },
+      "id": "US/XSTR/p0/421551",
+      "position": {
+        "lat": 34.04348,
+        "lon": -85.23639
+      },
+      "score": 8.55533,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.04258,
+          "lon": -85.2353
+        },
+        "topLeftPoint": {
+          "lat": 34.04438,
+          "lon": -85.23748
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Cave Spring",
+        "freeformAddress": "Cedartown Road & Rome Road Southwest, Cave Spring, GA 30124",
+        "municipality": "Cave Spring",
+        "municipalitySubdivision": "Cave Spring",
+        "postalCode": "30124",
+        "streetName": "Cedartown Road & Rome Road Southwest, United States Highway 411 South, Georgia State Route 53, United States Highway 411 North, State Route 53, US-411 North, US-411 South, Georgia 53"
+      },
+      "id": "US/XSTR/p0/3906502",
+      "position": {
+        "lat": 34.10785,
+        "lon": -85.33601
+      },
+      "score": 8.45573,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.10695,
+          "lon": -85.33492
+        },
+        "topLeftPoint": {
+          "lat": 34.10875,
+          "lon": -85.3371
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Floyd",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Cave Spring",
+        "extendedPostalCode": "301471631,301471801,301471803,301471805,301471807,301471809,301471811,301471813,301471815,301471817,301471819,301471821,301471846",
+        "freeformAddress": "Rome Highway, Lindale, GA 30147",
+        "municipality": "Lindale",
+        "municipalitySubdivision": "Lindale",
+        "postalCode": "30147",
+        "streetName": "Rome Highway"
+      },
+      "id": "US/STR/p0/2608325",
+      "position": {
+        "lat": 34.11779,
+        "lon": -85.22493
+      },
+      "score": 8.15814,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.10812,
+          "lon": -85.21365
+        },
+        "topLeftPoint": {
+          "lat": 34.1261,
+          "lon": -85.23538
+        }
+      }
+    }
+  ],
+  "search_address": "1500 Rome Highway Cedartown GA 30125",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 6,
+    "offset": 0,
+    "query": "1500 rome highway cedartown ga 30125",
+    "queryTime": 129,
+    "queryType": "NON_NEAR",
+    "totalResults": 77
+  }
+}

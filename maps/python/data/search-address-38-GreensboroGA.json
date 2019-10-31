@@ -1,0 +1,173 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Greene",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Greensboro",
+        "extendedPostalCode": "306426118",
+        "freeformAddress": "2490 Meadow Crest Road, Greensboro, GA 30642",
+        "localName": "Greensboro",
+        "municipality": "Greensboro",
+        "municipalitySubdivision": "Greensboro",
+        "postalCode": "30642",
+        "streetName": "Meadow Crest Road",
+        "streetNumber": "2490"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.54141,
+            "lon": -83.20689
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.54104,
+            "lon": -83.20782
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.54169,
+            "lon": -83.20588
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/43587669",
+      "position": {
+        "lat": 33.54049,
+        "lon": -83.20638
+      },
+      "score": 11.91501,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.53959,
+          "lon": -83.2053
+        },
+        "topLeftPoint": {
+          "lat": 33.54139,
+          "lon": -83.20746
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Greene",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Greensboro",
+        "extendedPostalCode": "306425424,306425425,306425428",
+        "freeformAddress": "Meadow Crest Road, Greensboro, GA 30642",
+        "municipality": "Greensboro",
+        "municipalitySubdivision": "Greensboro",
+        "postalCode": "30642",
+        "streetName": "Meadow Crest Road"
+      },
+      "id": "US/STR/p0/5748348",
+      "position": {
+        "lat": 33.53997,
+        "lon": -83.18671
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.53269,
+          "lon": -83.17638
+        },
+        "topLeftPoint": {
+          "lat": 33.55068,
+          "lon": -83.19796
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Greene",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Greensboro",
+        "freeformAddress": "Meadow Crest Spur, Greensboro, GA 30642",
+        "municipality": "Greensboro",
+        "municipalitySubdivision": "Greensboro",
+        "postalCode": "30642",
+        "streetName": "Meadow Crest Spur"
+      },
+      "id": "US/STR/p0/11716449",
+      "position": {
+        "lat": 33.54346,
+        "lon": -83.20456
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.54311,
+          "lon": -83.20274
+        },
+        "topLeftPoint": {
+          "lat": 33.54374,
+          "lon": -83.20709
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Greene",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Greensboro",
+        "freeformAddress": "Meadow Crest Road & Meadow Crest Spur, Greensboro, GA 30642",
+        "municipality": "Greensboro",
+        "municipalitySubdivision": "Greensboro",
+        "postalCode": "30642",
+        "streetName": "Meadow Crest Road & Meadow Crest Spur"
+      },
+      "id": "US/XSTR/p0/5111790",
+      "position": {
+        "lat": 33.54311,
+        "lon": -83.20274
+      },
+      "score": 8.51754,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.54221,
+          "lon": -83.20166
+        },
+        "topLeftPoint": {
+          "lat": 33.54401,
+          "lon": -83.20382
+        }
+      }
+    }
+  ],
+  "search_address": "2490 Meadow Crest Greensboro GA 30642",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "2490 meadow crest greensboro ga 30642",
+    "queryTime": 109,
+    "queryType": "NON_NEAR",
+    "totalResults": 4
+  }
+}

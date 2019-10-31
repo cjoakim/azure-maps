@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Lumpkin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Three Sisters Mountain",
+        "freeformAddress": "140 Maxwell Lane, Dahlonega, GA 30533",
+        "localName": "Dahlonega",
+        "municipality": "Dahlonega",
+        "municipalitySubdivision": "Dahlonega",
+        "postalCode": "30533",
+        "streetName": "Maxwell Lane",
+        "streetNumber": "140"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.47194,
+            "lon": -83.9661
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.46989,
+            "lon": -83.97022
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/4551194",
+      "position": {
+        "lat": 34.47246,
+        "lon": -83.96779
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.47156,
+          "lon": -83.9667
+        },
+        "topLeftPoint": {
+          "lat": 34.47336,
+          "lon": -83.96888
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Lumpkin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Three Sisters Mountain",
+        "extendedPostalCode": "305337139,305337144,305337146",
+        "freeformAddress": "Maxwell Lane, Dahlonega, GA 30533",
+        "municipality": "Dahlonega",
+        "municipalitySubdivision": "Dahlonega",
+        "postalCode": "30533",
+        "streetName": "Maxwell Lane"
+      },
+      "id": "US/STR/p0/12151518",
+      "position": {
+        "lat": 34.4701,
+        "lon": -83.9683
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.46913,
+          "lon": -83.96571
+        },
+        "topLeftPoint": {
+          "lat": 34.47197,
+          "lon": -83.97094
+        }
+      }
+    }
+  ],
+  "search_address": "140 Maxwell Lane Dahlonega GA 30533",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 2,
+    "offset": 0,
+    "query": "140 maxwell lane dahlonega ga 30533",
+    "queryTime": 89,
+    "queryType": "NON_NEAR",
+    "totalResults": 2
+  }
+}

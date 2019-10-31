@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "freeformAddress": "1032 Research Center Atlanta Drive Southwest, Atlanta, GA 30331",
+        "localName": "Atlanta",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, South Fulton",
+        "postalCode": "30331",
+        "streetName": "Research Center Atlanta Drive Southwest",
+        "streetNumber": "1032"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.7267,
+            "lon": -84.50574
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.72826,
+            "lon": -84.50438
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.72706,
+            "lon": -84.50567
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.72776,
+            "lon": -84.50565
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/5675181",
+      "position": {
+        "lat": 33.72704,
+        "lon": -84.5039
+      },
+      "score": 16.32933,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.72614,
+          "lon": -84.50282
+        },
+        "topLeftPoint": {
+          "lat": 33.72794,
+          "lon": -84.50498
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "freeformAddress": "Research Center Atlanta Drive Southwest, Atlanta, GA 30331",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "South Fulton",
+        "postalCode": "30331",
+        "streetName": "Research Center Atlanta Drive Southwest"
+      },
+      "id": "US/STR/p0/2524759",
+      "position": {
+        "lat": 33.7269,
+        "lon": -84.50581
+      },
+      "score": 14.66002,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.7269,
+          "lon": -84.50581
+        },
+        "topLeftPoint": {
+          "lat": 33.72706,
+          "lon": -84.50582
+        }
+      }
+    }
+  ],
+  "search_address": "1032 Research Center Atlanta Drive Atlanta GA 30331",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 2,
+    "offset": 0,
+    "query": "1032 research center atlanta drive atlanta ga 30331",
+    "queryTime": 172,
+    "queryType": "NON_NEAR",
+    "totalResults": 2
+  }
+}

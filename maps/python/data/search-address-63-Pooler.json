@@ -1,0 +1,286 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Port Wentworth",
+        "freeformAddress": "190 Pooler Parkway, Pooler, GA 31322",
+        "localName": "Pooler",
+        "municipality": "Pooler",
+        "municipalitySubdivision": "Pooler",
+        "postalCode": "31322",
+        "streetName": "Pooler Parkway",
+        "streetNumber": "190"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 32.14087,
+            "lon": -81.24517
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 32.14425,
+            "lon": -81.24722
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.14313,
+            "lon": -81.24704
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.14179,
+            "lon": -81.24696
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.14184,
+            "lon": -81.24493
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/36574969",
+      "position": {
+        "lat": 32.14353,
+        "lon": -81.24584
+      },
+      "score": 12.15269,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.14263,
+          "lon": -81.24478
+        },
+        "topLeftPoint": {
+          "lat": 32.14443,
+          "lon": -81.2469
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Pooler-Bloomingdale",
+        "extendedPostalCode": "3132221,313222101,313222102,313222169,313222170,313222182,313222248,313222249,313222250,313224202,313224203,313224255,313224256,313224388,313224389",
+        "freeformAddress": "Pooler Parkway, Pooler, GA 31322",
+        "municipality": "Pooler",
+        "municipalitySubdivision": "Pooler",
+        "postalCode": "31322",
+        "streetName": "Pooler Parkway"
+      },
+      "id": "US/STR/p0/5721419",
+      "position": {
+        "lat": 32.10309,
+        "lon": -81.26825
+      },
+      "score": 10.41424,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.09532,
+          "lon": -81.25972
+        },
+        "topLeftPoint": {
+          "lat": 32.11331,
+          "lon": -81.28096
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Pooler-Bloomingdale",
+        "freeformAddress": "Pooler Parkway, Pooler, GA",
+        "municipality": "Pooler, Savannah",
+        "municipalitySubdivision": "Pooler",
+        "postalCode": "31322,31419",
+        "streetName": "Pooler Parkway"
+      },
+      "id": "US/STR/p0/5746972",
+      "position": {
+        "lat": 32.08214,
+        "lon": -81.28079
+      },
+      "score": 10.41424,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.07986,
+          "lon": -81.27963
+        },
+        "topLeftPoint": {
+          "lat": 32.0841,
+          "lon": -81.28168
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Port Wentworth",
+        "extendedPostalCode": "3132251,313224022,313224023,313224200,313224201,313225033,313225034,313225101,313225102,313225160,313225161,313225162,313225163,313225164,313225165,313225166,313225167,313225171,313225172",
+        "freeformAddress": "Pooler Parkway, Pooler, GA 31322",
+        "municipality": "Pooler",
+        "municipalitySubdivision": "Pooler",
+        "postalCode": "31322",
+        "streetName": "Pooler Parkway"
+      },
+      "id": "US/STR/p0/7412172",
+      "position": {
+        "lat": 32.13619,
+        "lon": -81.25376
+      },
+      "score": 10.41424,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.12588,
+          "lon": -81.24014
+        },
+        "topLeftPoint": {
+          "lat": 32.14387,
+          "lon": -81.26138
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Port Wentworth",
+        "freeformAddress": "Jimmy DeLoach Pkwy, Pooler, GA 31322",
+        "municipality": "Pooler",
+        "municipalitySubdivision": "Pooler",
+        "postalCode": "31322",
+        "streetName": "Jimmy DeLoach Pkwy"
+      },
+      "id": "US/STR/p0/7413956",
+      "position": {
+        "lat": 32.1617,
+        "lon": -81.26328
+      },
+      "score": 9.6009,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.1487,
+          "lon": -81.25242
+        },
+        "topLeftPoint": {
+          "lat": 32.16668,
+          "lon": -81.27367
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Pooler-Bloomingdale",
+        "freeformAddress": "Jimmy DeLoach Pkwy, Pooler, GA",
+        "municipality": "Pooler, Bloomingdale",
+        "municipalitySubdivision": "Pooler",
+        "postalCode": "31302,31322",
+        "streetName": "Jimmy DeLoach Pkwy"
+      },
+      "id": "US/STR/p0/10041465",
+      "position": {
+        "lat": 32.1514,
+        "lon": -81.28097
+      },
+      "score": 9.6009,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.15022,
+          "lon": -81.27916
+        },
+        "topLeftPoint": {
+          "lat": 32.15266,
+          "lon": -81.28317
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Pooler-Bloomingdale",
+        "freeformAddress": "South H Morgan Parkway, Pooler, GA 31322",
+        "municipality": "Pooler",
+        "municipalitySubdivision": "Bloomingdale",
+        "postalCode": "31322",
+        "streetName": "South H Morgan Parkway"
+      },
+      "id": "US/STR/p0/7781090",
+      "position": {
+        "lat": 32.11234,
+        "lon": -81.28419
+      },
+      "score": 9.58114,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.11135,
+          "lon": -81.28233
+        },
+        "topLeftPoint": {
+          "lat": 32.11301,
+          "lon": -81.28647
+        }
+      }
+    }
+  ],
+  "search_address": "190 Pooler Pkwy Pooler GA 31322",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 7,
+    "offset": 0,
+    "query": "190 pooler pkwy pooler ga 31322",
+    "queryTime": 54,
+    "queryType": "NON_NEAR",
+    "totalResults": 30
+  }
+}

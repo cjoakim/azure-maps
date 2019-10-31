@@ -1,0 +1,173 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta-Decatur",
+        "freeformAddress": "2295 Lawrenceville Highway, Decatur, GA 30033",
+        "localName": "Decatur",
+        "municipality": "Decatur, North Decatur, Scottdale",
+        "municipalitySubdivision": "Decatur, North Decatur",
+        "postalCode": "30033",
+        "streetName": "Lawrenceville Highway",
+        "streetNumber": "2295"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.81387,
+            "lon": -84.26996
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.81306,
+            "lon": -84.27051
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.81444,
+            "lon": -84.26921
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/53470611",
+      "position": {
+        "lat": 33.81331,
+        "lon": -84.26898
+      },
+      "score": 11.94752,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.81241,
+          "lon": -84.2679
+        },
+        "topLeftPoint": {
+          "lat": 33.81421,
+          "lon": -84.27006
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta-Decatur",
+        "extendedPostalCode": "300335705,300335706,300335728,300335729",
+        "freeformAddress": "Lawrenceville Highway, Decatur, GA 30033",
+        "municipality": "Decatur, Scottdale",
+        "municipalitySubdivision": "Decatur, Scottdale",
+        "postalCode": "30033",
+        "streetName": "Lawrenceville Highway"
+      },
+      "id": "US/STR/p0/79643",
+      "position": {
+        "lat": 33.8022,
+        "lon": -84.27902
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.80055,
+          "lon": -84.27745
+        },
+        "topLeftPoint": {
+          "lat": 33.80359,
+          "lon": -84.28045
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta-Decatur, Tucker",
+        "extendedPostalCode": "300332500,300332501,300332502,300332509,300332510,300332511,300332515,300332517,300332520,300332521,300332522,300332523,300332524,300332525,300332526,300332527,300332528,300332529,300332530,300332531,300332532,300332533,300332534",
+        "freeformAddress": "Lawrenceville Highway, Decatur, GA 30033",
+        "municipality": "Decatur, Scottdale",
+        "municipalitySubdivision": "Decatur",
+        "postalCode": "30033",
+        "streetName": "Lawrenceville Highway"
+      },
+      "id": "US/STR/p0/95662",
+      "position": {
+        "lat": 33.82449,
+        "lon": -84.2595
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.8226,
+          "lon": -84.25599
+        },
+        "topLeftPoint": {
+          "lat": 33.82592,
+          "lon": -84.26289
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Dekalb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta-Decatur, Tucker",
+        "freeformAddress": "Lawrenceville Highway, Decatur, GA",
+        "municipality": "Decatur, Scottdale, Tucker",
+        "municipalitySubdivision": "Tucker",
+        "postalCode": "30033,30084",
+        "streetName": "Lawrenceville Highway"
+      },
+      "id": "US/STR/p0/6571835",
+      "position": {
+        "lat": 33.82605,
+        "lon": -84.25567
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.82605,
+          "lon": -84.25561
+        },
+        "topLeftPoint": {
+          "lat": 33.82607,
+          "lon": -84.25567
+        }
+      }
+    }
+  ],
+  "search_address": "2295 Lawrenceville Hwy Decatur GA 30033",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "2295 lawrenceville hwy decatur ga 30033",
+    "queryTime": 127,
+    "queryType": "NON_NEAR",
+    "totalResults": 33
+  }
+}

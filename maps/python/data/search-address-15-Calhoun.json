@@ -1,0 +1,178 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gordon",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Calhoun",
+        "freeformAddress": "1280 Curtis Parkway Southeast, Calhoun, GA 30701",
+        "localName": "Calhoun",
+        "municipality": "Calhoun",
+        "municipalitySubdivision": "Calhoun",
+        "postalCode": "30701",
+        "streetName": "Curtis Parkway Southeast",
+        "streetNumber": "1280"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.47605,
+            "lon": -84.92083
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.47267,
+            "lon": -84.92187
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.47523,
+            "lon": -84.92258
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.47596,
+            "lon": -84.9212
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/3525770",
+      "position": {
+        "lat": 34.47477,
+        "lon": -84.92061
+      },
+      "score": 11.92198,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.47387,
+          "lon": -84.91952
+        },
+        "topLeftPoint": {
+          "lat": 34.47567,
+          "lon": -84.9217
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gordon",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Calhoun",
+        "extendedPostalCode": "307013601,307013602,307013639,307013653,307013675,307013676,307013677,307013688,307013698,307013699,307013756,307017031,307019200,307019201,307019202,307019203",
+        "freeformAddress": "Curtis Parkway Southeast, Calhoun, GA 30701",
+        "municipality": "Calhoun",
+        "municipalitySubdivision": "Calhoun",
+        "postalCode": "30701",
+        "streetName": "Curtis Parkway Southeast"
+      },
+      "id": "US/STR/p0/5746729",
+      "position": {
+        "lat": 34.4892,
+        "lon": -84.92165
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.47924,
+          "lon": -84.91175
+        },
+        "topLeftPoint": {
+          "lat": 34.49723,
+          "lon": -84.93358
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gordon",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Calhoun",
+        "freeformAddress": "Curtis Parkway Northeast, Calhoun, GA 30701",
+        "municipality": "Calhoun",
+        "postalCode": "30701",
+        "streetName": "Curtis Parkway Northeast"
+      },
+      "id": "US/STR/p0/6570878",
+      "position": {
+        "lat": 34.50993,
+        "lon": -84.92384
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.50947,
+          "lon": -84.92382
+        },
+        "topLeftPoint": {
+          "lat": 34.51049,
+          "lon": -84.92385
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gordon",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Calhoun",
+        "freeformAddress": "Curtis Parkway Northeast & Curtis Parkway Southeast, Calhoun, GA 30701",
+        "municipality": "Calhoun",
+        "municipalitySubdivision": "Calhoun",
+        "postalCode": "30701",
+        "streetName": "Curtis Parkway Northeast & Curtis Parkway Southeast"
+      },
+      "id": "US/XSTR/p1/4901127",
+      "position": {
+        "lat": 34.50324,
+        "lon": -84.92536
+      },
+      "score": 8.51754,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.50234,
+          "lon": -84.92427
+        },
+        "topLeftPoint": {
+          "lat": 34.50414,
+          "lon": -84.92645
+        }
+      }
+    }
+  ],
+  "search_address": "1280 Curtis Pkwy Calhoun GA 30701",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "1280 curtis pkwy calhoun ga 30701",
+    "queryTime": 155,
+    "queryType": "NON_NEAR",
+    "totalResults": 4
+  }
+}

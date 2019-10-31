@@ -1,0 +1,213 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Douglas",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "freeformAddress": "1000 Thornton Road, Lithia Springs, GA 30122",
+        "localName": "Lithia Springs",
+        "municipality": "Lithia Springs",
+        "municipalitySubdivision": "Lithia Springs",
+        "postalCode": "30122",
+        "streetName": "Thornton Road",
+        "streetNumber": "1000"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.78068,
+            "lon": -84.60782
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.77976,
+            "lon": -84.61216
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.77924,
+            "lon": -84.6071
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.78019,
+            "lon": -84.60766
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/2101335",
+      "position": {
+        "lat": 33.77914,
+        "lon": -84.61123
+      },
+      "score": 14.16334,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.77824,
+          "lon": -84.61015
+        },
+        "topLeftPoint": {
+          "lat": 33.78004,
+          "lon": -84.61231
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Douglas",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "extendedPostalCode": "301223226,301223234",
+        "freeformAddress": "Thornton Road, Lithia Springs, GA 30122",
+        "municipality": "Lithia Springs",
+        "municipalitySubdivision": "Lithia Springs",
+        "postalCode": "30122",
+        "streetName": "Thornton Road"
+      },
+      "id": "US/STR/p0/451579",
+      "position": {
+        "lat": 33.76784,
+        "lon": -84.5997
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.75873,
+          "lon": -84.58877
+        },
+        "topLeftPoint": {
+          "lat": 33.77671,
+          "lon": -84.6104
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Douglas",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "extendedPostalCode": "301221516,301221517,301221519,301221546,301221550,301221551,301221552,301221553,301221554,301221555,301221557,301221558,301221574,301221580,301221583,301221589,301221591,301221596,301221597,301221654,301221655,301221656,301221657,301221658,301221659,301221660,301224111,301224118,301224120,301224122,301224133,301224134",
+        "freeformAddress": "Thornton Road, Lithia Springs, GA 30122",
+        "municipality": "Lithia Springs",
+        "municipalitySubdivision": "Lithia Springs",
+        "postalCode": "30122",
+        "streetName": "Thornton Road"
+      },
+      "id": "US/STR/p0/451580",
+      "position": {
+        "lat": 33.79266,
+        "lon": -84.63173
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.78365,
+          "lon": -84.62096
+        },
+        "topLeftPoint": {
+          "lat": 33.80164,
+          "lon": -84.6426
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Douglas",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "extendedPostalCode": "301223811,301223829,301223830,301223895",
+        "freeformAddress": "Thornton Road, Lithia Springs, GA 30122",
+        "municipality": "Lithia Springs",
+        "municipalitySubdivision": "Lithia Springs",
+        "postalCode": "30122",
+        "streetName": "Thornton Road"
+      },
+      "id": "US/STR/p0/451581",
+      "position": {
+        "lat": 33.7456,
+        "lon": -84.5895
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.742,
+          "lon": -84.58793
+        },
+        "topLeftPoint": {
+          "lat": 33.74959,
+          "lon": -84.58988
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Douglas",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "freeformAddress": "Thornton Road, Lithia Springs, GA",
+        "municipality": "Lithia Springs, Austell",
+        "postalCode": "30122,30168",
+        "streetName": "Thornton Road"
+      },
+      "id": "US/STR/p0/7520047",
+      "position": {
+        "lat": 33.76226,
+        "lon": -84.59557
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.76092,
+          "lon": -84.59462
+        },
+        "topLeftPoint": {
+          "lat": 33.76384,
+          "lon": -84.59658
+        }
+      }
+    }
+  ],
+  "search_address": "1000 Thornton Road Lithia Springs GA 30122",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 5,
+    "offset": 0,
+    "query": "1000 thornton road lithia springs ga 30122",
+    "queryTime": 341,
+    "queryType": "NON_NEAR",
+    "totalResults": 35
+  }
+}

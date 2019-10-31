@@ -1,0 +1,155 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Savannah",
+        "extendedPostalCode": "314043724",
+        "freeformAddress": "1901 East Victory Drive, Savannah, GA 31404",
+        "localName": "Savannah",
+        "municipality": "Savannah",
+        "municipalitySubdivision": "Savannah, Dale Terrace-Olympus-Victory Square",
+        "postalCode": "31404",
+        "streetName": "East Victory Drive",
+        "streetNumber": "1901"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 32.04255,
+            "lon": -81.0667
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 32.04258,
+            "lon": -81.06766
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.03972,
+            "lon": -81.06513
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.0388,
+            "lon": -81.06569
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 32.04204,
+            "lon": -81.06593
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/47256197",
+      "position": {
+        "lat": 32.04164,
+        "lon": -81.06731
+      },
+      "score": 14.14995,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.04074,
+          "lon": -81.06625
+        },
+        "topLeftPoint": {
+          "lat": 32.04254,
+          "lon": -81.06837
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Savannah",
+        "extendedPostalCode": "314043700,314043714,314043716,314043720,314043724,314043725,314043730,314043731,314043734,314043737,314043799,314044121,314044123,314044125,314044127,314044129,314044130,314044139,314044140,314044174,314044175",
+        "freeformAddress": "East Victory Drive, Savannah, GA 31404",
+        "municipality": "Savannah",
+        "municipalitySubdivision": "Savannah, Dale Terrace-Olympus-Victory Square",
+        "postalCode": "31404",
+        "streetName": "East Victory Drive"
+      },
+      "id": "US/STR/p0/37163",
+      "position": {
+        "lat": 32.04388,
+        "lon": -81.07026
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.03444,
+          "lon": -81.05983
+        },
+        "topLeftPoint": {
+          "lat": 32.05243,
+          "lon": -81.08105
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Chatham",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Savannah",
+        "extendedPostalCode": "3140400,3140490,3140497,3140499,3141477,314040001,314040002,314040003,314040004,314043711,314043713,314043721,314043726,314043732,314043733,314043797,314044100,314044122,314044124,314044126,314044128,314044176,314044177,314044178,314044195,314049000,314049700,314049701,314049702,314049703,314049704,314049705,314049706,314049707,314049708,314049709,314049710,314049711,314049712,314049713,314049714,314049715,314049716,314049717,314049718,314049719,314049720,314049721,314049722,314049723,314049724,314049725,314049726,314049727,314049728,314049729,314049730,314049731,314049732,314049733,314049734,314049735,314049737,314049738,314049739,314049740,314049741,314049742,314049998,314147700,314147701,314147702,314147703,314147704,314147705,314147706,314147707,314147708,314147709,314147710,314147711,314147712,314147713,314147714,314147715,314147716,314147717,314147718,314147719,314147720,314147721,314147722,314147723,314147724,314147725,314147726,314147727,314147728,314147729,314147730,314147731,314147732,314147733,314147734,314147735,314147736,314147737,314147738,314147739,314147740,314147741,314147742,314147743,314147744,314147745,314147746,314147747,314147748,314147749,314147750,314147751,314147752,314147753,314147754,314147755,314147756,314147757,314147758,314147759,314147760,314147761,314147762,314147763,314147764,314147765,314147766,314147767,314147768,314147769,314147770,314147771,314147772,314147773,314147774,314147775,314147776,314147777,314147778,314147779,314147780,314147781,314147782,314147783,314147784,314147785",
+        "freeformAddress": "East Victory Drive, Savannah, GA",
+        "municipality": "Savannah",
+        "municipalitySubdivision": "Savannah, Victory Manor-East Hill-Donwood, Dale Terrace-Olympus-Victory Square",
+        "postalCode": "31404,31414",
+        "streetName": "East Victory Drive"
+      },
+      "id": "US/STR/p0/3265360",
+      "position": {
+        "lat": 32.04448,
+        "lon": -81.07177
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.04296,
+          "lon": -81.06733
+        },
+        "topLeftPoint": {
+          "lat": 32.04584,
+          "lon": -81.07662
+        }
+      }
+    }
+  ],
+  "search_address": "1901 E Victory Dr Savannah GA 31404",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "1901 e victory dr savannah ga 31404",
+    "queryTime": 227,
+    "queryType": "NON_NEAR",
+    "totalResults": 41
+  }
+}

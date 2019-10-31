@@ -1,0 +1,50 @@
+[
+  {
+    "area_code": "478",
+    "city": "Dublin",
+    "city_state_zip": "Dublin GA 31021",
+    "location": {
+      "lat": 32.54143,
+      "lon": -82.94187
+    },
+    "name": "Dublin",
+    "phone": "(478)272-4869",
+    "search_address": "1833 Veterans Blvd Dublin GA 31021",
+    "state": "GA",
+    "store_num": 30,
+    "street": "1833 Veterans Blvd",
+    "zip": "31021"
+  },
+  {
+    "area_code": "478",
+    "city": "Macon",
+    "city_state_zip": "Macon GA 31206",
+    "location": {
+      "lat": 32.82267,
+      "lon": -83.71343
+    },
+    "name": "W Macon",
+    "phone": "(478)477-0266",
+    "search_address": "4635 Presidential Pkwy Macon GA 31206",
+    "state": "GA",
+    "store_num": 79,
+    "street": "4635 Presidential Pkwy",
+    "zip": "31206"
+  },
+  {
+    "area_code": "478",
+    "city": "Warner Robins",
+    "city_state_zip": "Warner Robins GA 31093",
+    "location": {
+      "lat": 32.61945,
+      "lon": -83.66684
+    },
+    "name": "Warner Robins",
+    "phone": "(478)923-4594",
+    "search_address": "2620 Watson Blvd Warner Robins GA 31093",
+    "state": "GA",
+    "store_num": 81,
+    "street": "2620 Watson Blvd",
+    "zip": "31093"
+  }
+]

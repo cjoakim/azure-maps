@@ -1,0 +1,690 @@
+[
+  {
+    "area_code": "770",
+    "city": "Acworth",
+    "city_state_zip": "Acworth GA 30101",
+    "location": {
+      "lat": 34.03536,
+      "lon": -84.68494
+    },
+    "name": "Acworth",
+    "phone": "(770)917-8425",
+    "search_address": "3355 Cobb Pkwy Acworth GA 30101",
+    "state": "GA",
+    "store_num": 1,
+    "street": "3355 Cobb Pkwy",
+    "zip": "30101"
+  },
+  {
+    "area_code": "770",
+    "city": "Austell",
+    "city_state_zip": "Austell GA 30106",
+    "location": {
+      "lat": 33.85645,
+      "lon": -84.57785
+    },
+    "name": "Austell",
+    "phone": "(770)438-9678",
+    "search_address": "1200 E W Connector Sw Austell GA 30106",
+    "state": "GA",
+    "store_num": 7,
+    "street": "1200 E W Connector Sw",
+    "zip": "30106"
+  },
+  {
+    "area_code": "770",
+    "city": "Suwanee",
+    "city_state_zip": "Suwanee GA 30024",
+    "location": {
+      "lat": 34.07478,
+      "lon": -84.16486
+    },
+    "name": "Brookwood",
+    "phone": "(770)887-1256",
+    "search_address": "2635 Peachtree Pkwy Suwanee GA 30024",
+    "state": "GA",
+    "store_num": 11,
+    "street": "2635 Peachtree Pkwy",
+    "zip": "30024"
+  },
+  {
+    "area_code": "770",
+    "city": "Buford",
+    "city_state_zip": "Buford GA 30518",
+    "location": {
+      "lat": 34.09062,
+      "lon": -84.00189
+    },
+    "name": "Buford",
+    "phone": "(770)831-5005",
+    "search_address": "4120 Highway 20 Buford GA 30518",
+    "state": "GA",
+    "store_num": 14,
+    "street": "4120 Highway 20",
+    "zip": "30518"
+  },
+  {
+    "area_code": "770",
+    "city": "Canton",
+    "city_state_zip": "Canton GA 30114",
+    "location": {
+      "lat": 34.25398,
+      "lon": -84.47333
+    },
+    "name": "Canton, GA",
+    "phone": "(770)720-8910",
+    "search_address": "2200 Riverstone Blvd Canton GA 30114",
+    "state": "GA",
+    "store_num": 16,
+    "street": "2200 Riverstone Blvd",
+    "zip": "30114"
+  },
+  {
+    "area_code": "770",
+    "city": "Carrollton",
+    "city_state_zip": "Carrollton GA 30117",
+    "location": {
+      "lat": 33.55266,
+      "lon": -85.07176
+    },
+    "name": "Carrollton, GA",
+    "phone": "(770)832-1796",
+    "search_address": "1332 South Park St Carrollton GA 30117",
+    "state": "GA",
+    "store_num": 17,
+    "street": "1332 South Park St",
+    "zip": "30117"
+  },
+  {
+    "area_code": "770",
+    "city": "Cartersville",
+    "city_state_zip": "Cartersville GA 30120",
+    "location": {
+      "lat": 34.18559,
+      "lon": -84.78772
+    },
+    "name": "Cartersville",
+    "phone": "(770)606-0298",
+    "search_address": "100 Gentilly Blvd Cartersville GA 30120",
+    "state": "GA",
+    "store_num": 18,
+    "street": "100 Gentilly Blvd",
+    "zip": "30120"
+  },
+  {
+    "area_code": "770",
+    "city": "Covington",
+    "city_state_zip": "Covington GA 30014",
+    "location": {
+      "lat": 33.60331,
+      "lon": -83.86699
+    },
+    "name": "Covington,GA",
+    "phone": "(770)784-0197",
+    "search_address": "13171 Hwy 142 Nw Covington GA 30014",
+    "state": "GA",
+    "store_num": 24,
+    "street": "13171 Hwy 142 Nw",
+    "zip": "30014"
+  },
+  {
+    "area_code": "770",
+    "city": "Atlanta",
+    "city_state_zip": "Atlanta GA 30339",
+    "location": {
+      "lat": 33.86234,
+      "lon": -84.47627
+    },
+    "name": "Cumberland",
+    "phone": "(770)432-9930",
+    "search_address": "2450 Cumberland Pkwy Atlanta GA 30339",
+    "state": "GA",
+    "store_num": 25,
+    "street": "2450 Cumberland Pkwy",
+    "zip": "30339"
+  },
+  {
+    "area_code": "770",
+    "city": "Cumming",
+    "city_state_zip": "Cumming GA 30041",
+    "location": {
+      "lat": 34.17998,
+      "lon": -84.13001
+    },
+    "name": "Cumming",
+    "phone": "(770)888-8135",
+    "search_address": "1000 Market Pl Blvd Cumming GA 30041",
+    "state": "GA",
+    "store_num": 26,
+    "street": "1000 Market Pl Blvd",
+    "zip": "30041"
+  },
+  {
+    "area_code": "770",
+    "city": "Douglasville",
+    "city_state_zip": "Douglasville GA 30135",
+    "location": {
+      "lat": 33.72341,
+      "lon": -84.7664
+    },
+    "name": "Douglasville",
+    "phone": "(770)577-8311",
+    "search_address": "7399 Douglas Blvd Douglasville GA 30135",
+    "state": "GA",
+    "store_num": 29,
+    "street": "7399 Douglas Blvd",
+    "zip": "30135"
+  },
+  {
+    "area_code": "770",
+    "city": "Duluth",
+    "city_state_zip": "Duluth GA 30096",
+    "location": {
+      "lat": 33.94879,
+      "lon": -84.13182
+    },
+    "name": "Duluth",
+    "phone": "(770)564-2607",
+    "search_address": "3755 Shackleford Rd Duluth GA 30096",
+    "state": "GA",
+    "store_num": 31,
+    "street": "3755 Shackleford Rd",
+    "zip": "30096"
+  },
+  {
+    "area_code": "770",
+    "city": "Fayetteville",
+    "city_state_zip": "Fayetteville GA 30214",
+    "location": {
+      "lat": 33.48254,
+      "lon": -84.43696
+    },
+    "name": "Fayetteville, GA",
+    "phone": "(770)461-9819",
+    "search_address": "103 Pavillion Parkway Fayetteville GA 30214",
+    "state": "GA",
+    "store_num": 34,
+    "street": "103 Pavillion Parkway",
+    "zip": "30214"
+  },
+  {
+    "area_code": "770",
+    "city": "Flowery Branch",
+    "city_state_zip": "Flowery Branch GA 30542",
+    "location": {
+      "lat": 34.18207,
+      "lon": -83.90906
+    },
+    "name": "Flowery Branch",
+    "phone": "(770)965-7877",
+    "search_address": "5851 Spout Springs Rd Flowery Branch GA 30542",
+    "state": "GA",
+    "store_num": 35,
+    "street": "5851 Spout Springs Rd",
+    "zip": "30542"
+  },
+  {
+    "area_code": "770",
+    "city": "Gainesville",
+    "city_state_zip": "Gainesville GA 30501",
+    "location": {
+      "lat": 34.30025,
+      "lon": -83.85524
+    },
+    "name": "Gainesville, GA",
+    "phone": "(770)532-7395",
+    "search_address": "924 Dawsonville Hwy Gainesville GA 30501",
+    "state": "GA",
+    "store_num": 37,
+    "street": "924 Dawsonville Hwy",
+    "zip": "30501"
+  },
+  {
+    "area_code": "770",
+    "city": "Griffin",
+    "city_state_zip": "Griffin GA 30223",
+    "location": {
+      "lat": 33.24902,
+      "lon": -84.28938
+    },
+    "name": "Griffin",
+    "phone": "(770)233-9411",
+    "search_address": "1435 Highway 16 W Griffin GA 30223",
+    "state": "GA",
+    "store_num": 39,
+    "street": "1435 Highway 16 W",
+    "zip": "30223"
+  },
+  {
+    "area_code": "770",
+    "city": "Dacula",
+    "city_state_zip": "Dacula GA 30019",
+    "location": {
+      "lat": 34.07289,
+      "lon": -83.91344
+    },
+    "name": "Hamilton Mill",
+    "phone": "(770)945-7176",
+    "search_address": "2120 Hamilton Creek Pkwy Dacula GA 30019",
+    "state": "GA",
+    "store_num": 40,
+    "street": "2120 Hamilton Creek Pkwy",
+    "zip": "30019"
+  },
+  {
+    "area_code": "770",
+    "city": "Kennesaw",
+    "city_state_zip": "Kennesaw GA 30144",
+    "location": {
+      "lat": 34.0075,
+      "lon": -84.5637
+    },
+    "name": "Kennesaw",
+    "phone": "(770)424-1309",
+    "search_address": "449 Roberts Ct Nw Kennesaw GA 30144",
+    "state": "GA",
+    "store_num": 44,
+    "street": "449 Roberts Ct Nw",
+    "zip": "30144"
+  },
+  {
+    "area_code": "770",
+    "city": "Lawrenceville",
+    "city_state_zip": "Lawrenceville GA 30043",
+    "location": {
+      "lat": 33.97085,
+      "lon": -84.01691
+    },
+    "name": "Lawrenceville",
+    "phone": "(770)338-9830",
+    "search_address": "875 Lawrncvile Suwane Rd Lawrenceville GA 30043",
+    "state": "GA",
+    "store_num": 46,
+    "street": "875 Lawrncvile Suwane Rd",
+    "zip": "30043"
+  },
+  {
+    "area_code": "770",
+    "city": "Lilburn",
+    "city_state_zip": "Lilburn GA 30047",
+    "location": {
+      "lat": 33.83733,
+      "lon": -84.07277
+    },
+    "name": "Lilburn",
+    "phone": "(770)985-1077",
+    "search_address": "4121 Highway 78 Lilburn GA 30047",
+    "state": "GA",
+    "store_num": 47,
+    "street": "4121 Highway 78",
+    "zip": "30047"
+  },
+  {
+    "area_code": "770",
+    "city": "Lithia Springs",
+    "city_state_zip": "Lithia Springs GA 30122",
+    "location": {
+      "lat": 33.77914,
+      "lon": -84.61123
+    },
+    "name": "Lithia Spgs-Thornton Rd",
+    "phone": "(770)732-0184",
+    "search_address": "1000 Thornton Road Lithia Springs GA 30122",
+    "state": "GA",
+    "store_num": 48,
+    "street": "1000 Thornton Road",
+    "zip": "30122"
+  },
+  {
+    "area_code": "770",
+    "city": "Loganville",
+    "city_state_zip": "Loganville GA 30052",
+    "location": {
+      "lat": 33.84334,
+      "lon": -83.91126
+    },
+    "name": "Loganville",
+    "phone": "(770)554-0472",
+    "search_address": "4141 Atlanta Highway Loganville GA 30052",
+    "state": "GA",
+    "store_num": 49,
+    "street": "4141 Atlanta Highway",
+    "zip": "30052"
+  },
+  {
+    "area_code": "770",
+    "city": "Lovejoy",
+    "city_state_zip": "Lovejoy GA 30250",
+    "location": {
+      "lat": 33.4527,
+      "lon": -84.32813
+    },
+    "name": "Lovejoy",
+    "phone": "(770)477-9749",
+    "search_address": "11075 Tara Boulevard Lovejoy GA 30250",
+    "state": "GA",
+    "store_num": 50,
+    "street": "11075 Tara Boulevard",
+    "zip": "30250"
+  },
+  {
+    "area_code": "770",
+    "city": "Marietta",
+    "city_state_zip": "Marietta GA 30062",
+    "location": {
+      "lat": 33.98153,
+      "lon": -84.43288
+    },
+    "name": "Merchants Walk",
+    "phone": "(770)977-9700",
+    "search_address": "4101 Roswell Rd Marietta GA 30062",
+    "state": "GA",
+    "store_num": 52,
+    "street": "4101 Roswell Rd",
+    "zip": "30062"
+  },
+  {
+    "area_code": "770",
+    "city": "Monroe",
+    "city_state_zip": "Monroe GA 30655",
+    "location": {
+      "lat": 33.80056,
+      "lon": -83.74568
+    },
+    "name": "Monroe, GA",
+    "phone": "(770)266-0550",
+    "search_address": "2150 West Spring Street Monroe GA 30655",
+    "state": "GA",
+    "store_num": 54,
+    "street": "2150 West Spring Street",
+    "zip": "30655"
+  },
+  {
+    "area_code": "770",
+    "city": "Morrow",
+    "city_state_zip": "Morrow GA 30260",
+    "location": {
+      "lat": 33.56386,
+      "lon": -84.32284
+    },
+    "name": "Morrow",
+    "phone": "(770)478-9990",
+    "search_address": "2034 Mt Zion Rd Morrow GA 30260",
+    "state": "GA",
+    "store_num": 55,
+    "street": "2034 Mt Zion Rd",
+    "zip": "30260"
+  },
+  {
+    "area_code": "770",
+    "city": "Duluth",
+    "city_state_zip": "Duluth GA 30097",
+    "location": {
+      "lat": 34.01478,
+      "lon": -84.1889
+    },
+    "name": "N Fulton",
+    "phone": "(770)476-4460",
+    "search_address": "5950 State Bridge Rd Duluth GA 30097",
+    "state": "GA",
+    "store_num": 57,
+    "street": "5950 State Bridge Rd",
+    "zip": "30097"
+  },
+  {
+    "area_code": "770",
+    "city": "Lilburn",
+    "city_state_zip": "Lilburn GA 30047",
+    "location": {
+      "lat": 33.90171,
+      "lon": -84.11439
+    },
+    "name": "N Lilburn",
+    "phone": "(770)279-0632",
+    "search_address": "4028 Lawrenceville Hwy Lilburn GA 30047",
+    "state": "GA",
+    "store_num": 58,
+    "street": "4028 Lawrenceville Hwy",
+    "zip": "30047"
+  },
+  {
+    "area_code": "770",
+    "city": "Newnan",
+    "city_state_zip": "Newnan GA 30265",
+    "location": {
+      "lat": 33.39705,
+      "lon": -84.74234
+    },
+    "name": "Newnan",
+    "phone": "(770)252-1585",
+    "search_address": "1100 Bullsboro Dr Newnan GA 30265",
+    "state": "GA",
+    "store_num": 59,
+    "street": "1100 Bullsboro Dr",
+    "zip": "30265"
+  },
+  {
+    "area_code": "770",
+    "city": "Hiram",
+    "city_state_zip": "Hiram GA 30141",
+    "location": {
+      "lat": 33.88761,
+      "lon": -84.75128
+    },
+    "name": "Paulding County",
+    "phone": "(770)439-0707",
+    "search_address": "145 Depot Drive Hiram GA 30141",
+    "state": "GA",
+    "store_num": 61,
+    "street": "145 Depot Drive",
+    "zip": "30141"
+  },
+  {
+    "area_code": "770",
+    "city": "Riverdale",
+    "city_state_zip": "Riverdale GA 30274",
+    "location": {
+      "lat": 33.55886,
+      "lon": -84.41133
+    },
+    "name": "Riverdale, GA",
+    "phone": "(770)907-6027",
+    "search_address": "680 Lamar Hutcheson Pkwy Riverdale GA 30274",
+    "state": "GA",
+    "store_num": 65,
+    "street": "680 Lamar Hutcheson Pkwy",
+    "zip": "30274"
+  },
+  {
+    "area_code": "770",
+    "city": "Roswell",
+    "city_state_zip": "Roswell GA 30076",
+    "location": {
+      "lat": 34.01676,
+      "lon": -84.30985
+    },
+    "name": "Roswell",
+    "phone": "(770)518-3071",
+    "search_address": "1580 Holcomb Bridge Rd Roswell GA 30076",
+    "state": "GA",
+    "store_num": 67,
+    "street": "1580 Holcomb Bridge Rd",
+    "zip": "30076"
+  },
+  {
+    "area_code": "770",
+    "city": "Marietta",
+    "city_state_zip": "Marietta GA 30066",
+    "location": {
+      "lat": 34.03851,
+      "lon": -84.46288
+    },
+    "name": "Sandy Plain",
+    "phone": "(770)971-2470",
+    "search_address": "3605 Sandy Plains Rd Marietta GA 30066",
+    "state": "GA",
+    "store_num": 68,
+    "street": "3605 Sandy Plains Rd",
+    "zip": "30066"
+  },
+  {
+    "area_code": "770",
+    "city": "Sandy Springs",
+    "city_state_zip": "Sandy Springs GA 30328",
+    "location": {
+      "lat": 33.93004,
+      "lon": -84.39507
+    },
+    "name": "Sandy Springs",
+    "phone": "(770)804-8065",
+    "search_address": "6400 Ptree-Dnwdy Rd Nw Sandy Springs GA 30328",
+    "state": "GA",
+    "store_num": 69,
+    "street": "6400 Ptree-Dnwdy Rd Nw",
+    "zip": "30328"
+  },
+  {
+    "area_code": "770",
+    "city": "Canton",
+    "city_state_zip": "Canton GA 30115",
+    "location": {
+      "lat": 34.1485,
+      "lon": -84.51289
+    },
+    "name": "Sixes Road",
+    "phone": "(770)928-1574",
+    "search_address": "4520 Holly Springs Pkwy Canton GA 30115",
+    "state": "GA",
+    "store_num": 70,
+    "street": "4520 Holly Springs Pkwy",
+    "zip": "30115"
+  },
+  {
+    "area_code": "770",
+    "city": "Snellville",
+    "city_state_zip": "Snellville GA 30078",
+    "location": {
+      "lat": 33.88169,
+      "lon": -84.01126
+    },
+    "name": "Snellville",
+    "phone": "(770)982-6166",
+    "search_address": "1670 Scenic Hwy N Snellville GA 30078",
+    "state": "GA",
+    "store_num": 71,
+    "street": "1670 Scenic Hwy N",
+    "zip": "30078"
+  },
+  {
+    "area_code": "770",
+    "city": "Suwanee",
+    "city_state_zip": "Suwanee GA 30024",
+    "location": {
+      "lat": 34.00339,
+      "lon": -84.07995
+    },
+    "name": "Suwanee",
+    "phone": "(770)232-0998",
+    "search_address": "1480 Satellite Blvd Suwanee GA 30024",
+    "state": "GA",
+    "store_num": 72,
+    "street": "1480 Satellite Blvd",
+    "zip": "30024"
+  },
+  {
+    "area_code": "770",
+    "city": "Atlanta",
+    "city_state_zip": "Atlanta GA 30360",
+    "location": {
+      "lat": 33.92138,
+      "lon": -84.27908
+    },
+    "name": "Tilly Mill",
+    "phone": "(770)452-8858",
+    "search_address": "4343 Tilly Mill Rd Atlanta GA 30360",
+    "state": "GA",
+    "store_num": 74,
+    "street": "4343 Tilly Mill Rd",
+    "zip": "30360"
+  },
+  {
+    "area_code": "770",
+    "city": "Norcross",
+    "city_state_zip": "Norcross GA 30093",
+    "location": {
+      "lat": 33.86862,
+      "lon": -84.18999
+    },
+    "name": "Tucker",
+    "phone": "(770)938-7819",
+    "search_address": "4136 Jimmy Carter Blvd Norcross GA 30093",
+    "state": "GA",
+    "store_num": 76,
+    "street": "4136 Jimmy Carter Blvd",
+    "zip": "30093"
+  },
+  {
+    "area_code": "770",
+    "city": "Villa Rica",
+    "city_state_zip": "Villa Rica GA 30180",
+    "location": {
+      "lat": 33.71985,
+      "lon": -84.94202
+    },
+    "name": "Villa Rica",
+    "phone": "(770)459-0456",
+    "search_address": "210 Cooley Way Villa Rica GA 30180",
+    "state": "GA",
+    "store_num": 78,
+    "street": "210 Cooley Way",
+    "zip": "30180"
+  },
+  {
+    "area_code": "770",
+    "city": "Decatur",
+    "city_state_zip": "Decatur GA 30035",
+    "location": {
+      "lat": 33.71328,
+      "lon": -84.21247
+    },
+    "name": "Wesley Chapel",
+    "phone": "(770)981-4553",
+    "search_address": "4325 New Snapfinger Wood Decatur GA 30035",
+    "state": "GA",
+    "store_num": 82,
+    "street": "4325 New Snapfinger Wood",
+    "zip": "30035"
+  },
+  {
+    "area_code": "770",
+    "city": "Marietta",
+    "city_state_zip": "Marietta GA 30064",
+    "location": {
+      "lat": 33.94866,
+      "lon": -84.61958
+    },
+    "name": "West Cobb",
+    "phone": "(770)792-6858",
+    "search_address": "2350 Dallas Hwy Marietta GA 30064",
+    "state": "GA",
+    "store_num": 83,
+    "street": "2350 Dallas Hwy",
+    "zip": "30064"
+  },
+  {
+    "area_code": "770",
+    "city": "Woodstock",
+    "city_state_zip": "Woodstock GA 30189",
+    "location": {
+      "lat": 34.08658,
+      "lon": -84.53834
+    },
+    "name": "Woodstock",
+    "phone": "(770)591-8663",
+    "search_address": "9037 Hwy 92, Suite 100 Woodstock GA 30189",
+    "state": "GA",
+    "store_num": 85,
+    "street": "9037 Hwy 92, Suite 100",
+    "zip": "30189"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fayette",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Peachtree City-Tyrone",
+        "extendedPostalCode": "3026947,302694700,302694723,302694724,302694737,302694743,302694747,302694759,302694760,302694775,302694776,302694777,302694778,302694781,302694784,302694785,302694787,302694793,302694794,302694795,302694796,302694797,302694798,302694799",
+        "freeformAddress": "Highway 54 West, Peachtree City, GA 30269",
+        "municipality": "Peachtree City",
+        "municipalitySubdivision": "Peachtree City",
+        "postalCode": "30269",
+        "streetName": "Highway 54 West"
+      },
+      "id": "US/STR/p0/159132",
+      "position": {
+        "lat": 33.42785,
+        "lon": -84.55677
+      },
+      "score": 14.66469,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.41824,
+          "lon": -84.54474
+        },
+        "topLeftPoint": {
+          "lat": 33.43623,
+          "lon": -84.56629
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fayette",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Peachtree City-Tyrone",
+        "freeformAddress": "Highway 54 West, Peachtree City, GA",
+        "municipality": "Peachtree City, Fayetteville",
+        "postalCode": "30214,30269",
+        "streetName": "Highway 54 West"
+      },
+      "id": "US/STR/p0/3151058",
+      "position": {
+        "lat": 33.43841,
+        "lon": -84.54726
+      },
+      "score": 14.66469,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.43832,
+          "lon": -84.54691
+        },
+        "topLeftPoint": {
+          "lat": 33.43861,
+          "lon": -84.54744
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fayette",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Peachtree City-Tyrone",
+        "extendedPostalCode": "302691026,302691027,302691029,302691030,302691031,302691044,302691063,302691081,302691280,302691310,302691315,302691316,302691330,302691427,302691428,302691450,302691451,302691488,302691524,302691561,302691562,302691564,302693302,302693528,302695648,302695649",
+        "freeformAddress": "Highway 54, Peachtree City, GA 30269",
+        "municipality": "Peachtree City",
+        "municipalitySubdivision": "Peachtree City",
+        "postalCode": "30269",
+        "streetName": "Highway 54"
+      },
+      "id": "US/STR/p0/3264729",
+      "position": {
+        "lat": 33.40123,
+        "lon": -84.58256
+      },
+      "score": 14.38195,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.39876,
+          "lon": -84.57355
+        },
+        "topLeftPoint": {
+          "lat": 33.41675,
+          "lon": -84.5951
+        }
+      }
+    }
+  ],
+  "search_address": "2715 Hwy 54 W Peachtree City GA 30269",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "2715 hwy 54 w peachtree city ga 30269",
+    "queryTime": 207,
+    "queryType": "NON_NEAR",
+    "totalResults": 422
+  }
+}

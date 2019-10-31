@@ -1,0 +1,139 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Lowndes",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Valdosta",
+        "freeformAddress": "1825 Norman Drive, Valdosta, GA 31601",
+        "localName": "Valdosta",
+        "municipality": "Valdosta",
+        "municipalitySubdivision": "Valdosta",
+        "postalCode": "31601",
+        "streetName": "Norman Drive",
+        "streetNumber": "1825"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 30.84459,
+            "lon": -83.31788
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 30.84461,
+            "lon": -83.31758
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 30.84631,
+            "lon": -83.31594
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/28163445",
+      "position": {
+        "lat": 30.84464,
+        "lon": -83.31579
+      },
+      "score": 11.9658,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 30.84374,
+          "lon": -83.31474
+        },
+        "topLeftPoint": {
+          "lat": 30.84554,
+          "lon": -83.31684
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Lowndes",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Valdosta",
+        "extendedPostalCode": "3160132,3160174,316013200,316013201,316013202,316013203,316013204,316013205,316013206,316013207,316013208,316013209,316013210,316013211,316013212,316013213,316013214,316013215,316013216,316013217,316013218,316013219,316013220,316013221,316013222,316013223,316013224,316013225,316013226,316013227,316013228,316013229,316013230,316013231,316013232,316013233,316013234,316013235,316013236,316013237,316013238,316013239,316013240,316013241,316013242,316013243,316013244,316013245,316013246,316013247,316013248,316013250,316013501,316013502,316013503,316013505,316013508,316013519,316013549,316013565,316013574,316013575,316013581,316013582,316013696,316013698,316013738,316013745,316013753,316015100,316015161,316015487,316015493,316015599,316017400,316017401,316017402,316017403,316017404,316017405,316017406,316017407,316017408,316017409,316017411,316017412,316017413,316017414,316017415,316017417,316017419,316017420,316017421,316017422,316017423,316017424,316017425,316017426,316017427,316017428,316017430,316017431,316017432,316017433,316017434,316017446,316017450,316017460,316017463,316017466,316017467,316017473,316017475,316017481,316017482,316017483,316017484,316017485,316017488,316017496,316017497,316017705,316017708,316017709,316017713,316017714,316017722,316017723,316018413,316018414,316018415,316018416,316018448,316018449,316018450,316018451,316018452,316018473,316018474,316018498",
+        "freeformAddress": "Norman Drive, Valdosta, GA 31601",
+        "municipality": "Valdosta",
+        "municipalitySubdivision": "Valdosta",
+        "postalCode": "31601",
+        "streetName": "Norman Drive"
+      },
+      "id": "US/STR/p0/7516456",
+      "position": {
+        "lat": 30.83319,
+        "lon": -83.32091
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 30.82445,
+          "lon": -83.30651
+        },
+        "topLeftPoint": {
+          "lat": 30.84244,
+          "lon": -83.32746
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Lowndes",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Valdosta",
+        "freeformAddress": "Norman Drive & Valhalla Drive, Valdosta, GA 31601",
+        "municipality": "Valdosta",
+        "municipalitySubdivision": "Valdosta",
+        "postalCode": "31601",
+        "streetName": "Norman Drive & Valhalla Drive"
+      },
+      "id": "US/XSTR/p0/138744",
+      "position": {
+        "lat": 30.83534,
+        "lon": -83.3209
+      },
+      "score": 8.55533,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 30.83444,
+          "lon": -83.31985
+        },
+        "topLeftPoint": {
+          "lat": 30.83624,
+          "lon": -83.32195
+        }
+      }
+    }
+  ],
+  "search_address": "1825 Norman Dr Valdosta GA 31601",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 3,
+    "offset": 0,
+    "query": "1825 norman dr valdosta ga 31601",
+    "queryTime": 91,
+    "queryType": "NON_NEAR",
+    "totalResults": 3
+  }
+}

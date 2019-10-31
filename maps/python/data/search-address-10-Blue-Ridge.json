@@ -1,0 +1,229 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fannin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Blue Ridge",
+        "extendedPostalCode": "305134159,305134171",
+        "freeformAddress": "10012 Blue Ridge Drive, Blue Ridge, GA 30513",
+        "municipality": "Blue Ridge",
+        "municipalitySubdivision": "Blue Ridge",
+        "postalCode": "30513",
+        "streetName": "Blue Ridge Drive",
+        "streetNumber": "10012"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.87768,
+          "lon": -84.32256
+        },
+        "rangeLeft": "10096 - 9862",
+        "rangeRight": "10097 - 9863",
+        "to": {
+          "lat": 34.87724,
+          "lon": -84.32234
+        }
+      },
+      "id": "US/ADDR/p0/25903001",
+      "position": {
+        "lat": 34.87754,
+        "lon": -84.32243
+      },
+      "score": 13.95026,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.87724,
+          "lon": -84.32234
+        },
+        "topLeftPoint": {
+          "lat": 34.87768,
+          "lon": -84.32256
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fannin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McCaysville",
+        "extendedPostalCode": "305132976,305552750",
+        "freeformAddress": "Blue Ridge Drive, Blue Ridge, GA",
+        "municipality": "Blue Ridge, McCaysville",
+        "municipalitySubdivision": "Blue Ridge, McCaysville",
+        "postalCode": "30513,30555",
+        "streetName": "Blue Ridge Drive"
+      },
+      "id": "US/STR/p0/307956",
+      "position": {
+        "lat": 34.97259,
+        "lon": -84.37134
+      },
+      "score": 12.40506,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.97247,
+          "lon": -84.37133
+        },
+        "topLeftPoint": {
+          "lat": 34.97263,
+          "lon": -84.37135
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fannin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McCaysville",
+        "extendedPostalCode": "305132902,305132904,305132905,305132907,305132913,305132914,305132915,305132916,305132917,305132918,305132930,305132986,305132987,305132988,305132989,305132992,305132993,305133350,305133358",
+        "freeformAddress": "Blue Ridge Drive, Blue Ridge, GA 30513",
+        "municipality": "Blue Ridge",
+        "municipalitySubdivision": "Blue Ridge",
+        "postalCode": "30513",
+        "streetName": "Blue Ridge Drive"
+      },
+      "id": "US/STR/p0/450899",
+      "position": {
+        "lat": 34.96372,
+        "lon": -84.37137
+      },
+      "score": 12.40506,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.95441,
+          "lon": -84.35852
+        },
+        "topLeftPoint": {
+          "lat": 34.9724,
+          "lon": -84.38046
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fannin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McCaysville",
+        "extendedPostalCode": "305132924,305133220,305133233,305136511",
+        "freeformAddress": "Blue Ridge Drive, Blue Ridge, GA 30513",
+        "municipality": "Blue Ridge",
+        "municipalitySubdivision": "Blue Ridge",
+        "postalCode": "30513",
+        "streetName": "Blue Ridge Drive"
+      },
+      "id": "US/STR/p0/450900",
+      "position": {
+        "lat": 34.9444,
+        "lon": -84.37537
+      },
+      "score": 12.40506,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.94211,
+          "lon": -84.37401
+        },
+        "topLeftPoint": {
+          "lat": 34.94622,
+          "lon": -84.37594
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fannin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McCaysville",
+        "extendedPostalCode": "305133221,305133222,305133223,305133224,305133225,305133226,305133227,305133228,305133229,305133230,305133231,305133232,305133237,305133238,305133239,305133240,305133241,305133242,305133244,305133245,305133269,305133468,305133470,305133600,305133601,305133609,305133610,305133611,305133667,305133668,305133671,305133672,305133684,305133685,305133686,305133687,305133698,305136512,305136513,305136514,305136515,305136534",
+        "freeformAddress": "Blue Ridge Drive, Blue Ridge, GA 30513",
+        "municipality": "Blue Ridge",
+        "municipalitySubdivision": "Blue Ridge",
+        "postalCode": "30513",
+        "streetName": "Blue Ridge Drive"
+      },
+      "id": "US/STR/p0/450901",
+      "position": {
+        "lat": 34.91817,
+        "lon": -84.37753
+      },
+      "score": 12.40506,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.91036,
+          "lon": -84.3645
+        },
+        "topLeftPoint": {
+          "lat": 34.92835,
+          "lon": -84.38643
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fannin",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Blue Ridge",
+        "freeformAddress": "Blue Ridge Drive, Blue Ridge, GA 30513",
+        "municipality": "Blue Ridge",
+        "postalCode": "30513",
+        "streetName": "Blue Ridge Drive"
+      },
+      "id": "US/STR/p0/3919205",
+      "position": {
+        "lat": 34.8803,
+        "lon": -84.32594
+      },
+      "score": 12.40506,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.88025,
+          "lon": -84.32586
+        },
+        "topLeftPoint": {
+          "lat": 34.8804,
+          "lon": -84.32609
+        }
+      }
+    }
+  ],
+  "search_address": "10012 Blueridge Drive Blue Ridge GA 30513",
+  "summary": {
+    "fuzzyLevel": 2,
+    "numResults": 6,
+    "offset": 0,
+    "query": "10012 blueridge drive blue ridge ga 30513",
+    "queryTime": 285,
+    "queryType": "NON_NEAR",
+    "totalResults": 5170
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "freeformAddress": "875 Lawrenceville Suwanee Road, Lawrenceville, GA 30043",
+        "localName": "Lawrenceville",
+        "municipality": "Lawrenceville",
+        "municipalitySubdivision": "Lawrenceville",
+        "postalCode": "30043",
+        "streetName": "Lawrenceville Suwanee Road",
+        "streetNumber": "875"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 33.97118,
+            "lon": -84.01815
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 33.96923,
+            "lon": -84.0201
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.97159,
+            "lon": -84.01796
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.96974,
+            "lon": -84.01922
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.96818,
+            "lon": -84.01914
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.97057,
+            "lon": -84.01829
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 33.97281,
+            "lon": -84.01729
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p1/31692143",
+      "position": {
+        "lat": 33.97085,
+        "lon": -84.01691
+      },
+      "score": 9.90067,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.96995,
+          "lon": -84.01583
+        },
+        "topLeftPoint": {
+          "lat": 33.97175,
+          "lon": -84.01799
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "freeformAddress": "875 Lawrenceville Suwanee Road Northwest, Lawrenceville, GA 30043",
+        "municipality": "Lawrenceville",
+        "postalCode": "30043",
+        "streetName": "Lawrenceville Suwanee Road Northwest",
+        "streetNumber": "875"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.96785,
+          "lon": -84.01925
+        },
+        "rangeLeft": "864 - 898",
+        "rangeRight": "865 - 899",
+        "to": {
+          "lat": 33.9678,
+          "lon": -84.01925
+        }
+      },
+      "id": "US/ADDR/p3/2384979",
+      "position": {
+        "lat": 33.96784,
+        "lon": -84.0193
+      },
+      "score": 9.73128,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.9678,
+          "lon": -84.01925
+        },
+        "topLeftPoint": {
+          "lat": 33.96785,
+          "lon": -84.01925
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "extendedPostalCode": "300431406,300431407,300431408,300433503,300433504,300433505,300433506,300433507,300433508,300433509,300433510,300433511,300433512,300433513,300433550,300433564,300433580,300433587,300433591,300433593,300433594,300433617,300433724,300433749,300433752,300433762,300433763,300433797,300434308,300434331,300434336,300434341,300434343,300434344,300435425,300435426,300437526,300438741",
+        "freeformAddress": "Lawrenceville Suwanee Road, Lawrenceville, GA 30043",
+        "municipality": "Lawrenceville",
+        "municipalitySubdivision": "Lawrenceville",
+        "postalCode": "30043",
+        "streetName": "Lawrenceville Suwanee Road"
+      },
+      "id": "US/STR/p0/1630224",
+      "position": {
+        "lat": 33.98916,
+        "lon": -84.02835
+      },
+      "score": 9.59615,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.97922,
+          "lon": -84.01804
+        },
+        "topLeftPoint": {
+          "lat": 33.9972,
+          "lon": -84.03973
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "extendedPostalCode": "300464325",
+        "freeformAddress": "Lawrenceville Suwanee Road, Lawrenceville, GA",
+        "municipality": "Lawrenceville",
+        "municipalitySubdivision": "Lawrenceville",
+        "postalCode": "30043,30046",
+        "streetName": "Lawrenceville Suwanee Road"
+      },
+      "id": "US/STR/p0/1630225",
+      "position": {
+        "lat": 33.95642,
+        "lon": -84.01791
+      },
+      "score": 9.59615,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.94685,
+          "lon": -84.00812
+        },
+        "topLeftPoint": {
+          "lat": 33.96483,
+          "lon": -84.0298
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Gwinnett",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Lawrenceville",
+        "extendedPostalCode": "3004387,300435420,300435421,300435483,300435484,300435488,300437342,300437343,300437344,300437345,300437346,300437347,300437349,300437350,300437351,300437352,300438450,300438479,300438480,300438481,300438482,300438749",
+        "freeformAddress": "Lawrenceville Suwanee Road, Lawrenceville, GA 30043",
+        "municipality": "Lawrenceville",
+        "municipalitySubdivision": "Lawrenceville",
+        "postalCode": "30043",
+        "streetName": "Lawrenceville Suwanee Road"
+      },
+      "id": "US/STR/p0/1630226",
+      "position": {
+        "lat": 33.96973,
+        "lon": -84.0202
+      },
+      "score": 9.59615,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.96209,
+          "lon": -84.00987
+        },
+        "topLeftPoint": {
+          "lat": 33.98008,
+          "lon": -84.03156
+        }
+      }
+    }
+  ],
+  "search_address": "875 Lawrncvile Suwane Rd Lawrenceville GA 30043",
+  "summary": {
+    "fuzzyLevel": 2,
+    "numResults": 5,
+    "offset": 0,
+    "query": "875 lawrncvile suwane rd lawrenceville ga 30043",
+    "queryTime": 291,
+    "queryType": "NON_NEAR",
+    "totalResults": 621
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Flowery Branch",
+        "extendedPostalCode": "305423417",
+        "freeformAddress": "5851 Spout Springs Road, Flowery Branch, GA 30542",
+        "localName": "Flowery Branch",
+        "municipality": "Flowery Branch",
+        "municipalitySubdivision": "Flowery Branch",
+        "postalCode": "30542",
+        "streetName": "Spout Springs Road",
+        "streetNumber": "5851"
+      },
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 34.17742,
+            "lon": -83.91176
+          },
+          "type": "main"
+        },
+        {
+          "position": {
+            "lat": 34.17856,
+            "lon": -83.90777
+          },
+          "type": "minor"
+        },
+        {
+          "position": {
+            "lat": 34.17968,
+            "lon": -83.90922
+          },
+          "type": "minor"
+        }
+      ],
+      "id": "US/PAD/p0/48983255",
+      "position": {
+        "lat": 34.18207,
+        "lon": -83.90906
+      },
+      "score": 16.34749,
+      "type": "Point Address",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.18117,
+          "lon": -83.90797
+        },
+        "topLeftPoint": {
+          "lat": 34.18297,
+          "lon": -83.91015
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Flowery Branch",
+        "freeformAddress": "Spout Springs Road, Flowery Branch, GA",
+        "municipality": "Flowery Branch, Braselton, Buford",
+        "municipalitySubdivision": "Flowery Branch, Braselton",
+        "postalCode": "30519,30542",
+        "streetName": "Spout Springs Road"
+      },
+      "id": "US/STR/p0/3266691",
+      "position": {
+        "lat": 34.10599,
+        "lon": -83.87295
+      },
+      "score": 14.66469,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.10578,
+          "lon": -83.87287
+        },
+        "topLeftPoint": {
+          "lat": 34.10599,
+          "lon": -83.87295
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Flowery Branch",
+        "extendedPostalCode": "305423449,305423450",
+        "freeformAddress": "Spout Springs Road, Flowery Branch, GA 30542",
+        "municipality": "Flowery Branch",
+        "municipalitySubdivision": "Flowery Branch, Spout Spring Crossroads",
+        "postalCode": "30542",
+        "streetName": "Spout Springs Road"
+      },
+      "id": "US/STR/p0/3404589",
+      "position": {
+        "lat": 34.17646,
+        "lon": -83.90957
+      },
+      "score": 14.66469,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.17636,
+          "lon": -83.90923
+        },
+        "topLeftPoint": {
+          "lat": 34.17651,
+          "lon": -83.90973
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Hall",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Flowery Branch",
+        "extendedPostalCode": "3054200,3054210,3054211,3054219,3054220,3054222,3054234,3054287,3054297,305420001,305420002,305420003,305420004,305420005,305420006,305420007,305420008,305420009,305420010,305420011,305420012,305420013,305420014,305420015,305420016,305420017,305420018,305420019,305420020,305420021,305420022,305420023,305420024,305420025,305420026,305420027,305420028,305420029,305420030,305420031,305420032,305420033,305420034,305420035,305420036,305420037,305420038,305420039,305420040,305420041,305420042,305420043,305420044,305420045,305420046,305420047,305420048,305420049,305420050,305420051,305420052,305420053,305420054,305420055,305420056,305420057,305421000,305421100,305421101,305421102,305421103,305421104,305421105,305421106,305421107,305421108,305421109,305421110,305421900,305422000,305422099,305422200,305422201,305422202,305422203,305423407,305423414,305423415,305423417,305423418,305423419,305423423,305423425,305423448,305423452,305423453,305423454,305423455,305423456,305423457,305425011,305425031,305425032,305425034,305425035,305425036,305425042,305425043,305425500,305425524,305425525,305425526,305425527,305425528,305425529,305425530,305425531,305425532,305425533,305425534,305425536,305425537,305425538,305425539,305425540,305425541,305425542,305425558,305425575,305425593,305426445,305426447,305426448,305426449,305426451,305426452,305426453,305426464,305426465,305426468,305426469,305428700,305428701,305429700",
+        "freeformAddress": "Spout Springs Road, Flowery Branch, GA 30542",
+        "municipality": "Flowery Branch",
+        "municipalitySubdivision": "Flowery Branch",
+        "postalCode": "30542",
+        "streetName": "Spout Springs Road"
+      },
+      "id": "US/STR/p0/7517482",
+      "position": {
+        "lat": 34.15244,
+        "lon": -83.89391
+      },
+      "score": 14.66469,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.13877,
+          "lon": -83.88955
+        },
+        "topLeftPoint": {
+          "lat": 34.15675,
+          "lon": -83.91129
+        }
+      }
+    }
+  ],
+  "search_address": "5851 Spout Springs Rd Flowery Branch GA 30542",
+  "summary": {
+    "fuzzyLevel": 1,
+    "numResults": 4,
+    "offset": 0,
+    "query": "5851 spout springs rd flowery branch ga 30542",
+    "queryTime": 351,
+    "queryType": "NON_NEAR",
+    "totalResults": 26
+  }
+}
