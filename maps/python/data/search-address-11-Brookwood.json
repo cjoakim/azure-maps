@@ -9,28 +9,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Big Creek",
-        "extendedPostalCode": "300241028,300241029,300241030,300241031,300241032,300241033,300241072,300241088,300241089,300241686,300242341,300246009,300246024,300246034,300246049,300246050,300246051,300246052,300246053,300246088,300249101,300249103,300249104",
         "freeformAddress": "Peachtree Parkway, Suwanee, GA 30024",
         "municipality": "Suwanee",
-        "municipalitySubdivision": "Suwanee",
         "postalCode": "30024",
         "streetName": "Peachtree Parkway"
       },
-      "id": "US/STR/p0/2469982",
+      "id": "US/STR/p0/2233400",
       "position": {
-        "lat": 34.07478,
-        "lon": -84.16486
+        "lat": 34.07801,
+        "lon": -84.1627
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.06558,
-          "lon": -84.15399
+          "lat": 34.07774,
+          "lon": -84.16258
         },
         "topLeftPoint": {
-          "lat": 34.08357,
-          "lon": -84.17571
+          "lat": 34.0783,
+          "lon": -84.1628
         }
       }
     },
@@ -43,62 +41,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Big Creek",
-        "extendedPostalCode": "300241049",
-        "freeformAddress": "Peachtree Parkway, Suwanee, GA 30024",
-        "municipality": "Suwanee",
-        "municipalitySubdivision": "Suwanee",
-        "postalCode": "30024",
-        "streetName": "Peachtree Parkway"
-      },
-      "id": "US/STR/p0/2469983",
-      "position": {
-        "lat": 34.0923,
-        "lon": -84.17075
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.09212,
-          "lon": -84.17048
-        },
-        "topLeftPoint": {
-          "lat": 34.09237,
-          "lon": -84.17088
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Forsyth",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Big Creek",
-        "extendedPostalCode": "300241018,300241020,300241022,300241024,300241048,300241050,300241051,300241052,300241058,300241061,300244890,300249102,300249118,300249124,300249125",
         "freeformAddress": "Peachtree Parkway, Suwanee, GA",
-        "municipality": "Suwanee, Cumming",
-        "municipalitySubdivision": "Suwanee",
-        "postalCode": "30024,30041",
+        "municipality": "Suwanee",
+        "postalCode": "30024, 30041",
         "streetName": "Peachtree Parkway"
       },
-      "id": "US/STR/p0/3154744",
+      "id": "US/STR/p0/2739937",
       "position": {
-        "lat": 34.09357,
-        "lon": -84.17304
+        "lat": 34.09521,
+        "lon": -84.17596
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.09237,
-          "lon": -84.17088
-        },
-        "topLeftPoint": {
           "lat": 34.09476,
           "lon": -84.17519
+        },
+        "topLeftPoint": {
+          "lat": 34.09573,
+          "lon": -84.17654
         }
       }
     },
@@ -113,10 +75,10 @@
         "countryTertiarySubdivision": "Big Creek",
         "freeformAddress": "Peachtree Parkway, Suwanee, GA",
         "municipality": "Suwanee, Alpharetta",
-        "postalCode": "30005,30024",
+        "postalCode": "30005, 30024",
         "streetName": "Peachtree Parkway"
       },
-      "id": "US/STR/p0/3154900",
+      "id": "US/STR/p0/10630591",
       "position": {
         "lat": 34.07224,
         "lon": -84.1665
@@ -138,11 +100,11 @@
   "search_address": "2635 Peachtree Pkwy Suwanee GA 30024",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 4,
+    "numResults": 3,
     "offset": 0,
     "query": "2635 peachtree pkwy suwanee ga 30024",
-    "queryTime": 56,
+    "queryTime": 48,
     "queryType": "NON_NEAR",
-    "totalResults": 113
+    "totalResults": 112
   }
 }

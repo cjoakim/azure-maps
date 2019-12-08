@@ -9,54 +9,7 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Blairsville",
-        "extendedPostalCode": "305123501,305123660,305127839",
-        "freeformAddress": "17 Highway 515 West, Blairsville, GA 30512",
-        "municipality": "Blairsville",
-        "municipalitySubdivision": "Blairsville",
-        "postalCode": "30512",
-        "streetName": "Highway 515 West",
-        "streetNumber": "17"
-      },
-      "addressRanges": {
-        "from": {
-          "lat": 34.87677,
-          "lon": -83.96137
-        },
-        "rangeLeft": "40 - 34",
-        "rangeRight": "85 - 1",
-        "to": {
-          "lat": 34.87662,
-          "lon": -83.9612
-        }
-      },
-      "id": "US/ADDR/p0/4343185",
-      "position": {
-        "lat": 34.87662,
-        "lon": -83.96127
-      },
-      "score": 11.777,
-      "type": "Address Range",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.87662,
-          "lon": -83.9612
-        },
-        "topLeftPoint": {
-          "lat": 34.87677,
-          "lon": -83.96137
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Union",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Blairsville",
-        "extendedPostalCode": "305123569,305128501,305128531",
+        "extendedPostalCode": "305123569, 305128501, 305128531",
         "freeformAddress": "17 Highway 515 East, Blairsville, GA 30512",
         "municipality": "Blairsville",
         "municipalitySubdivision": "Blairsville",
@@ -76,7 +29,7 @@
           "lon": -83.95935
         }
       },
-      "id": "US/ADDR/p2/884472",
+      "id": "US/ADDR/p1/29595490",
       "position": {
         "lat": 34.87836,
         "lon": -83.95941
@@ -103,7 +56,54 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Blairsville",
-        "extendedPostalCode": "305123501,305123660,305127839",
+        "extendedPostalCode": "305123501, 305123660, 305127839",
+        "freeformAddress": "17 Highway 515 West, Blairsville, GA 30512",
+        "municipality": "Blairsville",
+        "municipalitySubdivision": "Blairsville",
+        "postalCode": "30512",
+        "streetName": "Highway 515 West",
+        "streetNumber": "17"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 34.87677,
+          "lon": -83.96137
+        },
+        "rangeLeft": "40 - 34",
+        "rangeRight": "85 - 1",
+        "to": {
+          "lat": 34.87662,
+          "lon": -83.9612
+        }
+      },
+      "id": "US/ADDR/p2/7300335",
+      "position": {
+        "lat": 34.87662,
+        "lon": -83.96127
+      },
+      "score": 11.777,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.87662,
+          "lon": -83.9612
+        },
+        "topLeftPoint": {
+          "lat": 34.87677,
+          "lon": -83.96137
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Union",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Blairsville",
+        "extendedPostalCode": "305123501, 305123660, 305127839",
         "freeformAddress": "515 Highway 515 West, Blairsville, GA 30512",
         "municipality": "Blairsville",
         "municipalitySubdivision": "Blairsville",
@@ -123,7 +123,7 @@
           "lon": -83.96513
         }
       },
-      "id": "US/ADDR/p0/20127164",
+      "id": "US/ADDR/p1/22878314",
       "position": {
         "lat": 34.87179,
         "lon": -83.96518
@@ -150,7 +150,7 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Blairsville",
-        "extendedPostalCode": "305123698,305123699,305128506,305128531,305128574,305128575,305128579",
+        "extendedPostalCode": "305123698, 305123699, 305128506, 305128531, 305128574, 305128575, 305128579",
         "freeformAddress": "515 Highway 515 East, Blairsville, GA 30512",
         "municipality": "Blairsville",
         "municipalitySubdivision": "Blairsville",
@@ -170,7 +170,7 @@
           "lon": -83.94956
         }
       },
-      "id": "US/ADDR/p2/884721",
+      "id": "US/ADDR/p1/29596537",
       "position": {
         "lat": 34.88305,
         "lon": -83.94964
@@ -202,7 +202,7 @@
         "postalCode": "30512",
         "streetName": "Highway 515 West"
       },
-      "id": "US/STR/p0/449559",
+      "id": "US/STR/p0/741536",
       "position": {
         "lat": 34.86531,
         "lon": -84.03733
@@ -234,7 +234,7 @@
         "postalCode": "30512",
         "streetName": "Highway 515 West"
       },
-      "id": "US/STR/p0/451578",
+      "id": "US/STR/p0/743695",
       "position": {
         "lat": 34.8775,
         "lon": -84.09523
@@ -261,26 +261,96 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Blairsville",
+        "extendedPostalCode": "305123272, 305128580, 305128581, 305128582, 305128583",
         "freeformAddress": "Highway 515 East, Blairsville, GA 30512",
         "municipality": "Blairsville",
+        "municipalitySubdivision": "Blairsville",
         "postalCode": "30512",
         "streetName": "Highway 515 East"
       },
-      "id": "US/STR/p0/7053040",
+      "id": "US/STR/p0/4985429",
       "position": {
-        "lat": 34.88329,
-        "lon": -83.94373
+        "lat": 34.91077,
+        "lon": -83.86891
       },
       "score": 10.18086,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.88278,
-          "lon": -83.943
+          "lat": 34.90988,
+          "lon": -83.86579
         },
         "topLeftPoint": {
-          "lat": 34.88395,
-          "lon": -83.94473
+          "lat": 34.91122,
+          "lon": -83.87206
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Union",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Blairsville",
+        "extendedPostalCode": "305123259, 305123270, 305123384, 305123385, 305128200, 3051285, 305128503, 305128507, 305128508, 305128540, 305128548, 305128550, 305128567, 305128596, 305128597, 305128598, 305128599, 305128605",
+        "freeformAddress": "Highway 515 East, Blairsville, GA 30512",
+        "municipality": "Blairsville",
+        "municipalitySubdivision": "Blairsville",
+        "postalCode": "30512",
+        "streetName": "Highway 515 East"
+      },
+      "id": "US/STR/p0/4985430",
+      "position": {
+        "lat": 34.89178,
+        "lon": -83.93703
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.88249,
+          "lon": -83.92515
+        },
+        "topLeftPoint": {
+          "lat": 34.90048,
+          "lon": -83.94707
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Union",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Blairsville",
+        "extendedPostalCode": "305122372, 305122391, 305122472, 305122494, 305122498, 305122499, 305123067, 305123282, 305123283, 305123284, 305123287, 305123288, 305123289, 305123290, 305123291, 305123292, 305123293, 305127822, 305127834, 305128203, 305128513, 305128591, 305128592, 305128593, 305128594, 305128595",
+        "freeformAddress": "Highway 515 East, Blairsville, GA 30512",
+        "municipality": "Blairsville",
+        "municipalitySubdivision": "Blairsville",
+        "postalCode": "30512",
+        "streetName": "Highway 515 East"
+      },
+      "id": "US/STR/p0/4985431",
+      "position": {
+        "lat": 34.90252,
+        "lon": -83.91189
+      },
+      "score": 10.18086,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.89428,
+          "lon": -83.90151
+        },
+        "topLeftPoint": {
+          "lat": 34.91226,
+          "lon": -83.92345
         }
       }
     }
@@ -288,11 +358,11 @@
   "search_address": "17 Highway 515 Blairsville GA 30512",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 7,
+    "numResults": 9,
     "offset": 0,
     "query": "17 highway 515 blairsville ga 30512",
-    "queryTime": 182,
+    "queryTime": 168,
     "queryType": "NON_NEAR",
-    "totalResults": 192
+    "totalResults": 194
   }
 }

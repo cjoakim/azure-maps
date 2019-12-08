@@ -9,14 +9,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Covington-Porterdale",
-        "extendedPostalCode": "3001421,300142112,300142113,300142115,300142116,300142118,300142121,300142123,300142125,300142127,300142128,300142130,300142131,300142140,300142200,300142202,300142302,300142303,300142304",
+        "extendedPostalCode": "3001421, 300142112, 300142113, 300142115, 300142116, 300142118, 300142121, 300142123, 300142125, 300142127, 300142128, 300142130, 300142131, 300142140, 300142200, 300142202, 300142302, 300142303, 300142304",
         "freeformAddress": "Highway 278 Northwest, Covington, GA 30014",
         "municipality": "Covington",
         "municipalitySubdivision": "Covington",
         "postalCode": "30014",
         "streetName": "Highway 278 Northwest"
       },
-      "id": "US/STR/p0/8379541",
+      "id": "US/STR/p0/4878818",
       "position": {
         "lat": 33.60331,
         "lon": -83.86699
@@ -50,7 +50,7 @@
         "postalCode": "30014",
         "streetName": "Atlanta Highway Northwest"
       },
-      "id": "US/STR/p0/13410519",
+      "id": "US/STR/p0/11100222",
       "position": {
         "lat": 33.60464,
         "lon": -83.86722
@@ -77,14 +77,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Covington-Porterdale",
-        "extendedPostalCode": "300141900,300141906,300141907,300141908,300141912,300141913,300141917,300141918,300141919,300141920,300141921,300141922,300141931,300141946,300141947,300141948,300141950,300141951,300141952,300141953,300141970,300141980,300141982,300141983,300141984,300141987,300141989,300141991,300141999,300142003,300142048,300145001,300146815",
+        "extendedPostalCode": "300141900, 300141906, 300141907, 300141908, 300141912, 300141913, 300141917, 300141918, 300141919, 300141920, 300141921, 300141922, 300141931, 300141946, 300141947, 300141948, 300141950, 300141951, 300141952, 300141953, 300141970, 300141980, 300141982, 300141983, 300141984, 300141987, 300141989, 300141991, 300141999, 300142003, 300142048, 300145001, 300146815",
         "freeformAddress": "Access Road, Covington, GA 30014",
         "municipality": "Covington",
         "municipalitySubdivision": "Covington",
         "postalCode": "30014",
         "streetName": "Access Road"
       },
-      "id": "US/STR/p0/7414483",
+      "id": "US/STR/p0/4985935",
       "position": {
         "lat": 33.60575,
         "lon": -83.87601
@@ -117,7 +117,7 @@
         "postalCode": "30014",
         "streetName": "Highway 138, Georgia 138, Georgia State Route 138, State Route 138 & Highway 138 Northwest, Georgia 138, Georgia State Route 138, State Route 138"
       },
-      "id": "US/XSTR/p0/3317927",
+      "id": "US/XSTR/p1/1258516",
       "position": {
         "lat": 33.7588,
         "lon": -83.8185
@@ -148,9 +148,9 @@
         "municipality": "Covington",
         "municipalitySubdivision": "Covington",
         "postalCode": "30014",
-        "streetName": "Emory Street Northwest, Georgia 81, State Route 81, Georgia State Route 81 & Highway 278 Northwest, US-278 West, United States Highway 278 East, Georgia 12, Stanton Springs Parkway, State Route 12, US-278 East, Georgia State Route 12, United States Highway 278 West"
+        "streetName": "Emory Street Northwest, Georgia 81, Georgia State Route 81, State Route 81 & Highway 278 Northwest, Georgia 12, Georgia State Route 12, Stanton Springs Parkway, State Route 12, US-278 East, US-278 West, United States Highway 278 East, United States Highway 278 West"
       },
-      "id": "US/XSTR/p0/6020900",
+      "id": "US/XSTR/p1/3834015",
       "position": {
         "lat": 33.60264,
         "lon": -83.86402
@@ -177,13 +177,46 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Covington-Porterdale",
+        "freeformAddress": "Highway 278 Northwest & Spring Street Northwest, Covington, GA 30014",
+        "municipality": "Covington",
+        "municipalitySubdivision": "Covington",
+        "postalCode": "30014",
+        "streetName": "Highway 278 Northwest, Georgia 12, Georgia State Route 12, Stanton Springs Parkway, State Route 12, US-278 East, US-278 West, United States Highway 278 East, United States Highway 278 West & Spring Street Northwest, Spring Street"
+      },
+      "id": "US/XSTR/p1/3834016",
+      "position": {
+        "lat": 33.60269,
+        "lon": -83.86479
+      },
+      "score": 8.16715,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.60179,
+          "lon": -83.86371
+        },
+        "topLeftPoint": {
+          "lat": 33.60359,
+          "lon": -83.86587
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Newton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Covington-Porterdale",
         "freeformAddress": "Highway 278 East & Highway 278 Northwest, Covington, GA 30014",
         "municipality": "Covington",
         "municipalitySubdivision": "Covington",
         "postalCode": "30014",
-        "streetName": "Highway 278 East, US-278 West, United States Highway 278 East, Georgia 12, Stanton Springs Parkway, State Route 12, US-278 East, Georgia State Route 12, United States Highway 278 West, Highway 278 Northeast & Highway 278 Northwest, US-278 West, United States Highway 278 East, Georgia 12, Stanton Springs Parkway, State Route 12, US-278 East, Georgia State Route 12, United States Highway 278 West"
+        "streetName": "Highway 278 East, Georgia 12, Georgia State Route 12, Highway 278 Northeast, Stanton Springs Parkway, State Route 12, US-278 East, US-278 West, United States Highway 278 East, United States Highway 278 West & Highway 278 Northwest, Georgia 12, Georgia State Route 12, Stanton Springs Parkway, State Route 12, US-278 East, US-278 West, United States Highway 278 East, United States Highway 278 West"
       },
-      "id": "US/XSTR/p0/6020902",
+      "id": "US/XSTR/p1/3834019",
       "position": {
         "lat": 33.60279,
         "lon": -83.86035
@@ -210,13 +243,46 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Covington-Porterdale",
+        "freeformAddress": "Highway 278 Northwest & West Street Northwest, Covington, GA 30014",
+        "municipality": "Covington",
+        "municipalitySubdivision": "Covington",
+        "postalCode": "30014",
+        "streetName": "Highway 278 Northwest, Georgia 12, Georgia State Route 12, Stanton Springs Parkway, State Route 12, US-278 East, US-278 West, United States Highway 278 East, United States Highway 278 West & West Street Northwest"
+      },
+      "id": "US/XSTR/p1/3834028",
+      "position": {
+        "lat": 33.60347,
+        "lon": -83.86746
+      },
+      "score": 8.16715,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.60257,
+          "lon": -83.86638
+        },
+        "topLeftPoint": {
+          "lat": 33.60437,
+          "lon": -83.86854
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Newton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Covington-Porterdale",
         "freeformAddress": "Atlanta Highway Northwest & Emory Street Northwest, Covington, GA 30014",
         "municipality": "Covington",
         "municipalitySubdivision": "Covington",
         "postalCode": "30014",
-        "streetName": "Atlanta Highway Northwest, Old Atlanta Road, Old Atlanta Highway & Emory Street Northwest, Georgia 81, State Route 81, Georgia State Route 81"
+        "streetName": "Atlanta Highway Northwest, Old Atlanta Highway, Old Atlanta Road & Emory Street Northwest, Georgia 81, Georgia State Route 81, State Route 81"
       },
-      "id": "US/XSTR/p0/6020912",
+      "id": "US/XSTR/p1/3834039",
       "position": {
         "lat": 33.60392,
         "lon": -83.86412
@@ -247,9 +313,9 @@
         "municipality": "Covington",
         "municipalitySubdivision": "Covington",
         "postalCode": "30014",
-        "streetName": "Highway 278 Northwest, US-278 West, United States Highway 278 East, Georgia 12, Stanton Springs Parkway, State Route 12, US-278 East, Georgia State Route 12, United States Highway 278 West & Robinson Street Northwest"
+        "streetName": "Highway 278 Northwest, Georgia 12, Georgia State Route 12, Stanton Springs Parkway, State Route 12, US-278 East, US-278 West, United States Highway 278 East, United States Highway 278 West & Robinson Street Northwest"
       },
-      "id": "US/XSTR/p0/6020914",
+      "id": "US/XSTR/p1/3834043",
       "position": {
         "lat": 33.60417,
         "lon": -83.86945
@@ -266,72 +332,6 @@
           "lon": -83.87053
         }
       }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Newton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Covington-Porterdale",
-        "freeformAddress": "Atlanta Highway Northwest & West Street Northwest, Covington, GA 30014",
-        "municipality": "Covington",
-        "municipalitySubdivision": "Covington",
-        "postalCode": "30014",
-        "streetName": "Atlanta Highway Northwest, Old Atlanta Road, Old Atlanta Highway & West Street Northwest"
-      },
-      "id": "US/XSTR/p0/6020919",
-      "position": {
-        "lat": 33.60467,
-        "lon": -83.86749
-      },
-      "score": 8.16715,
-      "type": "Cross Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.60377,
-          "lon": -83.86641
-        },
-        "topLeftPoint": {
-          "lat": 33.60557,
-          "lon": -83.86857
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Newton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Covington-Porterdale",
-        "freeformAddress": "Atlanta Highway Northwest & Piper Street Northwest, Covington, GA 30014",
-        "municipality": "Covington",
-        "municipalitySubdivision": "Covington",
-        "postalCode": "30014",
-        "streetName": "Atlanta Highway Northwest, Old Atlanta Road, Old Atlanta Highway & Piper Street Northwest, Piper Street"
-      },
-      "id": "US/XSTR/p0/6020926",
-      "position": {
-        "lat": 33.60507,
-        "lon": -83.86912
-      },
-      "score": 8.16715,
-      "type": "Cross Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.60417,
-          "lon": -83.86804
-        },
-        "topLeftPoint": {
-          "lat": 33.60597,
-          "lon": -83.8702
-        }
-      }
     }
   ],
   "search_address": "13171 Hwy 142 Nw Covington GA 30014",
@@ -340,7 +340,7 @@
     "numResults": 10,
     "offset": 0,
     "query": "13171 hwy 142 nw covington ga 30014",
-    "queryTime": 210,
+    "queryTime": 164,
     "queryType": "NON_NEAR",
     "totalResults": 33
   }

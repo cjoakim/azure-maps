@@ -27,7 +27,7 @@
           "type": "main"
         }
       ],
-      "id": "US/PAD/p1/11432196",
+      "id": "US/PAD/p0/55525037",
       "position": {
         "lat": 33.91815,
         "lon": -83.4271
@@ -53,29 +53,28 @@
         "countrySecondarySubdivision": "Oconee, Clarke",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Athens, Bogart",
-        "extendedPostalCode": "3060687,306063311,306063312,306063343,306063344,306063372,306066957,306068379,306068380,306068381,306068382,306068383,306068384,306068385,306068386,306068387,306068388,306068389,306068700",
+        "countryTertiarySubdivision": "Bogart",
         "freeformAddress": "Epps Bridge Road, Athens, GA 30606",
         "municipality": "Athens",
-        "municipalitySubdivision": "Athens, Athens (Clarke County)",
+        "municipalitySubdivision": "Athens (Clarke County)",
         "postalCode": "30606",
         "streetName": "Epps Bridge Road"
       },
-      "id": "US/STR/p0/4887780",
+      "id": "US/STR/p0/3772957",
       "position": {
-        "lat": 33.94215,
-        "lon": -83.42959
+        "lat": 33.94635,
+        "lon": -83.42767
       },
       "score": 12.44169,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.93863,
-          "lon": -83.42771
+          "lat": 33.94628,
+          "lon": -83.42767
         },
         "topLeftPoint": {
-          "lat": 33.94605,
-          "lon": -83.43231
+          "lat": 33.94644,
+          "lon": -83.42768
         }
       }
     },
@@ -84,32 +83,32 @@
         "country": "United States",
         "countryCode": "US",
         "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Clarke",
+        "countrySecondarySubdivision": "Oconee",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Athens",
-        "extendedPostalCode": "306062854,306062855,306062856,306062858,306062875,306062876",
+        "countryTertiarySubdivision": "Watkinsville",
+        "extendedPostalCode": "306065703, 306065704, 306065705, 306065706, 306065707, 306065709, 306065710, 306065711, 306065712, 306065723, 306065761, 306065796, 306065797, 306065798, 306066125, 306066165",
         "freeformAddress": "Old Epps Bridge Road, Athens, GA 30606",
         "municipality": "Athens",
-        "municipalitySubdivision": "Athens, Athens (Clarke County)",
+        "municipalitySubdivision": "Athens",
         "postalCode": "30606",
         "streetName": "Old Epps Bridge Road"
       },
-      "id": "US/STR/p0/11308622",
+      "id": "US/STR/p0/2185014",
       "position": {
-        "lat": 33.95116,
-        "lon": -83.40992
+        "lat": 33.91755,
+        "lon": -83.43306
       },
       "score": 12.37648,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.9493,
-          "lon": -83.40678
+          "lat": 33.90795,
+          "lon": -83.4221
         },
         "topLeftPoint": {
-          "lat": 33.95305,
-          "lon": -83.41301
+          "lat": 33.92594,
+          "lon": -83.44377
         }
       }
     },
@@ -128,7 +127,7 @@
         "postalCode": "30606",
         "streetName": "Old Epps Bridge Road"
       },
-      "id": "US/STR/p0/13333057",
+      "id": "US/STR/p0/3772959",
       "position": {
         "lat": 33.93968,
         "lon": -83.43221
@@ -151,32 +150,31 @@
         "country": "United States",
         "countryCode": "US",
         "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Oconee",
+        "countrySecondarySubdivision": "Clarke",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Watkinsville",
-        "extendedPostalCode": "306065703,306065704,306065705,306065706,306065707,306065709,306065710,306065711,306065712,306065723,306065761,306065796,306065797,306065798,306066125,306066165",
+        "countryTertiarySubdivision": "Athens",
         "freeformAddress": "Old Epps Bridge Road, Athens, GA 30606",
         "municipality": "Athens",
-        "municipalitySubdivision": "Athens",
+        "municipalitySubdivision": "Athens (Clarke County)",
         "postalCode": "30606",
         "streetName": "Old Epps Bridge Road"
       },
-      "id": "US/STR/p0/13412483",
+      "id": "US/STR/p0/4138856",
       "position": {
-        "lat": 33.91755,
-        "lon": -83.43306
+        "lat": 33.94921,
+        "lon": -83.413
       },
       "score": 12.37648,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.90795,
-          "lon": -83.4221
+          "lat": 33.94894,
+          "lon": -83.41298
         },
         "topLeftPoint": {
-          "lat": 33.92594,
-          "lon": -83.44377
+          "lat": 33.9493,
+          "lon": -83.41301
         }
       }
     }
@@ -187,7 +185,7 @@
     "numResults": 5,
     "offset": 0,
     "query": "1740 epps bridge rd athens ga 30606",
-    "queryTime": 337,
+    "queryTime": 289,
     "queryType": "NON_NEAR",
     "totalResults": 35
   }

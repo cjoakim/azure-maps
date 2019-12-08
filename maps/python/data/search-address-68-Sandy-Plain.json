@@ -68,7 +68,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/33582791",
+      "id": "US/PAD/p0/46666819",
       "position": {
         "lat": 34.03851,
         "lon": -84.46288
@@ -94,13 +94,81 @@
         "countrySecondarySubdivision": "Cobb",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Northeast Cobb",
+        "extendedPostalCode": "300661709, 300661711, 300661714, 300661784, 300662400, 300662407, 300662408, 300662431, 300662433, 300662434, 300662435, 300662436, 300662437, 300662438",
+        "freeformAddress": "Sandy Plains Road, Marietta, GA 30066",
+        "municipality": "Marietta",
+        "municipalitySubdivision": "Marietta",
+        "postalCode": "30066",
+        "streetName": "Sandy Plains Road"
+      },
+      "id": "US/STR/p0/2183083",
+      "position": {
+        "lat": 34.05594,
+        "lon": -84.44362
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.04635,
+          "lon": -84.43234
+        },
+        "topLeftPoint": {
+          "lat": 34.06433,
+          "lon": -84.45405
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Northeast Cobb",
+        "extendedPostalCode": "3006602, 300660200, 300660201, 300660202, 300660203, 300660204, 300660205, 300660206, 300660207, 300660208, 300660209, 300660210, 300660211, 300660212, 300660213, 300660214, 300660215, 300660216, 300660217, 300660218, 300660219, 300660220, 300660221, 300660222, 300660223, 300660224, 300660225, 300660226, 300660227, 300660228, 300660229, 300660230, 300660231, 300660232, 300660233, 300660234, 300660235, 300660236, 300660237, 300660238, 300660239, 300660240, 300660241, 300660242, 300660243, 300660244, 300660245, 300660246, 300660247, 300660248, 300660249, 300660250, 300660251, 300660252, 300660253, 300660254, 300660255, 300660256, 300660257, 300660258, 300660259, 300660260, 300660261, 300660262, 300660263, 300660264, 300660265, 300660266, 300660267, 300660268, 300660269, 300660270, 300660271, 300660272, 300660273, 300660274, 300660275, 300660276, 300660277, 300660278, 300660279, 300662331, 300662332, 300663000, 300663008, 300663017, 300663019, 300663020, 300663021, 300663022, 300663023, 300663024, 300663054, 300663065, 300663066, 300663067, 300663068, 300663095, 300663096, 300663097, 300664200, 300664213, 300664214, 300664239, 300664240, 300664241, 300664254, 300664256, 300664259, 300664260, 300664261, 300664267, 300664268, 300664269, 300664276, 300664277, 300664278, 300664281, 300664282, 300664283, 300664284, 300664285, 300664287, 300664288, 300664289, 300664290, 300664291, 300664294, 300664327, 300664344, 300664345, 300664363, 300664373, 300664376, 300664377, 300664378, 300664381, 300664384, 300664385, 300664386, 300664387, 300664395, 300664396, 300664552, 300664553, 300664651, 300664652, 300664695, 300664709, 300664720, 300664721, 300664728, 300664731, 300664740, 300664743, 300664745, 300664758, 300664759, 300664761, 300665798, 300667241, 300667244, 300667900, 300667901, 300667902, 300668729, 300669998",
+        "freeformAddress": "Sandy Plains Road, Marietta, GA",
+        "municipality": "Marietta",
+        "municipalitySubdivision": "Marietta",
+        "postalCode": "30062, 30066",
+        "streetName": "Sandy Plains Road"
+      },
+      "id": "US/STR/p0/2183084",
+      "position": {
+        "lat": 34.02685,
+        "lon": -84.47449
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.02127,
+          "lon": -84.46497
+        },
+        "topLeftPoint": {
+          "lat": 34.03926,
+          "lon": -84.48667
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Marietta, Northeast Cobb",
         "freeformAddress": "Sandy Plains Road, Marietta, GA",
         "municipality": "Marietta",
-        "postalCode": "30062,30066",
+        "postalCode": "30062, 30066",
         "streetName": "Sandy Plains Road"
       },
-      "id": "US/STR/p0/64542",
+      "id": "US/STR/p0/5262105",
       "position": {
         "lat": 34.0131,
         "lon": -84.4956
@@ -128,11 +196,11 @@
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Northeast Cobb",
         "freeformAddress": "Sandy Plains Road, Marietta, GA",
-        "municipality": "Marietta, Roswell",
-        "postalCode": "30066,30075",
+        "municipality": "Marietta",
+        "postalCode": "30066, 30075",
         "streetName": "Sandy Plains Road"
       },
-      "id": "US/STR/p0/64826",
+      "id": "US/STR/p0/5262389",
       "position": {
         "lat": 34.0641,
         "lon": -84.42356
@@ -149,70 +217,6 @@
           "lon": -84.42387
         }
       }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cobb",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Northeast Cobb",
-        "freeformAddress": "Sandy Plains Road, Marietta, GA 30066",
-        "municipality": "Marietta",
-        "postalCode": "30066",
-        "streetName": "Sandy Plains Road"
-      },
-      "id": "US/STR/p0/97242",
-      "position": {
-        "lat": 34.06308,
-        "lon": -84.42716
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.06283,
-          "lon": -84.42631
-        },
-        "topLeftPoint": {
-          "lat": 34.06331,
-          "lon": -84.428
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cobb",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Northeast Cobb",
-        "freeformAddress": "Sandy Plains Road, Marietta, GA",
-        "municipality": "Marietta",
-        "postalCode": "30062,30066",
-        "streetName": "Sandy Plains Road"
-      },
-      "id": "US/STR/p0/97243",
-      "position": {
-        "lat": 34.05052,
-        "lon": -84.45297
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.04668,
-          "lon": -84.44987
-        },
-        "topLeftPoint": {
-          "lat": 34.05253,
-          "lon": -84.45598
-        }
-      }
     }
   ],
   "search_address": "3605 Sandy Plains Rd Marietta GA 30066",
@@ -221,8 +225,8 @@
     "numResults": 5,
     "offset": 0,
     "query": "3605 sandy plains rd marietta ga 30066",
-    "queryTime": 290,
+    "queryTime": 249,
     "queryType": "NON_NEAR",
-    "totalResults": 95
+    "totalResults": 97
   }
 }

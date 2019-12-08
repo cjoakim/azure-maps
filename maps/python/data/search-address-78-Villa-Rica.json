@@ -41,7 +41,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/21447087",
+      "id": "US/PAD/p1/38355178",
       "position": {
         "lat": 33.71985,
         "lon": -84.94202
@@ -68,14 +68,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Villa Rica",
-        "extendedPostalCode": "301804898,301804972,301804973,301804999,301807011,301807057",
+        "extendedPostalCode": "301804898, 301804972, 301804973, 301804999, 301807011, 301807057",
         "freeformAddress": "Cooley Way, Villa Rica, GA 30180",
         "municipality": "Villa Rica",
         "municipalitySubdivision": "Villa Rica",
         "postalCode": "30180",
         "streetName": "Cooley Way"
       },
-      "id": "US/STR/p0/12151517",
+      "id": "US/STR/p0/4063149",
       "position": {
         "lat": 33.71812,
         "lon": -84.94088
@@ -100,7 +100,7 @@
     "numResults": 2,
     "offset": 0,
     "query": "210 cooley way villa rica ga 30180",
-    "queryTime": 87,
+    "queryTime": 88,
     "queryType": "NON_NEAR",
     "totalResults": 2
   }

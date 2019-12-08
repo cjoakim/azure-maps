@@ -33,7 +33,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/4551194",
+      "id": "US/PAD/p1/55880469",
       "position": {
         "lat": 34.47246,
         "lon": -83.96779
@@ -60,14 +60,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Three Sisters Mountain",
-        "extendedPostalCode": "305337139,305337144,305337146",
+        "extendedPostalCode": "305337139, 305337144, 305337146",
         "freeformAddress": "Maxwell Lane, Dahlonega, GA 30533",
         "municipality": "Dahlonega",
         "municipalitySubdivision": "Dahlonega",
         "postalCode": "30533",
         "streetName": "Maxwell Lane"
       },
-      "id": "US/STR/p0/12151518",
+      "id": "US/STR/p0/4063150",
       "position": {
         "lat": 34.4701,
         "lon": -83.9683
@@ -92,7 +92,7 @@
     "numResults": 2,
     "offset": 0,
     "query": "140 maxwell lane dahlonega ga 30533",
-    "queryTime": 89,
+    "queryTime": 74,
     "queryType": "NON_NEAR",
     "totalResults": 2
   }

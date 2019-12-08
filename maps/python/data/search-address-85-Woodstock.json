@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/29098830",
+      "id": "US/PAD/p1/48801577",
       "position": {
         "lat": 34.08658,
         "lon": -84.53834
@@ -74,28 +74,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Woodstock",
-        "extendedPostalCode": "301893401,301893402,301893406,301893452,301893465,301893467,301893470,301893472,301893473,301893480,301893481,301893482,301893483,301893484,301893485,301893499,301893513,301893514,301893546,301893597,301893617,301893623,301893649,301893650,301893671,301893672,301893673,301893674,301893686,301893689,301893691,301893693,301893697,301893698,301893701,301893718,301893722,301893726,301893752,301893753,301895205,301895209,301895210,301895231,301895232,301895233,301895235,301895237,301895238,301895303,301895371,301895378,301896504,301896506,301896507,301896508,301896509,301896513,301896514,301896515,301896516,301896520",
-        "freeformAddress": "Highway 92, Woodstock, GA 30189",
-        "municipality": "Woodstock",
-        "municipalitySubdivision": "Woodstock",
-        "postalCode": "30189",
+        "freeformAddress": "Highway 92, Woodstock, GA",
+        "municipality": "Woodstock, Acworth",
+        "postalCode": "30102, 30189",
         "streetName": "Highway 92"
       },
-      "id": "US/STR/p0/5723117",
+      "id": "US/STR/p0/1636511",
       "position": {
-        "lat": 34.08534,
-        "lon": -84.55602
+        "lat": 34.08796,
+        "lon": -84.57699
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.07692,
-          "lon": -84.54529
+          "lat": 34.08783,
+          "lon": -84.57637
         },
         "topLeftPoint": {
-          "lat": 34.0949,
-          "lon": -84.567
+          "lat": 34.08796,
+          "lon": -84.57699
         }
       }
     },
@@ -108,26 +106,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Woodstock",
-        "freeformAddress": "Highway 92, Woodstock, GA",
-        "municipality": "Woodstock, Acworth",
-        "postalCode": "30102,30189",
+        "freeformAddress": "Highway 92, Woodstock, GA 30189",
+        "municipality": "Woodstock",
+        "postalCode": "30189",
         "streetName": "Highway 92"
       },
-      "id": "US/STR/p0/7244537",
+      "id": "US/STR/p0/1636552",
       "position": {
-        "lat": 34.08678,
-        "lon": -84.57217
+        "lat": 34.08671,
+        "lon": -84.57196
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.08678,
-          "lon": -84.57217
+          "lat": 34.08636,
+          "lon": -84.57087
         },
         "topLeftPoint": {
-          "lat": 34.08685,
-          "lon": -84.57243
+          "lat": 34.08678,
+          "lon": -84.57217
         }
       }
     },
@@ -145,7 +143,7 @@
         "postalCode": "30189",
         "streetName": "Kellogg Creek Road"
       },
-      "id": "US/STR/p0/7243897",
+      "id": "US/STR/p0/10987039",
       "position": {
         "lat": 34.1199,
         "lon": -84.58557
@@ -176,9 +174,9 @@
         "municipality": "Woodstock",
         "municipalitySubdivision": "Woodstock",
         "postalCode": "30189",
-        "streetName": "Highway 92, Georgia 92, State Route-92, Georgia State Route 92 & Woodstock Square Avenue"
+        "streetName": "Highway 92, Georgia 92, Georgia State Route 92, State Route-92 & Woodstock Square Avenue"
       },
-      "id": "US/XSTR/p1/5906389",
+      "id": "US/XSTR/p1/1317263",
       "position": {
         "lat": 34.0856,
         "lon": -84.54273
@@ -203,7 +201,7 @@
     "numResults": 5,
     "offset": 0,
     "query": "9037 hwy 92 suite 100 woodstock ga 30189",
-    "queryTime": 218,
+    "queryTime": 223,
     "queryType": "NON_NEAR",
     "totalResults": 188
   }

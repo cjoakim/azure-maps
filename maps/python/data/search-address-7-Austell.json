@@ -8,38 +8,6 @@
         "countrySecondarySubdivision": "Cobb",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Smyrna",
-        "freeformAddress": "East-West Connector & Hicks Road, Austell, GA 30106",
-        "municipality": "Austell",
-        "postalCode": "30106",
-        "streetName": "East-West Connector, East West Connector & Hicks Road, Hicks Road Southwest"
-      },
-      "id": "US/XSTR/p0/629544",
-      "position": {
-        "lat": 33.85645,
-        "lon": -84.57785
-      },
-      "score": 12.35749,
-      "type": "Cross Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.85555,
-          "lon": -84.57677
-        },
-        "topLeftPoint": {
-          "lat": 33.85735,
-          "lon": -84.57893
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cobb",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Austell",
         "freeformAddress": "East-West Connector & Lipson Drive Southwest, Austell, GA 30106",
         "municipality": "Austell",
@@ -47,7 +15,7 @@
         "postalCode": "30106",
         "streetName": "East-West Connector, East West Connector & Lipson Drive Southwest"
       },
-      "id": "US/XSTR/p0/5864994",
+      "id": "US/XSTR/p0/2789466",
       "position": {
         "lat": 33.85399,
         "lon": -84.60835
@@ -74,59 +42,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Smyrna",
-        "freeformAddress": "East-West Connector & Felton Hill Road Southwest, Austell, GA 30106",
+        "freeformAddress": "East-West Connector & Hicks Road, Austell, GA 30106",
         "municipality": "Austell",
-        "municipalitySubdivision": "Austell",
         "postalCode": "30106",
-        "streetName": "East-West Connector, East West Connector & Felton Hill Road Southwest, Felton Hill Road"
+        "streetName": "East-West Connector, East West Connector & Hicks Road, Hicks Road Southwest"
       },
-      "id": "US/XSTR/p0/629551",
+      "id": "US/XSTR/p0/5522295",
       "position": {
-        "lat": 33.8566,
-        "lon": -84.5751
+        "lat": 33.85645,
+        "lon": -84.57785
       },
-      "score": 12.34064,
+      "score": 12.35749,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.8557,
-          "lon": -84.57402
+          "lat": 33.85555,
+          "lon": -84.57677
         },
         "topLeftPoint": {
-          "lat": 33.8575,
-          "lon": -84.57618
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cobb",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Austell",
-        "freeformAddress": "East-West Connector & Ernest W. Barrett Parkway Southwest, Marietta, GA 30008",
-        "municipality": "Marietta",
-        "postalCode": "30008,30106",
-        "streetName": "East-West Connector, East West Connector & Ernest W. Barrett Parkway Southwest, West Cobb Parkway Southwest"
-      },
-      "id": "US/XSTR/p0/4057945",
-      "position": {
-        "lat": 33.86761,
-        "lon": -84.63102
-      },
-      "score": 12.34064,
-      "type": "Cross Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.86671,
-          "lon": -84.62994
-        },
-        "topLeftPoint": {
-          "lat": 33.86851,
-          "lon": -84.6321
+          "lat": 33.85735,
+          "lon": -84.57893
         }
       }
     },
@@ -144,7 +79,7 @@
         "postalCode": "30106",
         "streetName": "Clare Cottage Trace Southwest & East-West Connector, East West Connector"
       },
-      "id": "US/XSTR/p0/5864989",
+      "id": "US/XSTR/p0/2789456",
       "position": {
         "lat": 33.86422,
         "lon": -84.62265
@@ -161,16 +96,49 @@
           "lon": -84.62373
         }
       }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Smyrna",
+        "freeformAddress": "East-West Connector & Felton Hill Road Southwest, Austell, GA 30106",
+        "municipality": "Austell",
+        "municipalitySubdivision": "Austell",
+        "postalCode": "30106",
+        "streetName": "East-West Connector, East West Connector & Felton Hill Road Southwest, Felton Hill Road"
+      },
+      "id": "US/XSTR/p0/5522308",
+      "position": {
+        "lat": 33.85648,
+        "lon": -84.57509
+      },
+      "score": 12.34064,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.85558,
+          "lon": -84.57401
+        },
+        "topLeftPoint": {
+          "lat": 33.85738,
+          "lon": -84.57617
+        }
+      }
     }
   ],
   "search_address": "1200 E W Connector Sw Austell GA 30106",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 5,
+    "numResults": 4,
     "offset": 0,
     "query": "1200 e w connector sw austell ga 30106",
-    "queryTime": 135,
+    "queryTime": 192,
     "queryType": "NON_NEAR",
-    "totalResults": 16
+    "totalResults": 15
   }
 }

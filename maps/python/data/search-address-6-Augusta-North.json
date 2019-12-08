@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/43421075",
+      "id": "US/PAD/p1/42548845",
       "position": {
         "lat": 33.5361,
         "lon": -82.13173
@@ -74,81 +74,13 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Evans",
-        "extendedPostalCode": "3080965,3080992,308093050,308093200,308093201,308093202,308093203,308093204,308093205,308093206,308093207,308093261,308093262,308093267,308093268,308093269,308093335,308093336,308093501,308093509,308096500,308096501,308096502,308096503,308099200,308099201",
-        "freeformAddress": "North Belair Road, Evans, GA 30809",
-        "municipality": "Evans, Martinez",
-        "municipalitySubdivision": "Evans, Martinez",
-        "postalCode": "30809",
-        "streetName": "North Belair Road"
-      },
-      "id": "US/STR/p0/5721915",
-      "position": {
-        "lat": 33.5153,
-        "lon": -82.14316
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.50593,
-          "lon": -82.13176
-        },
-        "topLeftPoint": {
-          "lat": 33.52392,
-          "lon": -82.15334
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Columbia",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Evans",
-        "extendedPostalCode": "308094218,308094219,308094242,308094265",
-        "freeformAddress": "North Belair Road, Evans, GA 30809",
-        "municipality": "Evans, Martinez",
-        "municipalitySubdivision": "Evans, Martinez",
-        "postalCode": "30809",
-        "streetName": "North Belair Road"
-      },
-      "id": "US/STR/p0/5721916",
-      "position": {
-        "lat": 33.53862,
-        "lon": -82.12641
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.5371,
-          "lon": -82.12504
-        },
-        "topLeftPoint": {
-          "lat": 33.54058,
-          "lon": -82.12821
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Columbia",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Evans",
         "freeformAddress": "North Belair Road, Evans, GA",
         "municipality": "Evans, Martinez, Augusta",
         "municipalitySubdivision": "Evans, Martinez",
-        "postalCode": "30809,30907",
+        "postalCode": "30809, 30907",
         "streetName": "North Belair Road"
       },
-      "id": "US/STR/p0/10105659",
+      "id": "US/STR/p0/4665599",
       "position": {
         "lat": 33.5075,
         "lon": -82.14169
@@ -175,14 +107,82 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Evans",
-        "extendedPostalCode": "308094214,308094215,308094312,308094313,308094314,308094315,308094316,308094317,308094320,308094348,308094359,308094360,308095117,308095118,308095131",
+        "extendedPostalCode": "308094218, 308094219, 308094242, 308094265",
+        "freeformAddress": "North Belair Road, Evans, GA 30809",
+        "municipality": "Evans, Martinez",
+        "municipalitySubdivision": "Evans, Martinez",
+        "postalCode": "30809",
+        "streetName": "North Belair Road"
+      },
+      "id": "US/STR/p0/9905323",
+      "position": {
+        "lat": 33.53862,
+        "lon": -82.12641
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.5371,
+          "lon": -82.12504
+        },
+        "topLeftPoint": {
+          "lat": 33.54058,
+          "lon": -82.12821
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Columbia",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Evans",
+        "extendedPostalCode": "308093050, 308093200, 308093201, 308093202, 308093203, 308093204, 308093205, 308093206, 308093207, 308093261, 308093262, 308093267, 308093268, 308093269, 308093335, 308093336, 308093501, 308093509, 3080965, 308096500, 308096501, 308096502, 308096503, 3080992, 308099200, 308099201",
+        "freeformAddress": "North Belair Road, Evans, GA 30809",
+        "municipality": "Evans, Martinez",
+        "municipalitySubdivision": "Evans, Martinez",
+        "postalCode": "30809",
+        "streetName": "North Belair Road"
+      },
+      "id": "US/STR/p0/9905324",
+      "position": {
+        "lat": 33.5153,
+        "lon": -82.14316
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.50593,
+          "lon": -82.13176
+        },
+        "topLeftPoint": {
+          "lat": 33.52392,
+          "lon": -82.15334
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Columbia",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Evans",
+        "extendedPostalCode": "308094214, 308094215, 308094312, 308094313, 308094314, 308094315, 308094316, 308094317, 308094320, 308094348, 308094359, 308094360, 308095117, 308095118, 308095131",
         "freeformAddress": "Evans Town Center Boulevard, Evans, GA 30809",
         "municipality": "Evans, Martinez",
         "municipalitySubdivision": "Evans",
         "postalCode": "30809",
         "streetName": "Evans Town Center Boulevard"
       },
-      "id": "US/STR/p0/5721716",
+      "id": "US/STR/p0/9905123",
       "position": {
         "lat": 33.54337,
         "lon": -82.1297
@@ -209,46 +209,13 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Evans",
-        "freeformAddress": "Evans Town Center Boulevard & North Belair Road, Martinez, GA 30809",
-        "municipality": "Martinez, Evans",
-        "municipalitySubdivision": "Evans",
-        "postalCode": "30809",
-        "streetName": "Evans Town Center Boulevard, Belair Road, North Belair Road & North Belair Road, Belair Road, North Belair Connector Road"
-      },
-      "id": "US/XSTR/p0/1244280",
-      "position": {
-        "lat": 33.54874,
-        "lon": -82.13008
-      },
-      "score": 10.73264,
-      "type": "Cross Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.54784,
-          "lon": -82.129
-        },
-        "topLeftPoint": {
-          "lat": 33.54964,
-          "lon": -82.13116
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Columbia",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Evans",
         "freeformAddress": "Evans to Locks Road & North Belair Road, Martinez, GA 30809",
         "municipality": "Martinez, Evans",
         "municipalitySubdivision": "Evans",
         "postalCode": "30809",
         "streetName": "Evans to Locks Road & North Belair Road, North Belair Connector Road"
       },
-      "id": "US/XSTR/p0/3180294",
+      "id": "US/XSTR/p1/995350",
       "position": {
         "lat": 33.54058,
         "lon": -82.12504
@@ -275,27 +242,60 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Evans",
-        "freeformAddress": "Evans Town Center Boulevard & North Belair Square, Martinez, GA 30809",
+        "freeformAddress": "Evans Town Center Boulevard & North Belair Road, Martinez, GA 30809",
         "municipality": "Martinez, Evans",
+        "municipalitySubdivision": "Evans",
+        "postalCode": "30809",
+        "streetName": "Evans Town Center Boulevard, Belair Road, North Belair Road & North Belair Road, Belair Road, North Belair Connector Road"
+      },
+      "id": "US/XSTR/p1/4901154",
+      "position": {
+        "lat": 33.54874,
+        "lon": -82.13008
+      },
+      "score": 10.73264,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.54784,
+          "lon": -82.129
+        },
+        "topLeftPoint": {
+          "lat": 33.54964,
+          "lon": -82.13116
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Columbia",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Evans",
+        "freeformAddress": "Evans Town Center Boulevard & North Belair Square, Martinez, GA 30809",
+        "municipality": "Martinez",
         "municipalitySubdivision": "Evans",
         "postalCode": "30809",
         "streetName": "Evans Town Center Boulevard, Belair Road, North Belair Road & North Belair Square"
       },
-      "id": "US/XSTR/p0/5392674",
+      "id": "US/XSTR/p1/2595629",
       "position": {
-        "lat": 33.53878,
-        "lon": -82.12889
+        "lat": 33.5393,
+        "lon": -82.1288
       },
       "score": 10.63628,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.53788,
-          "lon": -82.12781
+          "lat": 33.5384,
+          "lon": -82.12772
         },
         "topLeftPoint": {
-          "lat": 33.53968,
-          "lon": -82.12997
+          "lat": 33.5402,
+          "lon": -82.12988
         }
       }
     }
@@ -306,7 +306,7 @@
     "numResults": 8,
     "offset": 0,
     "query": "520 n belair road evans ga 30809",
-    "queryTime": 372,
+    "queryTime": 347,
     "queryType": "NON_NEAR",
     "totalResults": 72
   }

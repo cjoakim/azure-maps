@@ -27,7 +27,7 @@
           "type": "main"
         }
       ],
-      "id": "US/PAD/p1/49911942",
+      "id": "US/PAD/p0/1683416",
       "position": {
         "lat": 33.46544,
         "lon": -84.21333
@@ -54,46 +54,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "McDonough",
-        "freeformAddress": "Jonesboro Road, McDonough, GA 30253",
-        "municipality": "McDonough",
-        "postalCode": "30253",
-        "streetName": "Jonesboro Road"
-      },
-      "id": "US/STR/p0/5721116",
-      "position": {
-        "lat": 33.46415,
-        "lon": -84.21584
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.46376,
-          "lon": -84.21479
-        },
-        "topLeftPoint": {
-          "lat": 33.46429,
-          "lon": -84.2167
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Henry",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "McDonough",
-        "extendedPostalCode": "302533169,302533717,302533718,302533719,302533720,302533722,302533724,302533725,302533742,302533769,302533794,302533797,302533901,302533902,302533903,302533904,302536007,302536030,302536031,302536033,302536039,302536040,302536041,302536042,302536043,302536045,302536046,302536098,302537015",
+        "extendedPostalCode": "302533169, 302533717, 302533718, 302533719, 302533720, 302533722, 302533724, 302533725, 302533742, 302533769, 302533794, 302533797, 302533901, 302533902, 302533903, 302533904, 302536007, 302536030, 302536031, 302536033, 302536039, 302536040, 302536041, 302536042, 302536043, 302536045, 302536046, 302536098, 302537015",
         "freeformAddress": "Jonesboro Road, McDonough, GA 30253",
         "municipality": "McDonough",
         "municipalitySubdivision": "McDonough",
         "postalCode": "30253",
         "streetName": "Jonesboro Road"
       },
-      "id": "US/STR/p0/10940579",
+      "id": "US/STR/p0/2233097",
       "position": {
         "lat": 33.45908,
         "lon": -84.18107
@@ -110,16 +78,82 @@
           "lon": -84.19244
         }
       }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McDonough",
+        "extendedPostalCode": "302535900, 302535905, 302535913, 302535914, 302535915, 302535922, 302535923, 302535926, 302535927, 302535959, 302535960, 302535969, 302535971, 302535972, 302535977, 302535993, 302535999, 302536032, 302536099",
+        "freeformAddress": "Jonesboro Road, McDonough, GA 30253",
+        "municipality": "McDonough",
+        "municipalitySubdivision": "McDonough",
+        "postalCode": "30253",
+        "streetName": "Jonesboro Road"
+      },
+      "id": "US/STR/p0/2233098",
+      "position": {
+        "lat": 33.46446,
+        "lon": -84.22232
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.45476,
+          "lon": -84.21162
+        },
+        "topLeftPoint": {
+          "lat": 33.47274,
+          "lon": -84.23318
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Henry",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "McDonough",
+        "freeformAddress": "Jonesboro Road, McDonough, GA 30253",
+        "municipality": "McDonough",
+        "postalCode": "30253",
+        "streetName": "Jonesboro Road"
+      },
+      "id": "US/STR/p0/2234936",
+      "position": {
+        "lat": 33.45053,
+        "lon": -84.16199
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.45003,
+          "lon": -84.16104
+        },
+        "topLeftPoint": {
+          "lat": 33.45115,
+          "lon": -84.16319
+        }
+      }
     }
   ],
   "search_address": "1750 Jonesboro Rd Mcdonough GA 30253",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 3,
+    "numResults": 4,
     "offset": 0,
     "query": "1750 jonesboro rd mcdonough ga 30253",
-    "queryTime": 372,
+    "queryTime": 214,
     "queryType": "NON_NEAR",
-    "totalResults": 73
+    "totalResults": 74
   }
 }

@@ -61,7 +61,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/6895858",
+      "id": "US/PAD/p1/38517010",
       "position": {
         "lat": 34.01478,
         "lon": -84.1889
@@ -107,7 +107,7 @@
           "lon": -84.18517
         }
       },
-      "id": "US/ADDR/p3/23319781",
+      "id": "US/ADDR/p2/18915954",
       "position": {
         "lat": 34.05165,
         "lon": -84.18517
@@ -137,10 +137,10 @@
         "freeformAddress": "State Bridge Road, Duluth, GA",
         "municipality": "Duluth",
         "municipalitySubdivision": "Duluth, Johns Creek",
-        "postalCode": "30096,30097",
+        "postalCode": "30096, 30097",
         "streetName": "State Bridge Road"
       },
-      "id": "US/STR/p0/13332077",
+      "id": "US/STR/p0/3771982",
       "position": {
         "lat": 34.00798,
         "lon": -84.17974
@@ -167,28 +167,27 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Roswell-Alpharetta",
-        "extendedPostalCode": "3009782,300972484,300976439,300976440,300976441,300976442,300976443,300976444,300976445,300976446,300976447,300976448,300976450,300976451,300976452,300976453,300976454,300976455,300976456,300976457,300976458,300976459,300976460,300976461,300976463,300976464,300976465,300976468,300976478,300976479,300976480,300976481,300976483,300976484,300976485,300976486,300976487,300976488,300976490,300976491,300976492,300976493,300976494,300976495,300976497,300976498,300976499,300978200,300978201,300978202,300978203,300978204,300978205,300978206,300978207,300978209,300978210,300978212,300978213,300978214,300978215,300978216,300978217,300978218,300978219,300978221,300978222,300978224,300978225,300978226,300978227,300978229,300978230,300978232,300978233,300978234,300978235,300978236,300978237,300978238,300978239,300978240,300978241,300978250,300978251,300978252,300978253,300978254,300978255,300978256",
         "freeformAddress": "State Bridge Road, Duluth, GA 30097",
         "municipality": "Duluth, Johns Creek",
-        "municipalitySubdivision": "Duluth, Johns Creek",
+        "municipalitySubdivision": "Johns Creek",
         "postalCode": "30097",
         "streetName": "State Bridge Road"
       },
-      "id": "US/STR/p0/3582846",
+      "id": "US/STR/p0/11211022",
       "position": {
-        "lat": 34.00818,
-        "lon": -84.17972
+        "lat": 34.0151,
+        "lon": -84.18623
       },
       "score": 12.4232,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.00817,
-          "lon": -84.17968
+          "lat": 34.0114,
+          "lon": -84.18346
         },
         "topLeftPoint": {
-          "lat": 34.00834,
-          "lon": -84.18029
+          "lat": 34.01809,
+          "lon": -84.1901
         }
       }
     },
@@ -201,27 +200,28 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Suwanee-Duluth",
-        "freeformAddress": "Abbotts Bridge Road, Duluth, GA",
+        "extendedPostalCode": "300972104, 300972106, 300972146, 300972158, 300978454",
+        "freeformAddress": "Abbotts Bridge Road, Duluth, GA 30097",
         "municipality": "Duluth",
         "municipalitySubdivision": "Duluth",
-        "postalCode": "30096,30097",
+        "postalCode": "30097",
         "streetName": "Abbotts Bridge Road"
       },
-      "id": "US/STR/p0/7412760",
+      "id": "US/STR/p0/881584",
       "position": {
-        "lat": 34.02478,
-        "lon": -84.16458
+        "lat": 34.01882,
+        "lon": -84.15768
       },
       "score": 12.16199,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.02455,
-          "lon": -84.1643
+          "lat": 34.01731,
+          "lon": -84.15553
         },
         "topLeftPoint": {
-          "lat": 34.02491,
-          "lon": -84.16475
+          "lat": 34.02004,
+          "lon": -84.15991
         }
       }
     }
@@ -232,7 +232,7 @@
     "numResults": 5,
     "offset": 0,
     "query": "5950 state bridge rd duluth ga 30097",
-    "queryTime": 317,
+    "queryTime": 384,
     "queryType": "NON_NEAR",
     "totalResults": 128
   }

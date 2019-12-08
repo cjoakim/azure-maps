@@ -20,8 +20,8 @@
     "city": "Austell",
     "city_state_zip": "Austell GA 30106",
     "location": {
-      "lat": 33.85645,
-      "lon": -84.57785
+      "lat": 33.85399,
+      "lon": -84.60835
     },
     "name": "Austell",
     "phone": "(770)438-9678",
@@ -36,8 +36,8 @@
     "city": "Suwanee",
     "city_state_zip": "Suwanee GA 30024",
     "location": {
-      "lat": 34.07478,
-      "lon": -84.16486
+      "lat": 34.07801,
+      "lon": -84.1627
     },
     "name": "Brookwood",
     "phone": "(770)887-1256",

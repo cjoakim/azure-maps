@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/41856371",
+      "id": "US/PAD/p1/4131704",
       "position": {
         "lat": 33.86534,
         "lon": -84.67766
@@ -74,28 +74,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Powder Springs",
-        "extendedPostalCode": "301275217,301275221,301275223,301275224,301275228,301275229,301275230,301275231,301275232",
         "freeformAddress": "Richard D. Sailors Parkway, Powder Springs, GA 30127",
         "municipality": "Powder Springs",
-        "municipalitySubdivision": "Powder Springs",
         "postalCode": "30127",
         "streetName": "Richard D. Sailors Parkway"
       },
-      "id": "US/STR/p0/2609204",
+      "id": "US/STR/p0/881187",
       "position": {
-        "lat": 33.86552,
-        "lon": -84.68366
+        "lat": 33.86685,
+        "lon": -84.68674
       },
       "score": 16.83856,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.8555,
-          "lon": -84.67293
+          "lat": 33.86625,
+          "lon": -84.68552
         },
         "topLeftPoint": {
-          "lat": 33.87349,
-          "lon": -84.69459
+          "lat": 33.86735,
+          "lon": -84.68862
         }
       }
     },
@@ -114,21 +112,21 @@
         "postalCode": "30127",
         "streetName": "Powder Springs Road, For Hillt Road, Forest Hill Road & Richard D. Sailors Parkway"
       },
-      "id": "US/XSTR/p0/629098",
+      "id": "US/XSTR/p0/5521402",
       "position": {
-        "lat": 33.86064,
-        "lon": -84.66679
+        "lat": 33.86074,
+        "lon": -84.66671
       },
       "score": 14.70491,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.85974,
-          "lon": -84.66571
+          "lat": 33.85984,
+          "lon": -84.66563
         },
         "topLeftPoint": {
-          "lat": 33.86154,
-          "lon": -84.66787
+          "lat": 33.86164,
+          "lon": -84.66779
         }
       }
     },
@@ -147,7 +145,7 @@
         "postalCode": "30127",
         "streetName": "Richard D. Sailors Parkway & Silver Springs Boulevard"
       },
-      "id": "US/XSTR/p0/629094",
+      "id": "US/XSTR/p0/5521395",
       "position": {
         "lat": 33.86664,
         "lon": -84.69178
@@ -180,7 +178,7 @@
         "postalCode": "30127",
         "streetName": "Richard D. Sailors Parkway & Villa Springs Circle"
       },
-      "id": "US/XSTR/p0/4057178",
+      "id": "US/XSTR/p1/1717755",
       "position": {
         "lat": 33.86146,
         "lon": -84.67072
@@ -213,7 +211,7 @@
         "postalCode": "30127",
         "streetName": "C. H. James Parkway & Richard D. Sailors Parkway"
       },
-      "id": "US/XSTR/p0/629091",
+      "id": "US/XSTR/p0/5521389",
       "position": {
         "lat": 33.86752,
         "lon": -84.69687
@@ -238,7 +236,7 @@
     "numResults": 6,
     "offset": 0,
     "query": "1062 richard d sailors pkwy powder springs ga 30127",
-    "queryTime": 62,
+    "queryTime": 101,
     "queryType": "NON_NEAR",
     "totalResults": 10
   }

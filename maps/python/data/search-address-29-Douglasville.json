@@ -40,7 +40,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/33759991",
+      "id": "US/PAD/p1/45061368",
       "position": {
         "lat": 33.72341,
         "lon": -84.7664
@@ -66,28 +66,29 @@
         "countrySecondarySubdivision": "Douglas",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "countryTertiarySubdivision": "Bill Arp",
+        "extendedPostalCode": "3013515, 301351500, 301351501, 301351503, 301351504, 301351505, 301351506, 301351507, 301351519, 301351531, 301351532, 301351533, 301351534, 301351535, 301351536, 301351537, 301351540, 301351545, 301351546, 301351547, 301351548, 301351551, 301351552, 301351553, 301351554, 301351557, 301351563, 301351564, 301351575, 301351576, 301351577, 301351580, 301351581, 301351584, 301351585, 301351586, 301351587, 301351588, 301351589, 301351590, 301351591, 301351592, 301351593, 301351594, 301351595, 301351596, 301351597, 301351599, 301351633, 301351634, 301351635, 301351636, 301351640, 301351650, 301351652, 301351660, 301351689, 301351695, 301351861, 301351862, 301351869, 301351874, 301351891, 301351892, 301351942, 301352191, 301352192, 301352196, 301352199, 301352224, 301352228, 301352231, 301352265, 301352266, 301352280, 301352292, 301352301, 301352432, 301352440, 301352441, 301352472, 301352473, 301352489, 301354017, 301357127, 301357128, 301357133, 301357134, 301357155, 301357172, 301357173, 301357175, 301357178, 301357179",
         "freeformAddress": "Douglas Boulevard, Douglasville, GA 30135",
         "municipality": "Douglasville",
         "municipalitySubdivision": "Douglasville",
         "postalCode": "30135",
         "streetName": "Douglas Boulevard"
       },
-      "id": "US/STR/p0/3915613",
+      "id": "US/STR/p0/2023801",
       "position": {
-        "lat": 33.73017,
-        "lon": -84.73724
+        "lat": 33.72599,
+        "lon": -84.75716
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.73017,
-          "lon": -84.73715
+          "lat": 33.71744,
+          "lon": -84.7463
         },
         "topLeftPoint": {
-          "lat": 33.73017,
-          "lon": -84.7373
+          "lat": 33.73542,
+          "lon": -84.76792
         }
       }
     },
@@ -100,61 +101,28 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Bill Arp",
-        "extendedPostalCode": "3013515,301351500,301351501,301351503,301351504,301351505,301351506,301351507,301351519,301351531,301351532,301351533,301351534,301351535,301351536,301351537,301351540,301351545,301351546,301351547,301351548,301351551,301351552,301351553,301351554,301351557,301351563,301351564,301351575,301351576,301351577,301351580,301351581,301351584,301351585,301351586,301351587,301351588,301351589,301351590,301351591,301351592,301351593,301351594,301351595,301351596,301351597,301351599,301351633,301351634,301351635,301351636,301351640,301351650,301351652,301351660,301351689,301351695,301351861,301351862,301351869,301351874,301351891,301351892,301351942,301352191,301352192,301352196,301352199,301352224,301352228,301352231,301352265,301352266,301352280,301352292,301352301,301352432,301352440,301352441,301352472,301352473,301352489,301354017,301357127,301357128,301357133,301357134,301357155,301357172,301357173,301357175,301357178,301357179",
-        "freeformAddress": "Douglas Boulevard, Douglasville, GA 30135",
-        "municipality": "Douglasville",
-        "municipalitySubdivision": "Douglasville",
-        "postalCode": "30135",
-        "streetName": "Douglas Boulevard"
-      },
-      "id": "US/STR/p0/7518457",
-      "position": {
-        "lat": 33.72496,
-        "lon": -84.75874
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.71741,
-          "lon": -84.74821
-        },
-        "topLeftPoint": {
-          "lat": 33.7354,
-          "lon": -84.76984
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Douglas",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Douglasville-Lithia Springs",
+        "extendedPostalCode": "301357116, 301357117",
         "freeformAddress": "Arborplace Boulevard, Douglasville, GA 30135",
         "municipality": "Douglasville",
         "municipalitySubdivision": "Douglasville",
         "postalCode": "30135",
         "streetName": "Arborplace Boulevard"
       },
-      "id": "US/STR/p0/3915618",
+      "id": "US/STR/p0/6924337",
       "position": {
-        "lat": 33.72725,
-        "lon": -84.73674
+        "lat": 33.72719,
+        "lon": -84.73913
       },
       "score": 9.41145,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.72721,
-          "lon": -84.73668
+          "lat": 33.7268,
+          "lon": -84.73678
         },
         "topLeftPoint": {
-          "lat": 33.7273,
-          "lon": -84.73678
+          "lat": 33.72727,
+          "lon": -84.74154
         }
       }
     },
@@ -172,7 +140,7 @@
         "postalCode": "30135",
         "streetName": "Mayeske Boulevard"
       },
-      "id": "US/STR/p0/3916346",
+      "id": "US/STR/p0/11971360",
       "position": {
         "lat": 33.63324,
         "lon": -84.76886
@@ -199,14 +167,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Fairplay",
-        "extendedPostalCode": "301356417,301356420,301356462,301356481,301356483",
+        "extendedPostalCode": "301356417, 301356420, 301356462, 301356481, 301356483",
         "freeformAddress": "Whitestone Boulevard, Douglasville, GA 30135",
         "municipality": "Douglasville",
         "municipalitySubdivision": "Douglasville",
         "postalCode": "30135",
         "streetName": "Whitestone Boulevard"
       },
-      "id": "US/STR/p0/3916621",
+      "id": "US/STR/p0/11971635",
       "position": {
         "lat": 33.60321,
         "lon": -84.84236
@@ -233,14 +201,47 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Bill Arp",
-        "extendedPostalCode": "301351729,301351909,301351912,301351913,301351924,301351927,301351929,301351930,301351931,301351932,301351933,301351934,301351939,301351952,301351964,301351970,301351972,301351977,301351978,301351994,301351995,301351999,301352884",
+        "freeformAddress": "High View Boulevard, Douglasville, GA 30135",
+        "municipality": "Douglasville",
+        "municipalitySubdivision": "Douglasville",
+        "postalCode": "30135",
+        "streetName": "High View Boulevard"
+      },
+      "id": "US/STR/p0/11970936",
+      "position": {
+        "lat": 33.69937,
+        "lon": -84.72303
+      },
+      "score": 9.3913,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.69937,
+          "lon": -84.72303
+        },
+        "topLeftPoint": {
+          "lat": 33.69986,
+          "lon": -84.72353
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Douglas",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Bill Arp",
+        "extendedPostalCode": "301351729, 301351909, 301351912, 301351913, 301351924, 301351927, 301351929, 301351930, 301351931, 301351932, 301351933, 301351934, 301351939, 301351952, 301351964, 301351970, 301351972, 301351977, 301351978, 301351994, 301351995, 301351999, 301352884",
         "freeformAddress": "Golf Ridge Boulevard, Douglasville, GA 30135",
         "municipality": "Douglasville",
         "municipalitySubdivision": "Douglasville",
         "postalCode": "30135",
         "streetName": "Golf Ridge Boulevard"
       },
-      "id": "US/STR/p0/2608526",
+      "id": "US/STR/p0/12807909",
       "position": {
         "lat": 33.71795,
         "lon": -84.72466
@@ -265,8 +266,8 @@
     "numResults": 7,
     "offset": 0,
     "query": "7399 douglas blvd douglasville ga 30135",
-    "queryTime": 75,
+    "queryTime": 186,
     "queryType": "NON_NEAR",
-    "totalResults": 33
+    "totalResults": 32
   }
 }

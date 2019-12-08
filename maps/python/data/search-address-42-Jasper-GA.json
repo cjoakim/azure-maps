@@ -40,7 +40,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/43587015",
+      "id": "US/PAD/p0/29863094",
       "position": {
         "lat": 34.46807,
         "lon": -84.46239
@@ -67,14 +67,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Jasper",
-        "extendedPostalCode": "301436850,301436853,301436855,301436857,301436858,301436859,301436860,301436861,301436862",
+        "extendedPostalCode": "301436850, 301436853, 301436855, 301436857, 301436858, 301436859, 301436860, 301436861, 301436862",
         "freeformAddress": "Bill Wigington Parkway, Jasper, GA 30143",
         "municipality": "Jasper",
         "municipalitySubdivision": "Jasper",
         "postalCode": "30143",
         "streetName": "Bill Wigington Parkway"
       },
-      "id": "US/STR/p0/5050516",
+      "id": "US/STR/p0/5988898",
       "position": {
         "lat": 34.46764,
         "lon": -84.46105
@@ -101,14 +101,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Jasper",
-        "extendedPostalCode": "301434000,301434001,301434002,301434003,301434004,301434009,301434018,301434027,301434803,301434804,301434807,301434808,301434810,301434811,301434812,301434813,301434881,301434903,301434904,301434906,301434907,301434909,301434911,301434912,301434913,301434914,301434915,301434917,301434918,301434919,301434921,301434922,301434924,301434925,301434926,301434927,301434929,301434930,301434931,301434932,301434933,301434935,301437717,301437718,301437719,301438667,301438672,301438673",
+        "extendedPostalCode": "301434000, 301434001, 301434002, 301434003, 301434004, 301434009, 301434018, 301434027, 301434803, 301434804, 301434807, 301434808, 301434810, 301434811, 301434812, 301434813, 301434881, 301434903, 301434904, 301434906, 301434907, 301434909, 301434911, 301434912, 301434913, 301434914, 301434915, 301434917, 301434918, 301434919, 301434921, 301434922, 301434924, 301434925, 301434926, 301434927, 301434929, 301434930, 301434931, 301434932, 301434933, 301434935, 301437717, 301437718, 301437719, 301438667, 301438672, 301438673",
         "freeformAddress": "Camp Road, Jasper, GA 30143",
         "municipality": "Jasper",
         "municipalitySubdivision": "Jasper",
         "postalCode": "30143",
         "streetName": "Camp Road"
       },
-      "id": "US/STR/p0/5960026",
+      "id": "US/STR/p0/6652160",
       "position": {
         "lat": 34.45237,
         "lon": -84.44192
@@ -135,27 +135,27 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Jasper",
-        "freeformAddress": "Bill Wigington Parkway & Highway 515 North, Jasper, GA 30143",
+        "freeformAddress": "Bill Wigington Parkway & Melissa Parkway, Jasper, GA 30143",
         "municipality": "Jasper",
         "municipalitySubdivision": "Jasper",
         "postalCode": "30143",
-        "streetName": "Bill Wigington Parkway, Camp Road Extension & Highway 515 North, Zell Miller Mountain Parkway, Appalachian Highway"
+        "streetName": "Bill Wigington Parkway & Melissa Parkway"
       },
-      "id": "US/XSTR/p0/3291811",
+      "id": "US/XSTR/p0/5770238",
       "position": {
-        "lat": 34.4697,
-        "lon": -84.46093
+        "lat": 34.47025,
+        "lon": -84.45949
       },
       "score": 10.43053,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.4688,
-          "lon": -84.45984
+          "lat": 34.46935,
+          "lon": -84.4584
         },
         "topLeftPoint": {
-          "lat": 34.4706,
-          "lon": -84.46202
+          "lat": 34.47115,
+          "lon": -84.46058
         }
       }
     },
@@ -174,7 +174,7 @@
         "postalCode": "30143",
         "streetName": "Bill Wigington Parkway, Camp Road Extension & Camp Road, Bill Wigington Parkway, Convict Camp Road"
       },
-      "id": "US/XSTR/p1/439760",
+      "id": "US/XSTR/p0/5893924",
       "position": {
         "lat": 34.46524,
         "lon": -84.46148
@@ -191,16 +191,49 @@
           "lon": -84.46257
         }
       }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Pickens",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Jasper",
+        "freeformAddress": "Bill Wigington Parkway & Highway 515 North, Jasper, GA 30143",
+        "municipality": "Jasper",
+        "municipalitySubdivision": "Jasper",
+        "postalCode": "30143",
+        "streetName": "Bill Wigington Parkway, Camp Road Extension & Highway 515 North, Appalachian Highway, Zell Miller Mountain Parkway"
+      },
+      "id": "US/XSTR/p0/5893929",
+      "position": {
+        "lat": 34.4697,
+        "lon": -84.46093
+      },
+      "score": 10.43053,
+      "type": "Cross Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.4688,
+          "lon": -84.45984
+        },
+        "topLeftPoint": {
+          "lat": 34.4706,
+          "lon": -84.46202
+        }
+      }
     }
   ],
   "search_address": "205 Bill Wigington Pkwy Jasper GA 30143",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 5,
+    "numResults": 6,
     "offset": 0,
     "query": "205 bill wigington pkwy jasper ga 30143",
-    "queryTime": 82,
+    "queryTime": 58,
     "queryType": "NON_NEAR",
-    "totalResults": 6
+    "totalResults": 7
   }
 }

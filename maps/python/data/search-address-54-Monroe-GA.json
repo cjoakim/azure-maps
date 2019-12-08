@@ -40,7 +40,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/50217795",
+      "id": "US/PAD/p0/48005898",
       "position": {
         "lat": 33.80056,
         "lon": -83.74568
@@ -67,14 +67,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Monroe",
-        "extendedPostalCode": "3065532,3065539,306551742,306551743,306551744,306551745,306551746,306551747,306551748,306551749,306551750,306551751,306551752,306551753,306551754,306551755,306551756,306551757,306551758,306551759,306551760,306551761,306551762,306551763,306551764,306551765,306551789,306551796,306551900,306551909,306551912,306551913,306551914,306551915,306551916,306551926,306551951,306551952,306551968,306553115,306553154,306553160,306553164,306553180,306553182,306553188,306553189,306553195,306553196,306553197,306553198,306553199,306553202,306553203,306553204,306553205,306553206,306553207,306553208,306553209,306553210,306553211,306553212,306553213,306553214,306553215,306553216,306553900,306553901,306553902,306553903,306553904,306553905,306555682",
+        "extendedPostalCode": "306551742, 306551743, 306551744, 306551745, 306551746, 306551747, 306551748, 306551749, 306551750, 306551751, 306551752, 306551753, 306551754, 306551755, 306551756, 306551757, 306551758, 306551759, 306551760, 306551761, 306551762, 306551763, 306551764, 306551765, 306551789, 306551796, 306551900, 306551909, 306551912, 306551913, 306551914, 306551915, 306551916, 306551926, 306551951, 306551952, 306551968, 306553115, 306553154, 306553160, 306553164, 306553180, 306553182, 306553188, 306553189, 306553195, 306553196, 306553197, 306553198, 306553199, 3065532, 306553202, 306553203, 306553204, 306553205, 306553206, 306553207, 306553208, 306553209, 306553210, 306553211, 306553212, 306553213, 306553214, 306553215, 306553216, 3065539, 306553900, 306553901, 306553902, 306553903, 306553904, 306553905, 306555682",
         "freeformAddress": "West Spring Street, Monroe, GA 30655",
         "municipality": "Monroe",
         "municipalitySubdivision": "Monroe",
         "postalCode": "30655",
         "streetName": "West Spring Street"
       },
-      "id": "US/STR/p0/10940141",
+      "id": "US/STR/p0/2232725",
       "position": {
         "lat": 33.79339,
         "lon": -83.72926
@@ -101,14 +101,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Monroe",
-        "extendedPostalCode": "306552309,306552310,306552321,306552339,306552346,306552347,306552348,306552349,306552350,306552351,306552353,306552357,306552361,306552371,306552372,306552373,306552438,306552439,306552440,306552441,306552442,306552443,306552469,306552470,306552473,306552491,306552494,306552495,306552496",
+        "extendedPostalCode": "306552309, 306552310, 306552321, 306552339, 306552346, 306552347, 306552348, 306552349, 306552350, 306552351, 306552353, 306552357, 306552361, 306552371, 306552372, 306552373, 306552438, 306552439, 306552440, 306552441, 306552442, 306552443, 306552469, 306552470, 306552473, 306552491, 306552494, 306552495, 306552496",
         "freeformAddress": "East Spring Street, Monroe, GA 30655",
         "municipality": "Monroe",
         "municipalitySubdivision": "Monroe",
         "postalCode": "30655",
         "streetName": "East Spring Street"
       },
-      "id": "US/STR/p0/7517125",
+      "id": "US/STR/p0/7397480",
       "position": {
         "lat": 33.798,
         "lon": -83.7053
@@ -135,13 +135,13 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Monroe",
-        "freeformAddress": "Martin Luther King Junior Boulevard & West Spring Street, Monroe, GA 30655",
-        "municipality": "Monroe",
+        "freeformAddress": "Martin Luther King Junior Boulevard & West Spring Street, Between, GA 30655",
+        "municipality": "Between",
         "municipalitySubdivision": "Monroe",
         "postalCode": "30655",
-        "streetName": "Martin Luther King Junior Boulevard, Highway 138 Northwest, Georgia 138, Georgia State Route 138, State Route 138 & West Spring Street, United States Highway 78 Bypass East, State Route 10 Business, Georgia 10 Business, US-78 Bypass East, Georgia State Route 10 Business"
+        "streetName": "Martin Luther King Junior Boulevard, Georgia 138, Georgia State Route 138, Highway 138 Northwest, State Route 138 & West Spring Street, Georgia 10 Business, Georgia State Route 10 Business, State Route 10 Business, US-78 Bypass East, United States Highway 78 Bypass East"
       },
-      "id": "US/XSTR/p1/288776",
+      "id": "US/XSTR/p1/1259660",
       "position": {
         "lat": 33.79505,
         "lon": -83.74265
@@ -169,8 +169,8 @@
         "countrySubdivisionName": "New York",
         "countryTertiarySubdivision": "Yonkers, Staten Island, Queens, North Hempstead, Mount Vernon, Manhattan, Hempstead, Brooklyn, Bronx",
         "freeformAddress": "Yonkers, NY",
-        "municipality": "Yonkers, Woodside, Woodhaven, Whitestone, Valley Stream, Staten Island, Springfield Gardens, South Richmond Hill, Rosedale, Rockaway Park, Ridgewood, Richmond Hill, Rego Park, Queens Village, Pelham, Ozone Park, Oakland Gardens, New Hyde Park, Mount Vernon, Middle Village, Maspeth, Long Island City, Little Neck, Lawrence, Kew Gardens, Howard Beach, Hollis, Great Neck, Glen Oaks, Fresh Meadows, Forest Hills, East Elmhurst, Corona, College Point, Cambria Heights, Brooklyn, Bronx, Breezy Point, Bellerose, Arverne",
-        "municipalitySubdivision": "West Village, West Farms, West Concourse, West Brighton, West Village Houses, West New Brighton, Upper West Side, Park West Village, Spring Creek, Sea Gate, James Monroe Houses, Henry Street Settlement, Yorkville, Yonkers, Wyckoff Gardens, Woodside, Woods of Arden, Woodrow, Woodlawn Cemetery, Woodlawn, Woodhaven, Wingate, Windsor Terrace, Willowbrook, Williamsburg Houses, Williamsburg, Williamsbridge, William Mckinley Houses, Whitestone, Westerleigh, Westchester Square, Weeksville, Wave Crest, Washington Square Village, Washington Heights, Walden Terrace, Wakefield, Vinegar Hill, Van Nest, Van Cortlandt Park, Valley Stream, Utopia, Upper East Side, University Village, University Heights, University Gardens, Unionport, Union Square, Turtle Bay, Tudor City, Tribeca, Travis, Tottenville, Tompkinsville, Tompkins Houses, Times Square, Throgs Neck Houses, Throgs Neck, Terrace Heights, Taino Towers, Sutton Place, Surrey Estates, Sunset Park, Sunnyside Gardens, Sunnyside, Sumner Houses, Sugar Hill, Stuyvesant Town, Steinway, Starrett City, Stapleton, Stanley Isaacs Houses, Spuyten Duyvil, Spencer Estates, South Valley Stream, South Richmond Hill, South Ozone Park, South Jamaica, South Corona, South Brooklyn, South Beach, Soundview-Bruckner, Soundview Park Homes, Soundview, Sound View Houses, Somerville, Soho, Silver Beach, Sheepshead Bay, Sedgwick Houses, Seaside, Schuylerville, San Juan Hill, Saint Mary's Park Houses, Saint George, Sack Wern Houses, Rutland Plaza, Rugby, Roy Reuther Houses, Roxbury, Rossville, Rosedale Houses, Rosedale, Rosebank, Rose Hill, Roosevelt Island, Rochdale, Riverdale, Riverbend Houses, Rikers Island, Richmond Valley, Richmond Terrace Houses, Richmond Hill, Richmond, Remsen Village, Rego Park, Red Hook, Ravenswood Houses, Queensbridge Houses, Queensboro Hill, Queens Village, Prospect Park South, Prospect Lefferts Gardens, Prospect Heights, Princes Bay, Port Richmond, Port Morris, Port Ivory, Pomonok, Polo Grounds Houses, Plum Beach, Pleasant Plains, Phipps Houses, Peter Cooper Village, Penn Station South, Pelham Parkway Houses, Pelham Parkway, Pelham Gardens, Pelham Bay Park, Pelham Bay, Pelham, Patterson Houses, Parsons Beach, Parkville, Parkside Houses, Parkside, Parkchester, Park of Edgewater, Park Slope, Ozone Park, Olinville, Old Town Station, Old Place, Old Germania Heights, Ocean Parkway, Ocean Hill, Oakwood Beach, Oakwood, Oakland Gardens, Norwood, North Riverdale, North Corona, North Beach, Nolita, NoHo, New York, New Utrecht, New Springville, New Lots, New Dorp Beach, New Dorp, New Brighton, Murray Hill, Mount Vernon, Mount Hope, Mount Eden, Mott Haven, Morrisania, Morris Park, Morris Heights, Morningside Heights, Mill Island, Mill Brook Houses, Midwood, Midtown South, Midtown East, Midtown, Midland Beach, Middletown, Middle Village, Melrose Houses, Melrose, Meadowmere Park, Maspeth, Marlboro Houses, Mariners Harbor, Marine Park, Marcy Houses, Marcus Garvey Village, Marble Hill, Manhattanville, Manhattan Valley, Manhattan Terrace, Manhattan Beach, Lower East Side, Longwood, Loisaida, Locust Point, Locust Manor, Little Neck, Little Italy, Lionel Hampton Houses, Lindenwood, Linden-Park, Lincoln Square, Lewis S Davidson Senior Houses, Lenox Hill, Lefrak City, Le Petit Senegal, Lawrence, Lambert Houses, Laguardia Airport, Lafayette Morrison Houses, Lafayette Houses, Knickerbocker Village, Kips Bay, Kingsbridge Heights, Kingsbridge, Kew Gardens Hills, Kew Gardens, Kensington, Jonathan Williams Houses, John F. Kennedy International Airport, John Adams Houses, Jamie Towers, James Weldon Johnson Houses, Jamaica Hill, Jamaica Estates, Jamaica Center, Jacob Riis Park, Jackson Houses, Jackson Heights, Inwood, Hunts Point Market, Hunts Point, Hunters Point, Huguenot, Homecrest, Holliswood, Holland, Hillside, Hillcrest, Highland Park, Highbridge Houses, Highbridge, Hester-Allen Turnkey Housing, Hells Kitchen, Harlem River Houses, Harlem, Harding Park, Harbor View Terrace, Hammels Houses, Hamilton Park, Hamilton Heights, Hamilton Beach, Haberman, Gun Hill Houses, Gulfport, Grymes Hill, Greenwich Village, Greenridge, Greenpoint, Great Kills, Gravesend, Grasmere, Grant City, Graniteville, Gramercy, Gracie Square, Gowanus Houses, Gowanus, Governor Alfred E Smith Houses, Gouverneur Morris Houses, Glendale, Glen Oaks, Gerritsen Beach, Gerritsen, Georgetown, Gashouse District, Garment District, Garden Bay Manor, Fulton Ferry, Fresh Pond Junction, Fresh Kills, Franklin Houses, Fox Hills, Fort Wadsworth, Fort Totten, Fort Tilden, Fort Hamilton, Fort Greene, Fort George, Forest Houses, Forest Hills Gardens, Forest Hills, Fordham-Bedford, Fordham Hill, Fordham, Flatlands, Flatiron District, Flatiron, Flatbush, Financial District, Fieldston, Ferry Point Park, Esplanade Gardens, Emerson Hill, Eltingville, Elmont, Elm Park, Eleanor Roosevelt Houses, Edwin Markham Gardens, Edgewater Park, Edgemere Houses, Edgemere, Edenwald Houses, Edenwald, Ebbets Field Houses, Eastern Parkway, Eastchester Houses, Eastchester Heights, Eastchester Bay, Eastchester, East Village, East Tremont, East River Park, East River Houses, East New York, East Harlem, East Flatbush, East Elmhurst, East Concourse, Dyker Heights, Dyckman Houses, Downtown Flushing, Downtown Brooklyn, Dongan Hills, Dodgewood, Ditmas Park, Delano Village, Daniel Webster Houses, Cypress Hills, Cypress Gardens, Crown Heights, Crotona Park East, Country Club, Coney Island, Concourse Village, Concord, Colonial Park Houses, College Point, Cobble Hill, Co-Op City, Clinton Hill, Clinton, Clifton, Clason Point Gardens Houses, Clason Point, Claremont Village, City Line, City Island, Chinatown, Chelsea, Charlotte Gardens, Charleston, Central Park, Central Harlem, Cedar Manor Houses, Cedar Manor, Castleton Corners, Castle Hill Houses, Castle Hill, Carroll Gardens, Carnegie Hill, Canarsie, Cambria Heights, Bushwick Junction, Bushwick Houses, Bushwick, Bulls Head, Brownsville, Brookville, Brooklyn Navy Yard, Brooklyn Manor, Brooklyn Heights, Bronxdale Houses, Bronxdale, Bronx Zoo, Bronx River Houses, Bronx River, Bronx Park, Broadway Junction, Broad Channel, Brighton Beach, Brevoort Houses, Breukelen Houses, Borough Park, Borgia Butler Houses, Boerum Hill, Bloomfield, Blissville, Bergen Beach, Bensonhurst, Belmont, Bellerose, Bellaire, Bedford Stuyvesant, Bedford Park, Bayswater, Bayside Hills, Baychester, Bay View Houses, Bay Terrace, Bay Ridge, Battery Park City, Bathgate, Bath Beach, Auburndale, Astoria Heights, Arverne, Arrochar, Arlington, Annadale, Amalgamated Dwellings, Adelphi"
+        "municipality": "Yonkers, Woodside, Woodhaven, Whitestone, Staten Island, Springfield Gardens, South Richmond Hill, Rosedale, Rockaway Park, Ridgewood, Richmond Hill, Rego Park, Queens Village, Pelham, Ozone Park, Oakland Gardens, New Hyde Park, Middle Village, Maspeth, Little Neck, Kew Gardens, Howard Beach, Hollis, Great Neck, Glen Oaks, Fresh Meadows, Forest Hills, East Elmhurst, Corona, College Point, Cambria Heights, Brooklyn, Bronx, Breezy Point, Bellerose, Arverne",
+        "municipalitySubdivision": "West Village, West Farms, West Concourse, West Brighton, West Village Houses, West New Brighton, Upper West Side, Park West Village, Spring Creek, Sea Gate, James Monroe Houses, Henry Street Settlement, Yorkville, Yonkers, Wyckoff Gardens, Woodside, Woods of Arden, Woodrow, Woodlawn Cemetery, Woodlawn, Woodhaven, Wingate, Windsor Terrace, Willowbrook, Williamsburg Houses, Williamsburg, Williamsbridge, William Mckinley Houses, Whitestone, Westerleigh, Westchester Square, Weeksville, Wave Crest, Washington Square Village, Washington Heights, Walden Terrace, Wakefield, Vinegar Hill, Van Nest, Van Cortlandt Park, Valley Stream, Utopia, Upper East Side, University Village, University Heights, University Gardens, Unionport, Union Square, Turtle Bay, Tudor City, Tribeca, Travis, Tottenville, Tompkinsville, Tompkins Houses, Times Square, Throgs Neck Houses, Throgs Neck, Terrace Heights, Taino Towers, Sutton Place, Surrey Estates, Sunset Park, Sunnyside Gardens, Sunnyside, Sumner Houses, Sugar Hill, Stuyvesant Town, Steinway, Starrett City, Stapleton, Stanley Isaacs Houses, Spuyten Duyvil, Spencer Estates, South Valley Stream, South Richmond Hill, South Ozone Park, South Jamaica, South Corona, South Brooklyn, South Beach, Soundview-Bruckner, Soundview Park Homes, Soundview, Sound View Houses, Somerville, Soho, Silver Beach, Sheepshead Bay, Sedgwick Houses, Seaside, Schuylerville, San Juan Hill, Saint Mary's Park Houses, Saint George, Sack Wern Houses, Rutland Plaza, Rugby, Roy Reuther Houses, Roxbury, Rossville, Rosedale Houses, Rosedale, Rosebank, Rose Hill, Roosevelt Island, Rochdale, Riverdale, Riverbend Houses, Rikers Island, Richmond Valley, Richmond Terrace Houses, Richmond Hill, Richmond, Remsen Village, Rego Park, Red Hook, Ravenswood Houses, Queensbridge Houses, Queensboro Hill, Queens Village, Prospect Park South, Prospect Lefferts Gardens, Prospect Heights, Princes Bay, Port Richmond, Port Morris, Port Ivory, Pomonok, Polo Grounds Houses, Plum Beach, Pleasant Plains, Phipps Houses, Peter Cooper Village, Penn Station South, Pelham Parkway Houses, Pelham Parkway, Pelham Gardens, Pelham Bay Park, Pelham Bay, Pelham, Patterson Houses, Parsons Beach, Parkville, Parkside Houses, Parkside, Parkchester, Park of Edgewater, Park Slope, Ozone Park, Olinville, Old Town Station, Old Place, Old Germania Heights, Ocean Parkway, Ocean Hill, Oakwood Beach, Oakwood, Oakland Gardens, Norwood, North Riverdale, North Corona, North Beach, Nolita, NoHo, New York, New Utrecht, New Springville, New Lots, New Dorp Beach, New Dorp, New Brighton, Murray Hill, Mount Vernon, Mount Hope, Mount Eden, Mott Haven, Morrisania, Morris Park, Morris Heights, Morningside Heights, Mill Island, Mill Brook Houses, Midwood, Midtown South, Midtown East, Midtown, Midland Beach, Middletown, Middle Village, Melrose Houses, Melrose, Meadowmere Park, Maspeth, Marlboro Houses, Mariners Harbor, Marine Park, Marcy Houses, Marcus Garvey Village, Marble Hill, Manhattanville, Manhattan Valley, Manhattan Terrace, Manhattan Beach, Lower East Side, Longwood, Loisaida, Locust Point, Locust Manor, Little Neck, Little Italy, Lionel Hampton Houses, Lindenwood, Linden-Park, Lincoln Square, Lewis S. Davidson Senior Houses, Lenox Hill, Lefrak City, Le Petit Senegal, Lawrence, Lambert Houses, Laguardia Airport, Lafayette Morrison Houses, Lafayette Houses, Knickerbocker Village, Kips Bay, Kingsbridge Heights, Kingsbridge, Kew Gardens Hills, Kew Gardens, Kensington, Jonathan Williams Houses, John F. Kennedy International Airport, John Adams Houses, Jamie Towers, James Weldon Johnson Houses, Jamaica Hill, Jamaica Estates, Jamaica Center, Jacob Riis Park, Jackson Houses, Jackson Heights, Inwood, Hunts Point Market, Hunts Point, Hunters Point, Huguenot, Homecrest, Holliswood, Holland, Hillside, Hillcrest, Highland Park, Highbridge Houses, Highbridge, Hester-Allen Turnkey Housing, Hells Kitchen, Harlem River Houses, Harlem, Harding Park, Harbor View Terrace, Hammels Houses, Hamilton Park, Hamilton Heights, Hamilton Beach, Haberman, Gun Hill Houses, Gulfport, Grymes Hill, Greenwich Village, Greenridge, Greenpoint, Great Kills, Gravesend, Grasmere, Grant City, Graniteville, Gramercy, Gracie Square, Gowanus Houses, Gowanus, Governor Alfred E. Smith Houses, Gouverneur Morris Houses, Glendale, Glen Oaks, Gerritsen Beach, Gerritsen, Georgetown, Gashouse District, Garment District, Garden Bay Manor, Fulton Ferry, Fresh Pond Junction, Fresh Kills, Franklin Houses, Fox Hills, Fort Wadsworth, Fort Totten, Fort Tilden, Fort Hamilton, Fort Greene, Fort George, Forest Houses, Forest Hills Gardens, Forest Hills, Fordham-Bedford, Fordham Hill, Fordham, Flatlands, Flatiron District, Flatiron, Flatbush, Financial District, Fieldston, Ferry Point Park, Esplanade Gardens, Emerson Hill, Eltingville, Elmont, Elm Park, Eleanor Roosevelt Houses, Edwin Markham Gardens, Edgewater Park, Edgemere Houses, Edgemere, Edenwald Houses, Edenwald, Ebbets Field Houses, Eastern Parkway, Eastchester Houses, Eastchester Heights, Eastchester Bay, Eastchester, East Village, East Tremont, East River Park, East River Houses, East New York, East Harlem, East Flatbush, East Elmhurst, East Concourse, Dyker Heights, Dyckman Houses, Downtown Flushing, Downtown Brooklyn, Dongan Hills, Dodgewood, Ditmas Park, Delano Village, Daniel Webster Houses, Cypress Hills, Cypress Gardens, Crown Heights, Crotona Park East, Country Club, Coney Island, Concourse Village, Concord, Colonial Park Houses, College Point, Cobble Hill, Co-Op City, Clinton Hill, Clinton, Clifton, Clason Point Gardens Houses, Clason Point, Claremont Village, City Line, City Island, Chinatown, Chelsea, Charlotte Gardens, Charleston, Central Park, Central Harlem, Cedar Manor Houses, Cedar Manor, Castleton Corners, Castle Hill Houses, Castle Hill, Carroll Gardens, Carnegie Hill, Canarsie, Cambria Heights, Bushwick Junction, Bushwick Houses, Bushwick, Bulls Head, Brownsville, Brookville, Brooklyn Navy Yard, Brooklyn Manor, Brooklyn Heights, Bronxdale Houses, Bronxdale, Bronx Zoo, Bronx River Houses, Bronx River, Bronx Park, Broadway Junction, Broad Channel, Brighton Beach, Brevoort Houses, Breukelen Houses, Borough Park, Borgia Butler Houses, Boerum Hill, Bloomfield, Blissville, Bergen Beach, Bensonhurst, Belmont, Bellerose, Bellaire, Bedford Stuyvesant, Bedford Park, Bayswater, Bayside Hills, Baychester, Bay View Houses, Bay Terrace, Bay Ridge, Battery Park City, Bathgate, Bath Beach, Auburndale, Astoria Heights, Arverne, Arrochar, Arlington, Annadale, Amalgamated Dwellings, Adelphi"
       },
       "boundingBox": {
         "btmRightPoint": {
@@ -188,7 +188,7 @@
         }
       },
       "entityType": "MunicipalitySubdivision",
-      "id": "US/GEO/p0/372751",
+      "id": "US/GEO/p0/428696",
       "position": {
         "lat": 40.69744,
         "lon": -73.97944
@@ -219,9 +219,9 @@
         "municipality": "Monroe",
         "municipalitySubdivision": "Monroe",
         "postalCode": "30655",
-        "streetName": "Highway 138 Northwest, Georgia 138, Georgia State Route 138, Martin Luther King Junior Boulevard, State Route 138 & West Spring Street, United States Highway 78 Bypass East, State Route 10 Business, Georgia 10 Business, US-78 Bypass East, Georgia State Route 10 Business"
+        "streetName": "Highway 138 Northwest, Georgia 138, Georgia State Route 138, Martin Luther King Junior Boulevard, State Route 138 & West Spring Street, Georgia 10 Business, Georgia State Route 10 Business, State Route 10 Business, US-78 Bypass East, United States Highway 78 Bypass East"
       },
-      "id": "US/XSTR/p0/3497763",
+      "id": "US/XSTR/p1/1259659",
       "position": {
         "lat": 33.79505,
         "lon": -83.74265
@@ -252,9 +252,9 @@
         "municipality": "Monroe",
         "municipalitySubdivision": "Monroe",
         "postalCode": "30655",
-        "streetName": "South Jackson Street & West Spring Street, United States Highway 78 Bypass West, US-78 Bypass West, United States Highway 78 Bypass East, State Route 10 Business, Georgia 10 Business, US-78 Bypass East, Georgia State Route 10 Business"
+        "streetName": "South Jackson Street & West Spring Street, Georgia 10 Business, Georgia State Route 10 Business, State Route 10 Business, US-78 Bypass East, US-78 Bypass West, United States Highway 78 Bypass East, United States Highway 78 Bypass West"
       },
-      "id": "US/XSTR/p0/3497946",
+      "id": "US/XSTR/p1/1260025",
       "position": {
         "lat": 33.79454,
         "lon": -83.7149
@@ -281,60 +281,27 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Monroe",
-        "freeformAddress": "South Wayne Street & West Spring Street, Monroe, GA 30655",
+        "freeformAddress": "West Highland Avenue & West Spring Street, Monroe, GA 30655",
         "municipality": "Monroe",
         "municipalitySubdivision": "Monroe",
         "postalCode": "30655",
-        "streetName": "South Wayne Street & West Spring Street, United States Highway 78 Bypass West, US-78 Bypass West, United States Highway 78 Bypass East, State Route 10 Business, Georgia 10 Business, US-78 Bypass East, Georgia State Route 10 Business"
+        "streetName": "West Highland Avenue & West Spring Street, Georgia 10 Business, Georgia State Route 10 Business, State Route 10 Business, US-78 Bypass East, US-78 Bypass West, United States Highway 78 Bypass East, United States Highway 78 Bypass West"
       },
-      "id": "US/XSTR/p0/3497949",
+      "id": "US/XSTR/p1/1260026",
       "position": {
-        "lat": 33.79466,
-        "lon": -83.71405
+        "lat": 33.79455,
+        "lon": -83.72403
       },
       "score": 10.44471,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.79376,
-          "lon": -83.71297
+          "lat": 33.79365,
+          "lon": -83.72295
         },
         "topLeftPoint": {
-          "lat": 33.79556,
-          "lon": -83.71513
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Walton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Monroe",
-        "freeformAddress": "South Broad Street & West Spring Street, Monroe, GA 30655",
-        "municipality": "Monroe",
-        "municipalitySubdivision": "Monroe",
-        "postalCode": "30655",
-        "streetName": "South Broad Street, State Route 11, Georgia State Route 11, Georgia 11 & West Spring Street, United States Highway 78 Bypass West, US-78 Bypass West, United States Highway 78 Bypass East, State Route 10 Business, Georgia 10 Business, US-78 Bypass East, Georgia State Route 10 Business"
-      },
-      "id": "US/XSTR/p0/3497952",
-      "position": {
-        "lat": 33.79476,
-        "lon": -83.71321
-      },
-      "score": 10.44471,
-      "type": "Cross Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.79386,
-          "lon": -83.71213
-        },
-        "topLeftPoint": {
-          "lat": 33.79566,
-          "lon": -83.71429
+          "lat": 33.79545,
+          "lon": -83.72511
         }
       }
     }
@@ -342,11 +309,11 @@
   "search_address": "2150 West Spring Street Monroe GA 30655",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 9,
+    "numResults": 8,
     "offset": 0,
     "query": "2150 west spring street monroe ga 30655",
-    "queryTime": 345,
+    "queryTime": 283,
     "queryType": "NON_NEAR",
-    "totalResults": 25
+    "totalResults": 24
   }
 }

@@ -26,7 +26,7 @@
           "type": "main"
         }
       ],
-      "id": "US/PAD/p1/33582794",
+      "id": "US/PAD/p0/46666825",
       "position": {
         "lat": 33.98153,
         "lon": -84.43288
@@ -52,29 +52,59 @@
         "countrySecondarySubdivision": "Cobb",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Northeast Cobb",
-        "extendedPostalCode": "300624900,300624970,300624994,300625500,300625523,300625524,300625557,300625558,300625594,300625599,300627605,300627611,300627617,300627618,300627620,300627621",
-        "freeformAddress": "Roswell Road, Marietta, GA 30062",
+        "countryTertiarySubdivision": "Marietta",
+        "freeformAddress": "Roswell Road, Marietta, GA",
         "municipality": "Marietta",
-        "municipalitySubdivision": "Marietta",
-        "postalCode": "30062",
+        "postalCode": "30062, 30068",
         "streetName": "Roswell Road"
       },
-      "id": "US/STR/p0/5894498",
+      "id": "US/STR/p0/2182768",
       "position": {
-        "lat": 33.9793,
-        "lon": -84.46036
+        "lat": 33.96556,
+        "lon": -84.49188
       },
       "score": 10.27255,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.97874,
-          "lon": -84.45621
+          "lat": 33.9651,
+          "lon": -84.49143
         },
         "topLeftPoint": {
-          "lat": 33.97944,
-          "lon": -84.46421
+          "lat": 33.96616,
+          "lon": -84.49222
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Marietta",
+        "freeformAddress": "Roswell Road, Marietta, GA 30062",
+        "municipality": "Marietta",
+        "postalCode": "30062",
+        "streetName": "Roswell Road"
+      },
+      "id": "US/STR/p0/2182769",
+      "position": {
+        "lat": 33.9734,
+        "lon": -84.48549
+      },
+      "score": 10.27255,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.97325,
+          "lon": -84.48508
+        },
+        "topLeftPoint": {
+          "lat": 33.97364,
+          "lon": -84.48577
         }
       }
     },
@@ -87,48 +117,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Northeast Cobb",
-        "extendedPostalCode": "300626521,300626523,300626524",
+        "extendedPostalCode": "300626200, 300626202, 300626211, 300626215, 300626225, 300626226, 300626227, 300626228, 300626233, 300626234, 300626235, 300626236, 300626238, 300626239, 300626242, 300626250, 300626251, 300626262, 300626263, 300626273, 300626277, 300626278, 300626279, 300626281, 300626282, 300626283, 300626284, 300626285, 300626287, 300626288, 300626289, 300626290, 300626291, 300626292, 300626293, 300626294, 300626295, 300626297, 300626298, 300626406, 300626427, 300626428, 300626447, 300626448, 300626449, 300626450, 300626451, 300626452, 300626453, 300626455, 300626457, 300626483, 300626488, 300626491, 300626498, 300626500, 300626518, 300627100, 300627801, 300628103, 300628104, 300628110, 300628112, 300628114, 300628133, 300628143, 300628146, 300628151, 300628154, 300628167, 300628176, 300628191, 300628192, 300628193, 300628194, 300628195, 300628196, 300628197, 300628198, 300628199, 3006282, 300628203, 3006288, 300628809, 300628810, 300628811, 300628812, 300628813, 300628814, 300628815, 300628816, 300628817, 300628818, 300628819, 300628820, 300628821, 300628822, 300628831, 300628832, 300628833, 300628834, 300628835, 300628836, 300629104, 300629106, 300629107",
         "freeformAddress": "Roswell Road, Marietta, GA 30062",
         "municipality": "Marietta",
         "municipalitySubdivision": "Marietta",
         "postalCode": "30062",
         "streetName": "Roswell Road"
       },
-      "id": "US/STR/p0/5894500",
-      "position": {
-        "lat": 34.00164,
-        "lon": -84.39908
-      },
-      "score": 10.27255,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.0012,
-          "lon": -84.39604
-        },
-        "topLeftPoint": {
-          "lat": 34.00227,
-          "lon": -84.4021
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cobb",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Northeast Cobb",
-        "extendedPostalCode": "3006282,3006288,300626200,300626202,300626211,300626215,300626225,300626226,300626227,300626228,300626233,300626234,300626235,300626236,300626238,300626239,300626242,300626250,300626251,300626262,300626263,300626273,300626277,300626278,300626279,300626281,300626282,300626283,300626284,300626285,300626287,300626288,300626289,300626290,300626291,300626292,300626293,300626294,300626295,300626297,300626298,300626406,300626427,300626428,300626447,300626448,300626449,300626450,300626451,300626452,300626453,300626455,300626457,300626483,300626488,300626491,300626498,300626500,300626518,300627100,300627801,300628103,300628104,300628110,300628112,300628114,300628133,300628143,300628146,300628151,300628154,300628167,300628176,300628191,300628192,300628193,300628194,300628195,300628196,300628197,300628198,300628199,300628203,300628809,300628810,300628811,300628812,300628813,300628814,300628815,300628816,300628817,300628818,300628819,300628820,300628821,300628822,300628831,300628832,300628833,300628834,300628835,300628836,300629104,300629106,300629107",
-        "freeformAddress": "Roswell Road, Marietta, GA 30062",
-        "municipality": "Marietta",
-        "municipalitySubdivision": "Marietta",
-        "postalCode": "30062",
-        "streetName": "Roswell Road"
-      },
-      "id": "US/STR/p0/5894501",
+      "id": "US/STR/p0/2184379",
       "position": {
         "lat": 33.98506,
         "lon": -84.42511
@@ -155,26 +151,62 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Northeast Cobb",
-        "freeformAddress": "Roswell Road, Marietta, GA",
+        "extendedPostalCode": "300626521, 300626523, 300626524",
+        "freeformAddress": "Roswell Road, Marietta, GA 30062",
         "municipality": "Marietta",
-        "postalCode": "30062,30068",
+        "municipalitySubdivision": "Marietta",
+        "postalCode": "30062",
         "streetName": "Roswell Road"
       },
-      "id": "US/STR/p0/7721742",
+      "id": "US/STR/p0/2184380",
       "position": {
-        "lat": 33.99495,
-        "lon": -84.40995
+        "lat": 34.00164,
+        "lon": -84.39908
       },
       "score": 10.27255,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.98533,
-          "lon": -84.39871
+          "lat": 34.0012,
+          "lon": -84.39604
         },
         "topLeftPoint": {
-          "lat": 34.00332,
-          "lon": -84.42041
+          "lat": 34.00227,
+          "lon": -84.4021
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Northeast Cobb",
+        "extendedPostalCode": "300624900, 300624970, 300624994, 300625500, 300625523, 300625524, 300625557, 300625558, 300625594, 300625599, 300627605, 300627611, 300627617, 300627618, 300627620, 300627621",
+        "freeformAddress": "Roswell Road, Marietta, GA 30062",
+        "municipality": "Marietta",
+        "municipalitySubdivision": "Marietta",
+        "postalCode": "30062",
+        "streetName": "Roswell Road"
+      },
+      "id": "US/STR/p0/2184381",
+      "position": {
+        "lat": 33.9793,
+        "lon": -84.46036
+      },
+      "score": 10.27255,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.97874,
+          "lon": -84.45621
+        },
+        "topLeftPoint": {
+          "lat": 33.97944,
+          "lon": -84.46421
         }
       }
     }
@@ -182,11 +214,11 @@
   "search_address": "4101 Roswell Rd Marietta GA 30062",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 5,
+    "numResults": 6,
     "offset": 0,
     "query": "4101 roswell rd marietta ga 30062",
-    "queryTime": 293,
+    "queryTime": 306,
     "queryType": "NON_NEAR",
-    "totalResults": 142
+    "totalResults": 145
   }
 }

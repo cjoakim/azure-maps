@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/39066738",
+      "id": "US/PAD/p0/4912526",
       "position": {
         "lat": 33.88761,
         "lon": -84.75128
@@ -74,14 +74,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Hiram",
-        "extendedPostalCode": "301412731,301412732,301412765",
+        "extendedPostalCode": "301412731, 301412732, 301412765",
         "freeformAddress": "Depot Drive, Hiram, GA 30141",
         "municipality": "Hiram",
         "municipalitySubdivision": "Hiram",
         "postalCode": "30141",
         "streetName": "Depot Drive"
       },
-      "id": "US/STR/p0/5746430",
+      "id": "US/STR/p0/6141935",
       "position": {
         "lat": 33.88857,
         "lon": -84.75238
@@ -114,7 +114,7 @@
         "postalCode": "30141",
         "streetName": "Lake Road"
       },
-      "id": "US/STR/p0/5047961",
+      "id": "US/STR/p0/5986343",
       "position": {
         "lat": 33.89034,
         "lon": -84.75128
@@ -147,7 +147,7 @@
         "postalCode": "30141",
         "streetName": "Depot Drive & Lake Road, Depot Drive"
       },
-      "id": "US/XSTR/p0/4057897",
+      "id": "US/XSTR/p1/1719226",
       "position": {
         "lat": 33.89023,
         "lon": -84.75133
@@ -180,12 +180,12 @@
         "postalCode": "30141",
         "streetName": "Depot Drive & Rosedale Drive"
       },
-      "id": "US/XSTR/p1/2967286",
+      "id": "US/XSTR/p1/3838491",
       "position": {
         "lat": 33.88721,
         "lon": -84.75291
       },
-      "score": 8.55533,
+      "score": 8.53746,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
@@ -205,7 +205,7 @@
     "numResults": 5,
     "offset": 0,
     "query": "145 depot drive hiram ga 30141",
-    "queryTime": 125,
+    "queryTime": 109,
     "queryType": "NON_NEAR",
     "totalResults": 5
   }

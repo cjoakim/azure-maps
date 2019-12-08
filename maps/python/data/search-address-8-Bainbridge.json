@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/35504884",
+      "id": "US/PAD/p1/42550595",
       "position": {
         "lat": 30.88512,
         "lon": -84.56756
@@ -73,29 +73,29 @@
         "countrySecondarySubdivision": "Decatur",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Climax",
-        "extendedPostalCode": "398197715,398197787",
-        "freeformAddress": "Tallahassee Highway, Bainbridge, GA",
-        "municipality": "Bainbridge, Attapulgus",
+        "countryTertiarySubdivision": "Bainbridge, Climax",
+        "extendedPostalCode": "3981977, 398197706, 398197714, 398197717, 398197780",
+        "freeformAddress": "Tallahassee Highway, Bainbridge, GA 39819",
+        "municipality": "Bainbridge",
         "municipalitySubdivision": "Bainbridge",
-        "postalCode": "39815,39819",
+        "postalCode": "39819",
         "streetName": "Tallahassee Highway"
       },
-      "id": "US/STR/p0/2609815",
+      "id": "US/STR/p0/2070324",
       "position": {
-        "lat": 30.81103,
-        "lon": -84.51482
+        "lat": 30.83576,
+        "lon": -84.5307
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 30.80222,
-          "lon": -84.50384
+          "lat": 30.82593,
+          "lon": -84.52224
         },
         "topLeftPoint": {
-          "lat": 30.82021,
-          "lon": -84.52479
+          "lat": 30.84392,
+          "lon": -84.54318
         }
       }
     },
@@ -108,14 +108,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Bainbridge",
-        "extendedPostalCode": "398197701,398197702,398197703,398197704,398197705,398197709,398197712,398197713,398197752,398197753,398197754,398197760,398197761,398197762,398197763,398197764,398197768,398197784,398197791,398197792,398197793,398197795,398197900,398197915,398197916,398197936",
+        "extendedPostalCode": "398197701, 398197702, 398197703, 398197704, 398197705, 398197709, 398197712, 398197713, 398197752, 398197753, 398197754, 398197760, 398197761, 398197762, 398197763, 398197764, 398197768, 398197784, 398197791, 398197792, 398197793, 398197795, 398197900, 398197915, 398197916, 398197936",
         "freeformAddress": "Tallahassee Highway, Bainbridge, GA 39819",
         "municipality": "Bainbridge",
         "municipalitySubdivision": "Bainbridge",
         "postalCode": "39819",
         "streetName": "Tallahassee Highway"
       },
-      "id": "US/STR/p0/2664508",
+      "id": "US/STR/p0/7397345",
       "position": {
         "lat": 30.85568,
         "lon": -84.54862
@@ -142,46 +142,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Climax",
-        "freeformAddress": "Tallahassee Highway, Bainbridge, GA 39819",
-        "municipality": "Bainbridge",
-        "postalCode": "39819",
-        "streetName": "Tallahassee Highway"
-      },
-      "id": "US/STR/p0/2665347",
-      "position": {
-        "lat": 30.81945,
-        "lon": -84.52327
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 30.81037,
-          "lon": -84.51256
-        },
-        "topLeftPoint": {
-          "lat": 30.82835,
-          "lon": -84.5335
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Decatur",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Climax",
         "extendedPostalCode": "398197788",
         "freeformAddress": "Tallahassee Highway, Attapulgus, GA",
         "municipality": "Attapulgus",
         "municipalitySubdivision": "Bainbridge",
-        "postalCode": "39815,39819",
+        "postalCode": "39815, 39819",
         "streetName": "Tallahassee Highway"
       },
-      "id": "US/STR/p0/5901059",
+      "id": "US/STR/p0/9691657",
       "position": {
         "lat": 30.80872,
         "lon": -84.51165
@@ -203,11 +171,11 @@
   "search_address": "1414 Tallahassee Hwy Bainbridge GA 39819",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 5,
+    "numResults": 4,
     "offset": 0,
     "query": "1414 tallahassee hwy bainbridge ga 39819",
-    "queryTime": 191,
+    "queryTime": 79,
     "queryType": "NON_NEAR",
-    "totalResults": 15
+    "totalResults": 16
   }
 }

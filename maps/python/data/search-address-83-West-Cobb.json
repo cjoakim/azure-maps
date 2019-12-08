@@ -34,7 +34,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/32967740",
+      "id": "US/PAD/p0/2492262",
       "position": {
         "lat": 33.94866,
         "lon": -84.61958
@@ -63,10 +63,10 @@
         "countryTertiarySubdivision": "Acworth-Kennesaw",
         "freeformAddress": "Dallas Highway, Marietta, GA",
         "municipality": "Marietta, Powder Springs",
-        "postalCode": "30064,30127",
+        "postalCode": "30064, 30127",
         "streetName": "Dallas Highway"
       },
-      "id": "US/STR/p0/60795",
+      "id": "US/STR/p0/1362277",
       "position": {
         "lat": 33.94492,
         "lon": -84.68683
@@ -98,21 +98,21 @@
         "postalCode": "30064",
         "streetName": "Dallas Highway Southwest"
       },
-      "id": "US/STR/p0/60948",
+      "id": "US/STR/p0/1362430",
       "position": {
-        "lat": 33.94546,
-        "lon": -84.60881
+        "lat": 33.94527,
+        "lon": -84.60551
       },
       "score": 10.22822,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.94546,
-          "lon": -84.60881
+          "lat": 33.94527,
+          "lon": -84.60534
         },
         "topLeftPoint": {
-          "lat": 33.94547,
-          "lon": -84.60891
+          "lat": 33.94529,
+          "lon": -84.60576
         }
       }
     },
@@ -130,21 +130,21 @@
         "postalCode": "30064",
         "streetName": "Dallas Highway Southwest"
       },
-      "id": "US/STR/p0/4887758",
+      "id": "US/STR/p0/4987579",
       "position": {
-        "lat": 33.94496,
-        "lon": -84.68654
+        "lat": 33.94616,
+        "lon": -84.67691
       },
       "score": 10.22822,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.94493,
-          "lon": -84.68639
+          "lat": 33.94608,
+          "lon": -84.67666
         },
         "topLeftPoint": {
-          "lat": 33.94497,
-          "lon": -84.68675
+          "lat": 33.94624,
+          "lon": -84.67719
         }
       }
     }
@@ -155,7 +155,7 @@
     "numResults": 4,
     "offset": 0,
     "query": "2350 dallas hwy marietta ga 30064",
-    "queryTime": 117,
+    "queryTime": 112,
     "queryType": "NON_NEAR",
     "totalResults": 79
   }

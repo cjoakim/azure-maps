@@ -32,7 +32,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/28184990",
+      "id": "US/PAD/p1/54888126",
       "position": {
         "lat": 34.0075,
         "lon": -84.5637
@@ -64,21 +64,21 @@
         "postalCode": "30144",
         "streetName": "Roberts Court Northwest"
       },
-      "id": "US/STR/p0/64545",
+      "id": "US/STR/p0/5262108",
       "position": {
-        "lat": 34.01143,
-        "lon": -84.56426
+        "lat": 34.00781,
+        "lon": -84.56511
       },
       "score": 12.44169,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.01109,
-          "lon": -84.56414
+          "lat": 34.00653,
+          "lon": -84.56468
         },
         "topLeftPoint": {
-          "lat": 34.01176,
-          "lon": -84.56439
+          "lat": 34.00887,
+          "lon": -84.56514
         }
       }
     },
@@ -96,7 +96,7 @@
         "postalCode": "30144",
         "streetName": "George Busbee Parkway Northwest"
       },
-      "id": "US/STR/p0/64553",
+      "id": "US/STR/p0/5262116",
       "position": {
         "lat": 34.01185,
         "lon": -84.56436
@@ -123,17 +123,17 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Marietta",
-        "freeformAddress": "Ernest W. Barrett Parkway Northwest & Roberts Court Northwest, Kennesaw, GA 30144",
+        "freeformAddress": "Ernest W. Barrett Parkway Northwest & George Busbee Parkway Northwest, Kennesaw, GA 30144",
         "municipality": "Kennesaw",
         "postalCode": "30144",
-        "streetName": "Ernest W. Barrett Parkway Northwest, Ernest W. Barrett Parkway, Barrett Parkway & Roberts Court Northwest"
+        "streetName": "Ernest W. Barrett Parkway Northwest, Barrett Parkway, Ernest W. Barrett Parkway & George Busbee Parkway Northwest, Roberts Court Northwest"
       },
-      "id": "US/XSTR/p0/4058012",
+      "id": "US/XSTR/p1/1719452",
       "position": {
         "lat": 34.01176,
         "lon": -84.56427
       },
-      "score": 10.44471,
+      "score": 10.42685,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
@@ -155,26 +155,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Marietta",
-        "freeformAddress": "Ernest W. Barrett Parkway Northwest & George Busbee Parkway Northwest, Kennesaw, GA 30144",
+        "freeformAddress": "Ernest W. Barrett Parkway Northwest & Roberts Court Northwest, Kennesaw, GA 30144",
         "municipality": "Kennesaw",
         "postalCode": "30144",
-        "streetName": "Ernest W. Barrett Parkway Northwest, Ernest W. Barrett Parkway, Barrett Parkway & George Busbee Parkway Northwest, Roberts Court Northwest"
+        "streetName": "Ernest W. Barrett Parkway Northwest, Barrett Parkway, Ernest W. Barrett Parkway & Roberts Court Northwest"
       },
-      "id": "US/XSTR/p0/4058013",
+      "id": "US/XSTR/p1/1719453",
       "position": {
-        "lat": 34.01166,
-        "lon": -84.56439
+        "lat": 34.01176,
+        "lon": -84.56427
       },
-      "score": 10.44471,
+      "score": 10.42685,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.01076,
-          "lon": -84.56331
+          "lat": 34.01086,
+          "lon": -84.56319
         },
         "topLeftPoint": {
-          "lat": 34.01256,
-          "lon": -84.56547
+          "lat": 34.01266,
+          "lon": -84.56535
         }
       }
     },
@@ -192,21 +192,21 @@
         "postalCode": "30144",
         "streetName": "George Busbee Parkway Northwest, Roberts Court Northwest & Roberts Court Northwest"
       },
-      "id": "US/XSTR/p0/4058014",
+      "id": "US/XSTR/p1/1719454",
       "position": {
-        "lat": 34.01166,
-        "lon": -84.56439
+        "lat": 34.01176,
+        "lon": -84.56427
       },
-      "score": 10.44471,
+      "score": 10.42685,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.01076,
-          "lon": -84.56331
+          "lat": 34.01086,
+          "lon": -84.56319
         },
         "topLeftPoint": {
-          "lat": 34.01256,
-          "lon": -84.56547
+          "lat": 34.01266,
+          "lon": -84.56535
         }
       }
     }
@@ -217,7 +217,7 @@
     "numResults": 6,
     "offset": 0,
     "query": "449 roberts ct nw kennesaw ga 30144",
-    "queryTime": 76,
+    "queryTime": 65,
     "queryType": "NON_NEAR",
     "totalResults": 13
   }

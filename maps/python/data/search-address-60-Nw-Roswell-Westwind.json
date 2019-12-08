@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/13931935",
+      "id": "US/PAD/p1/4933621",
       "position": {
         "lat": 34.05938,
         "lon": -84.3867
@@ -70,72 +70,6 @@
         "country": "United States",
         "countryCode": "US",
         "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cobb",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Northeast Cobb",
-        "freeformAddress": "Woodstock Road, Roswell, GA 30075",
-        "municipality": "Roswell",
-        "postalCode": "30075",
-        "streetName": "Woodstock Road"
-      },
-      "id": "US/STR/p0/64842",
-      "position": {
-        "lat": 34.06392,
-        "lon": -84.42338
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.06384,
-          "lon": -84.42329
-        },
-        "topLeftPoint": {
-          "lat": 34.06401,
-          "lon": -84.42348
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Fulton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Roswell-Alpharetta",
-        "extendedPostalCode": "3007556,300752120,300752127,300752128,300752130,300752132,300752133,300752134,300752135,300752136,300752138,300752139,300752140,300752141,300752170,300752171,300752196,300752199,300752201,300752205,300752206,300752208,300752209,300752211,300752220,300752227,300752228,300752230,300752231,300752232,300752247,300752248,300752274,300752275,300752276,300752277,300752282,300752283,300752286,300752287,300752288,300752289,300752290,300752291,300752292,300752293,300752294,300752295,300752296,300752297,300752298,300752299,300752362,300752364,300752365,300752366,300752367,300752368,300752369,300752370,300752544,300752548,300752549,300752551,300752851,300752933,300752934,300752935,300752937,300752938,300752939,300752940,300752941,300752971,300752972,300752997,300753548,300753556,300753558,300753559,300753560,300753566,300753593,300753594,300753596,300753597,300755603,300755604,300755605,300755606,300755607,300755608,300755610,300755615,300755616,300755617,300755618,300755619,300755620,300755621,300755622,300755623,300755624,300755625,300755626,300755627,300755628,300755629,300755630,300755631,300755632,300755633,300755634,300755635,300755636,300755637,300755638,300755639,300755640,300757508,300757526,300757527,300757528,300757529,300757530,300757531,300757532,300757533,300757534,300757535,300757536,300757537,300757538,300757539,300757540,300757541,300758217,300758218,300758219,300758220,300758221,300758222,300758223,300758224,300758236,300758269,300758270,300758271,300758272,300758273,300758274,300758289",
-        "freeformAddress": "Woodstock Road, Roswell, GA 30075",
-        "municipality": "Roswell",
-        "municipalitySubdivision": "Roswell",
-        "postalCode": "30075",
-        "streetName": "Woodstock Road"
-      },
-      "id": "US/STR/p0/449352",
-      "position": {
-        "lat": 34.05128,
-        "lon": -84.38156
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.037,
-          "lon": -84.37689
-        },
-        "topLeftPoint": {
-          "lat": 34.05498,
-          "lon": -84.3986
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
         "countrySecondarySubdivision": "Fulton",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
@@ -146,7 +80,7 @@
         "postalCode": "30075",
         "streetName": "Woodstock Road"
       },
-      "id": "US/STR/p0/449353",
+      "id": "US/STR/p0/741305",
       "position": {
         "lat": 34.03824,
         "lon": -84.36466
@@ -173,13 +107,81 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Roswell-Alpharetta",
+        "extendedPostalCode": "300752120, 300752127, 300752128, 300752130, 300752132, 300752133, 300752134, 300752135, 300752136, 300752138, 300752139, 300752140, 300752141, 300752170, 300752171, 300752196, 300752199, 300752201, 300752205, 300752206, 300752208, 300752209, 300752211, 300752220, 300752227, 300752228, 300752230, 300752231, 300752232, 300752247, 300752248, 300752274, 300752275, 300752276, 300752277, 300752282, 300752283, 300752286, 300752287, 300752288, 300752289, 300752290, 300752291, 300752292, 300752293, 300752294, 300752295, 300752296, 300752297, 300752298, 300752299, 300752362, 300752364, 300752365, 300752366, 300752367, 300752368, 300752369, 300752370, 300752544, 300752548, 300752549, 300752551, 300752851, 300752933, 300752934, 300752935, 300752937, 300752938, 300752939, 300752940, 300752941, 300752971, 300752972, 300752997, 300753548, 300753556, 300753558, 300753559, 300753560, 300753566, 300753593, 300753594, 300753596, 300753597, 3007556, 300755603, 300755604, 300755605, 300755606, 300755607, 300755608, 300755610, 300755615, 300755616, 300755617, 300755618, 300755619, 300755620, 300755621, 300755622, 300755623, 300755624, 300755625, 300755626, 300755627, 300755628, 300755629, 300755630, 300755631, 300755632, 300755633, 300755634, 300755635, 300755636, 300755637, 300755638, 300755639, 300755640, 300757508, 300757526, 300757527, 300757528, 300757529, 300757530, 300757531, 300757532, 300757533, 300757534, 300757535, 300757536, 300757537, 300757538, 300757539, 300757540, 300757541, 300758217, 300758218, 300758219, 300758220, 300758221, 300758222, 300758223, 300758224, 300758236, 300758269, 300758270, 300758271, 300758272, 300758273, 300758274, 300758289",
+        "freeformAddress": "Woodstock Road, Roswell, GA 30075",
+        "municipality": "Roswell",
+        "municipalitySubdivision": "Roswell",
+        "postalCode": "30075",
+        "streetName": "Woodstock Road"
+      },
+      "id": "US/STR/p0/741306",
+      "position": {
+        "lat": 34.05128,
+        "lon": -84.38156
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.037,
+          "lon": -84.37689
+        },
+        "topLeftPoint": {
+          "lat": 34.05498,
+          "lon": -84.3986
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cobb",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Northeast Cobb",
+        "extendedPostalCode": "300751611, 300751637, 300751638, 300751639, 300751640, 300751665, 300751677, 300751678, 300751681, 300751686, 300751687, 300751689, 300751690, 300751693, 300751694, 300751697, 300751698, 300751941, 300751942, 300752088, 300752089, 300752090, 300752091, 300752092",
+        "freeformAddress": "Woodstock Road, Roswell, GA 30075",
+        "municipality": "Roswell",
+        "municipalitySubdivision": "Roswell",
+        "postalCode": "30075",
+        "streetName": "Woodstock Road"
+      },
+      "id": "US/STR/p0/4985608",
+      "position": {
+        "lat": 34.06265,
+        "lon": -84.42133
+      },
+      "score": 10.22519,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.06145,
+          "lon": -84.41916
+        },
+        "topLeftPoint": {
+          "lat": 34.06418,
+          "lon": -84.42339
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Roswell-Alpharetta",
         "freeformAddress": "King Road, Roswell, GA 30075",
         "municipality": "Roswell",
         "municipalitySubdivision": "Roswell, Greenway",
         "postalCode": "30075",
         "streetName": "King Road"
       },
-      "id": "US/STR/p0/3584439",
+      "id": "US/STR/p0/11212096",
       "position": {
         "lat": 34.05929,
         "lon": -84.38347
@@ -211,7 +213,7 @@
         "postalCode": "30075",
         "streetName": "Alabama Road Northeast"
       },
-      "id": "US/STR/p0/12469743",
+      "id": "US/STR/p0/3734714",
       "position": {
         "lat": 34.06405,
         "lon": -84.42352
@@ -238,19 +240,19 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Woodstock",
-        "extendedPostalCode": "301884609,301884686",
+        "extendedPostalCode": "301884609, 301884686",
         "freeformAddress": "Cox Road, Woodstock, GA",
-        "municipality": "Woodstock, Roswell",
+        "municipality": "Woodstock",
         "municipalitySubdivision": "Woodstock",
-        "postalCode": "30075,30188",
+        "postalCode": "30075, 30188",
         "streetName": "Cox Road"
       },
-      "id": "US/STR/p0/7244361",
+      "id": "US/STR/p0/1636335",
       "position": {
         "lat": 34.09529,
         "lon": -84.42454
       },
-      "score": 9.62105,
+      "score": 9.41577,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
@@ -272,14 +274,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Woodstock",
-        "extendedPostalCode": "300751503,300751504,300751514",
+        "extendedPostalCode": "300751503, 300751504, 300751514",
         "freeformAddress": "Le Dieu Road, Roswell, GA 30075",
         "municipality": "Roswell",
         "municipalitySubdivision": "Roswell",
         "postalCode": "30075",
         "streetName": "Le Dieu Road"
       },
-      "id": "US/STR/p0/7244792",
+      "id": "US/STR/p0/1636766",
       "position": {
         "lat": 34.07474,
         "lon": -84.42065
@@ -304,7 +306,7 @@
     "numResults": 8,
     "offset": 0,
     "query": "870 woodstock rd roswell ga 30075",
-    "queryTime": 281,
+    "queryTime": 274,
     "queryType": "NON_NEAR",
     "totalResults": 46
   }

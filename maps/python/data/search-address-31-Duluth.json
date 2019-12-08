@@ -68,7 +68,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/31691741",
+      "id": "US/PAD/p0/27464631",
       "position": {
         "lat": 33.94879,
         "lon": -84.13182
@@ -95,14 +95,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Lawrenceville",
-        "extendedPostalCode": "300961852,300961855,300961856,300961857,300961858,300961859,300961860,300961862,300961868,300964543,300964544,300964545,300964546,300968268,300968269,300968270",
+        "extendedPostalCode": "300961852, 300961855, 300961856, 300961857, 300961858, 300961859, 300961860, 300961862, 300961868, 300964543, 300964544, 300964545, 300964546, 300968268, 300968269, 300968270",
         "freeformAddress": "Shackleford Road, Duluth, GA 30096",
         "municipality": "Duluth",
         "municipalitySubdivision": "Duluth",
         "postalCode": "30096",
         "streetName": "Shackleford Road"
       },
-      "id": "US/STR/p0/768580",
+      "id": "US/STR/p0/2724967",
       "position": {
         "lat": 33.94664,
         "lon": -84.13439
@@ -135,7 +135,7 @@
         "postalCode": "30096",
         "streetName": "Pleasant Hill Road & Shackleford Road"
       },
-      "id": "US/XSTR/p0/5186566",
+      "id": "US/XSTR/p1/2362935",
       "position": {
         "lat": 33.94968,
         "lon": -84.12833
@@ -168,7 +168,7 @@
         "postalCode": "30096",
         "streetName": "Pineland Road & Shackleford Road"
       },
-      "id": "US/XSTR/p1/1418413",
+      "id": "US/XSTR/p1/2364853",
       "position": {
         "lat": 33.94739,
         "lon": -84.13268
@@ -193,7 +193,7 @@
     "numResults": 4,
     "offset": 0,
     "query": "3755 shackleford rd duluth ga 30096",
-    "queryTime": 231,
+    "queryTime": 187,
     "queryType": "NON_NEAR",
     "totalResults": 4
   }

@@ -72,4 +72,4 @@ six==1.11.0               # via cryptography, isodate, pip-tools, pydocumentdb, 
 urllib3==1.24.2
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.6.0        # via pip-tools
+# setuptools

@@ -11,7 +11,7 @@
         "countryTertiarySubdivision": "Jonesboro",
         "freeformAddress": "11075 Tara Boulevard, Hampton, GA 30228",
         "localName": "Hampton",
-        "municipality": "Bonanza, Hampton",
+        "municipality": "Hampton, Bonanza",
         "municipalitySubdivision": "Lovejoy, Hampton, Bonanza",
         "postalCode": "30228",
         "streetName": "Tara Boulevard",
@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/5675194",
+      "id": "US/PAD/p1/55880494",
       "position": {
         "lat": 33.4527,
         "lon": -84.32813
@@ -74,47 +74,13 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Jonesboro",
-        "extendedPostalCode": "3022836,302283600,302283601,302283609,302283660",
-        "freeformAddress": "Tara Boulevard, Lovejoy, GA 30228",
-        "municipality": "Lovejoy, Hampton",
-        "municipalitySubdivision": "Lovejoy, Hampton",
-        "postalCode": "30228",
-        "streetName": "Tara Boulevard"
-      },
-      "id": "US/STR/p0/3964715",
-      "position": {
-        "lat": 33.43004,
-        "lon": -84.32041
-      },
-      "score": 8.12919,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.42955,
-          "lon": -84.32035
-        },
-        "topLeftPoint": {
-          "lat": 33.43088,
-          "lon": -84.32048
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Clayton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Jonesboro",
         "freeformAddress": "Tara Boulevard, Lovejoy, GA 30228",
         "municipality": "Lovejoy, Hampton",
         "municipalitySubdivision": "Lovejoy",
         "postalCode": "30228",
         "streetName": "Tara Boulevard"
       },
-      "id": "US/STR/p0/8381024",
+      "id": "US/STR/p0/4880221",
       "position": {
         "lat": 33.44782,
         "lon": -84.32475
@@ -141,13 +107,47 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Jonesboro",
-        "freeformAddress": "Tara Boulevard, Bonanza, GA 30228",
-        "municipality": "Bonanza, Hampton",
+        "extendedPostalCode": "3022836, 302283600, 302283601, 302283609, 302283660",
+        "freeformAddress": "Tara Boulevard, Lovejoy, GA 30228",
+        "municipality": "Lovejoy, Hampton",
+        "municipalitySubdivision": "Lovejoy, Hampton",
+        "postalCode": "30228",
+        "streetName": "Tara Boulevard"
+      },
+      "id": "US/STR/p0/12458358",
+      "position": {
+        "lat": 33.43004,
+        "lon": -84.32041
+      },
+      "score": 8.12919,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.42955,
+          "lon": -84.32035
+        },
+        "topLeftPoint": {
+          "lat": 33.43088,
+          "lon": -84.32048
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Clayton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Jonesboro",
+        "freeformAddress": "Tara Boulevard, Hampton, GA 30228",
+        "municipality": "Hampton, Bonanza",
         "municipalitySubdivision": "Lovejoy, Bonanza",
         "postalCode": "30228",
         "streetName": "Tara Boulevard"
       },
-      "id": "US/STR/p0/3076764",
+      "id": "US/STR/p0/1358399",
       "position": {
         "lat": 33.45183,
         "lon": -84.32606
@@ -172,7 +172,7 @@
     "numResults": 4,
     "offset": 0,
     "query": "11075 tara boulevard lovejoy ga 30250",
-    "queryTime": 93,
+    "queryTime": 63,
     "queryType": "NON_NEAR",
     "totalResults": 9
   }

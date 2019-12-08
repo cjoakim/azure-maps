@@ -34,7 +34,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/38720155",
+      "id": "US/PAD/p1/14960760",
       "position": {
         "lat": 33.77408,
         "lon": -84.36586
@@ -61,14 +61,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta",
-        "extendedPostalCode": "303082012,303082013",
+        "extendedPostalCode": "303082012, 303082013",
         "freeformAddress": "Ponce de Leon Avenue Northeast, Atlanta, GA 30308",
         "municipality": "Atlanta",
         "municipalitySubdivision": "Atlanta, Old Fourth Ward, Midtown",
         "postalCode": "30308",
         "streetName": "Ponce de Leon Avenue Northeast"
       },
-      "id": "US/STR/p0/449964",
+      "id": "US/STR/p0/742071",
       "position": {
         "lat": 33.77247,
         "lon": -84.37679
@@ -95,40 +95,6 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta",
-        "extendedPostalCode": "303064300,303064313,303064329,303064340,303081800,303081807,303081837,303081848,303081849,303081850,303081851,303081859,303081860",
-        "freeformAddress": "Ponce de Leon Avenue Northeast, Atlanta, GA",
-        "municipality": "Atlanta",
-        "municipalitySubdivision": "Atlanta, Virginia Highland, Poncey-Highland",
-        "postalCode": "30306,30308",
-        "streetName": "Ponce de Leon Avenue Northeast"
-      },
-      "id": "US/STR/p0/487514",
-      "position": {
-        "lat": 33.77362,
-        "lon": -84.36356
-      },
-      "score": 12.3125,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.77336,
-          "lon": -84.36236
-        },
-        "topLeftPoint": {
-          "lat": 33.77382,
-          "lon": -84.36458
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Fulton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Atlanta",
         "extendedPostalCode": "303081944",
         "freeformAddress": "Ponce de Leon Avenue Northwest, Atlanta, GA 30308",
         "municipality": "Atlanta",
@@ -136,7 +102,7 @@
         "postalCode": "30308",
         "streetName": "Ponce de Leon Avenue Northwest"
       },
-      "id": "US/STR/p0/1401513",
+      "id": "US/STR/p0/2054307",
       "position": {
         "lat": 33.77233,
         "lon": -84.38751
@@ -163,14 +129,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta",
-        "extendedPostalCode": "3030818,303081809,303081810,303081813,303081819,303081822,303081823,303081827,303081830,303081831",
+        "extendedPostalCode": "3030818, 303081809, 303081810, 303081813, 303081819, 303081822, 303081823, 303081827, 303081830, 303081831",
         "freeformAddress": "Ponce de Leon Court Northeast, Atlanta, GA 30308",
         "municipality": "Atlanta",
         "municipalitySubdivision": "Atlanta, Midtown",
         "postalCode": "30308",
         "streetName": "Ponce de Leon Court Northeast"
       },
-      "id": "US/STR/p0/5665062",
+      "id": "US/STR/p0/3839326",
       "position": {
         "lat": 33.77408,
         "lon": -84.36841
@@ -193,11 +159,45 @@
         "country": "United States",
         "countryCode": "US",
         "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303064300, 303064313, 303064329, 303064340, 303081800, 303081807, 303081837, 303081848, 303081849, 303081850, 303081851, 303081859, 303081860",
+        "freeformAddress": "Ponce de Leon Avenue Northeast, Atlanta, GA",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, Virginia Highland, Poncey-Highland",
+        "postalCode": "30306, 30308",
+        "streetName": "Ponce de Leon Avenue Northeast"
+      },
+      "id": "US/STR/p0/3842089",
+      "position": {
+        "lat": 33.77362,
+        "lon": -84.36356
+      },
+      "score": 12.3125,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.77336,
+          "lon": -84.36236
+        },
+        "topLeftPoint": {
+          "lat": 33.77382,
+          "lon": -84.36458
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
         "countrySecondarySubdivision": "Dekalb",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta-Decatur",
-        "extendedPostalCode": "303071823,303071824",
+        "extendedPostalCode": "303071823, 303071824",
         "freeformAddress": "650 Ponce de Leon Manor Northeast, Druid Hills, GA 30307",
         "municipality": "Druid Hills, Atlanta",
         "municipalitySubdivision": "Druid Hills, Atlanta",
@@ -217,7 +217,7 @@
           "lon": -84.32126
         }
       },
-      "id": "US/ADDR/p1/1394474",
+      "id": "US/ADDR/p1/641558",
       "position": {
         "lat": 33.77154,
         "lon": -84.32131
@@ -244,7 +244,7 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta-Decatur",
-        "extendedPostalCode": "300305108,300305125,300305127",
+        "extendedPostalCode": "300305108, 300305125, 300305127",
         "freeformAddress": "650 Ponce de Leon Place, Decatur, GA 30030",
         "municipality": "Decatur",
         "municipalitySubdivision": "Decatur",
@@ -264,7 +264,7 @@
           "lon": -84.29787
         }
       },
-      "id": "US/ADDR/p1/14774589",
+      "id": "US/ADDR/p2/28578053",
       "position": {
         "lat": 33.78095,
         "lon": -84.29797
@@ -289,7 +289,7 @@
     "numResults": 7,
     "offset": 0,
     "query": "650 ponce de leon atlanta ga 30308",
-    "queryTime": 85,
+    "queryTime": 97,
     "queryType": "NON_NEAR",
     "totalResults": 63
   }

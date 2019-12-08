@@ -41,7 +41,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/37735025",
+      "id": "US/PAD/p1/37245162",
       "position": {
         "lat": 34.94766,
         "lon": -85.22983
@@ -67,28 +67,95 @@
         "countrySecondarySubdivision": "Catoosa",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Fort Oglethorpe-Lakeview",
+        "countryTertiarySubdivision": "Boynton Ridge",
+        "extendedPostalCode": "307423990, 307424000, 307424001, 307424002, 307424003, 307424004, 307424040, 307424041, 307424042, 307424043, 307424045",
         "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA 30742",
         "municipality": "Fort Oglethorpe",
         "municipalitySubdivision": "Fort Oglethorpe",
         "postalCode": "30742",
         "streetName": "Battlefield Parkway"
       },
-      "id": "US/STR/p0/5722744",
+      "id": "US/STR/p0/3734884",
       "position": {
-        "lat": 34.95687,
-        "lon": -85.26379
+        "lat": 34.93867,
+        "lon": -85.21323
       },
       "score": 12.44819,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.95668,
-          "lon": -85.26266
+          "lat": 34.93026,
+          "lon": -85.2019
         },
         "topLeftPoint": {
-          "lat": 34.95688,
+          "lat": 34.94824,
+          "lon": -85.22385
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Walker",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Rossville-Beverly Hills",
+        "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA",
+        "municipality": "Fort Oglethorpe",
+        "municipalitySubdivision": "Fort Oglethorpe",
+        "postalCode": "30741, 30742",
+        "streetName": "Battlefield Parkway"
+      },
+      "id": "US/STR/p0/4059976",
+      "position": {
+        "lat": 34.95574,
+        "lon": -85.26643
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.95435,
           "lon": -85.26488
+        },
+        "topLeftPoint": {
+          "lat": 34.95668,
+          "lon": -85.26798
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Catoosa",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Boynton Ridge",
+        "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA",
+        "municipality": "Fort Oglethorpe",
+        "municipalitySubdivision": "Fort Oglethorpe, Ringgold",
+        "postalCode": "30736, 30742",
+        "streetName": "Battlefield Parkway"
+      },
+      "id": "US/STR/p0/4060615",
+      "position": {
+        "lat": 34.9371,
+        "lon": -85.20641
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.9371,
+          "lon": -85.20641
+        },
+        "topLeftPoint": {
+          "lat": 34.93711,
+          "lon": -85.20647
         }
       }
     },
@@ -101,14 +168,47 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Fort Oglethorpe-Lakeview",
-        "extendedPostalCode": "3074242,307423301,307423681,307423725,307423728,307423729,307423778,307423783,307423784,307423790,307423846,307423847,307423848,307423849,307423850,307423851,307423884,307423887,307423900,307423923,307423925,307423926,307423942,307423945,307423946,307423947,307423948,307423959,307423960,307423961,307423971,307424008,307424009,307424010,307424011,307424012,307424013,307424014,307424015,307424016,307424017,307424018,307424019,307424020,307424021,307424022,307424023,307424024,307424025,307424026,307424027,307424028,307424029,307424030,307424031,307424032,307424033,307424034,307424035,307424036,307424037,307424038,307424039,307424044,307424046,307424217,307424218,307424239,307424240,307424242,307424244,307424250,307424251,307424252,307424253,307424254",
+        "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA",
+        "municipality": "Fort Oglethorpe",
+        "municipalitySubdivision": "Fort Oglethorpe",
+        "postalCode": "30736, 30742",
+        "streetName": "Battlefield Parkway"
+      },
+      "id": "US/STR/p0/4061017",
+      "position": {
+        "lat": 34.94579,
+        "lon": -85.22977
+      },
+      "score": 12.44819,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.94569,
+          "lon": -85.22955
+        },
+        "topLeftPoint": {
+          "lat": 34.9459,
+          "lon": -85.23001
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Catoosa",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Fort Oglethorpe-Lakeview",
+        "extendedPostalCode": "307423301, 307423681, 307423725, 307423728, 307423729, 307423778, 307423783, 307423784, 307423790, 307423846, 307423847, 307423848, 307423849, 307423850, 307423851, 307423884, 307423887, 307423900, 307423923, 307423925, 307423926, 307423942, 307423945, 307423946, 307423947, 307423948, 307423959, 307423960, 307423961, 307423971, 307424008, 307424009, 307424010, 307424011, 307424012, 307424013, 307424014, 307424015, 307424016, 307424017, 307424018, 307424019, 307424020, 307424021, 307424022, 307424023, 307424024, 307424025, 307424026, 307424027, 307424028, 307424029, 307424030, 307424031, 307424032, 307424033, 307424034, 307424035, 307424036, 307424037, 307424038, 307424039, 307424044, 307424046, 3074242, 307424217, 307424218, 307424239, 307424240, 307424242, 307424244, 307424250, 307424251, 307424252, 307424253, 307424254",
         "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA 30742",
         "municipality": "Fort Oglethorpe",
         "municipalitySubdivision": "Fort Oglethorpe",
         "postalCode": "30742",
         "streetName": "Battlefield Parkway"
       },
-      "id": "US/STR/p0/5722745",
+      "id": "US/STR/p0/9906250",
       "position": {
         "lat": 34.9503,
         "lon": -85.23956
@@ -134,61 +234,28 @@
         "countrySecondarySubdivision": "Catoosa",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Boynton Ridge",
-        "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA",
-        "municipality": "Fort Oglethorpe, Ringgold",
+        "countryTertiarySubdivision": "Fort Oglethorpe-Lakeview",
+        "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA 30742",
+        "municipality": "Fort Oglethorpe",
         "municipalitySubdivision": "Fort Oglethorpe",
-        "postalCode": "30736,30742",
+        "postalCode": "30742",
         "streetName": "Battlefield Parkway"
       },
-      "id": "US/STR/p0/6570694",
+      "id": "US/STR/p0/9906251",
       "position": {
-        "lat": 34.93864,
-        "lon": -85.21377
+        "lat": 34.95687,
+        "lon": -85.26379
       },
       "score": 12.44819,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.93851,
-          "lon": -85.21333
-        },
-        "topLeftPoint": {
-          "lat": 34.93877,
-          "lon": -85.21419
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Walker",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Rossville-Beverly Hills",
-        "freeformAddress": "Battlefield Parkway, Fort Oglethorpe, GA",
-        "municipality": "Fort Oglethorpe, Rossville",
-        "municipalitySubdivision": "Fort Oglethorpe",
-        "postalCode": "30741,30742",
-        "streetName": "Battlefield Parkway"
-      },
-      "id": "US/STR/p0/6571897",
-      "position": {
-        "lat": 34.95574,
-        "lon": -85.26643
-      },
-      "score": 12.44819,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.95435,
-          "lon": -85.26488
-        },
-        "topLeftPoint": {
           "lat": 34.95668,
-          "lon": -85.26798
+          "lon": -85.26266
+        },
+        "topLeftPoint": {
+          "lat": 34.95688,
+          "lon": -85.26488
         }
       }
     }
@@ -196,11 +263,11 @@
   "search_address": "2055 Battlefield Pkwy Fort Oglethorpe GA 30742",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 5,
+    "numResults": 7,
     "offset": 0,
     "query": "2055 battlefield pkwy fort oglethorpe ga 30742",
-    "queryTime": 73,
+    "queryTime": 107,
     "queryType": "NON_NEAR",
-    "totalResults": 22
+    "totalResults": 24
   }
 }

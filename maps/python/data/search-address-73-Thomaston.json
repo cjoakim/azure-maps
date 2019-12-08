@@ -41,7 +41,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/24522723",
+      "id": "US/PAD/p0/48315316",
       "position": {
         "lat": 32.92215,
         "lon": -84.33641
@@ -68,7 +68,7 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Thomaston",
-        "extendedPostalCode": "302864104,302864106,302864107,302864113,302864114,302864116,302864117,302864724,302864725,302864727,302864728,302864731,302864740,302864746,302864748,302865513",
+        "extendedPostalCode": "302864104, 302864106, 302864107, 302864113, 302864114, 302864116, 302864117, 302864724, 302864725, 302864727, 302864728, 302864731, 302864740, 302864746, 302864748, 302865513",
         "freeformAddress": "1025 South Church Street, Thomaston, GA 30286",
         "municipality": "Thomaston",
         "municipalitySubdivision": "Thomaston",
@@ -78,30 +78,30 @@
       },
       "addressRanges": {
         "from": {
-          "lat": 32.87417,
-          "lon": -84.32489
+          "lat": 32.87309,
+          "lon": -84.32417
         },
-        "rangeRight": "1085 - 1001",
+        "rangeLeft": "1009 - 1093",
         "to": {
-          "lat": 32.87403,
-          "lon": -84.32481
+          "lat": 32.87271,
+          "lon": -84.32392
         }
       },
-      "id": "US/ADDR/p1/4323637",
+      "id": "US/ADDR/p2/7302667",
       "position": {
-        "lat": 32.87405,
-        "lon": -84.32488
+        "lat": 32.87304,
+        "lon": -84.32407
       },
       "score": 13.52138,
       "type": "Address Range",
       "viewport": {
         "btmRightPoint": {
-          "lat": 32.87403,
-          "lon": -84.32481
+          "lat": 32.87271,
+          "lon": -84.32392
         },
         "topLeftPoint": {
-          "lat": 32.87417,
-          "lon": -84.32489
+          "lat": 32.87309,
+          "lon": -84.32417
         }
       }
     },
@@ -132,7 +132,7 @@
           "type": "main"
         }
       ],
-      "id": "US/PAD/p1/25790514",
+      "id": "US/PAD/p0/48315313",
       "position": {
         "lat": 32.88818,
         "lon": -84.32739
@@ -159,7 +159,7 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Thomaston",
-        "extendedPostalCode": "302863636,302863637,302863643,302863651,302863653,302863691,302863692,302863693,302863694,302863696,302863730,302864160",
+        "extendedPostalCode": "302863636, 302863637, 302863643, 302863651, 302863653, 302863691, 302863692, 302863693, 302863694, 302863696, 302863730, 302864160",
         "freeformAddress": "19 North Center Street, Thomaston, GA 30286",
         "municipality": "Thomaston",
         "municipalitySubdivision": "Thomaston",
@@ -179,7 +179,7 @@
           "lon": -84.32621
         }
       },
-      "id": "US/ADDR/p0/23151697",
+      "id": "US/ADDR/p2/27064322",
       "position": {
         "lat": 32.88871,
         "lon": -84.32617
@@ -206,82 +206,48 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Thomaston",
-        "extendedPostalCode": "3028622,3028678,302861264,302861265,302861266,302861267,302861268,302861269,302861276,302861277,302861278,302861279,302861280,302861967,302861968,302862202,302862205,302862209,302862210,302862234,302862254,302862255,302862257,302862258,302862261,302862263,302862276,302862277,302862278,302862290,302862297,302867800",
-        "freeformAddress": "Highway 19 North, Thomaston, GA 30286",
-        "municipality": "Thomaston",
-        "municipalitySubdivision": "Thomaston, Hannahs Mill",
-        "postalCode": "30286",
-        "streetName": "Highway 19 North"
-      },
-      "id": "US/STR/p0/4890908",
-      "position": {
-        "lat": 32.94269,
-        "lon": -84.33429
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 32.93285,
-          "lon": -84.32539
-        },
-        "topLeftPoint": {
-          "lat": 32.95084,
-          "lon": -84.34682
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Upson",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Thomaston",
-        "extendedPostalCode": "302862229,302862272",
-        "freeformAddress": "Highway 19 North, Thomaston, GA 30286",
-        "municipality": "Thomaston",
-        "municipalitySubdivision": "Thomaston, Hannahs Mill",
-        "postalCode": "30286",
-        "streetName": "Highway 19 North"
-      },
-      "id": "US/STR/p0/4890909",
-      "position": {
-        "lat": 32.92315,
-        "lon": -84.33343
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 32.92214,
-          "lon": -84.33341
-        },
-        "topLeftPoint": {
-          "lat": 32.92427,
-          "lon": -84.33361
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Upson",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Thomaston",
-        "extendedPostalCode": "302861270,302861271,302861272,302861273,302861274,302861275,302861281,302861282,302861283,302861284,302861285,302861286,302861287,302861288",
+        "extendedPostalCode": "302862207, 302862230, 302862260, 302862262, 302862279, 302862288, 302862289, 302862298, 302862299, 302862483",
         "freeformAddress": "Highway 19 North, Thomaston, GA 30286",
         "municipality": "Thomaston",
         "municipalitySubdivision": "Thomaston",
         "postalCode": "30286",
         "streetName": "Highway 19 North"
       },
-      "id": "US/STR/p0/5665286",
+      "id": "US/STR/p0/3839489",
+      "position": {
+        "lat": 32.92397,
+        "lon": -84.33356
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.91492,
+          "lon": -84.32312
+        },
+        "topLeftPoint": {
+          "lat": 32.93291,
+          "lon": -84.34454
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Upson",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Thomaston",
+        "extendedPostalCode": "302861270, 302861271, 302861272, 302861273, 302861274, 302861275, 302861281, 302861282, 302861283, 302861284, 302861285, 302861286, 302861287, 302861288",
+        "freeformAddress": "Highway 19 North, Thomaston, GA 30286",
+        "municipality": "Thomaston",
+        "municipalitySubdivision": "Thomaston",
+        "postalCode": "30286",
+        "streetName": "Highway 19 North"
+      },
+      "id": "US/STR/p0/3839490",
       "position": {
         "lat": 32.96216,
         "lon": -84.33194
@@ -296,6 +262,40 @@
         "topLeftPoint": {
           "lat": 32.97006,
           "lon": -84.34186
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Upson",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Thomaston",
+        "extendedPostalCode": "302861264, 302861265, 302861266, 302861267, 302861268, 302861269, 302861276, 302861277, 302861278, 302861279, 302861280, 302861967, 302861968, 3028622, 302862202, 302862205, 302862209, 302862210, 302862234, 302862254, 302862255, 302862257, 302862258, 302862261, 302862263, 302862276, 302862277, 302862278, 302862290, 302862297, 3028678, 302867800",
+        "freeformAddress": "Highway 19 North, Thomaston, GA 30286",
+        "municipality": "Thomaston",
+        "municipalitySubdivision": "Thomaston, Hannahs Mill",
+        "postalCode": "30286",
+        "streetName": "Highway 19 North"
+      },
+      "id": "US/STR/p0/6926851",
+      "position": {
+        "lat": 32.94269,
+        "lon": -84.33429
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 32.93285,
+          "lon": -84.32539
+        },
+        "topLeftPoint": {
+          "lat": 32.95084,
+          "lon": -84.34682
         }
       }
     }

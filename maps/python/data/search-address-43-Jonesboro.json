@@ -9,13 +9,81 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303542805, 303542806, 303542847, 3035433, 303543300, 303543302, 303543304, 303543305, 303543307, 303543506, 303543507, 303543532, 303543533, 303543595",
+        "freeformAddress": "Jonesboro Road Southeast, Atlanta, GA 30354",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, South River Gardens, Blair Villa Poole Creek",
+        "postalCode": "30354",
+        "streetName": "Jonesboro Road Southeast"
+      },
+      "id": "US/STR/p0/1469935",
+      "position": {
+        "lat": 33.65621,
+        "lon": -84.36921
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.64692,
+          "lon": -84.35878
+        },
+        "topLeftPoint": {
+          "lat": 33.6649,
+          "lon": -84.38039
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
+        "extendedPostalCode": "303542204, 303542205",
+        "freeformAddress": "Jonesboro Road Southeast, Atlanta, GA 30354",
+        "municipality": "Atlanta",
+        "municipalitySubdivision": "Atlanta, South River Gardens, Rosedale Heights",
+        "postalCode": "30354",
+        "streetName": "Jonesboro Road Southeast"
+      },
+      "id": "US/STR/p0/2516412",
+      "position": {
+        "lat": 33.67843,
+        "lon": -84.36914
+      },
+      "score": 12.44169,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.67662,
+          "lon": -84.36741
+        },
+        "topLeftPoint": {
+          "lat": 33.68025,
+          "lon": -84.36998
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fulton",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Atlanta",
         "freeformAddress": "Jonesboro Road Southeast, Atlanta, GA",
         "municipality": "Atlanta",
         "municipalitySubdivision": "Atlanta, South River Gardens, Browns Mill Park",
-        "postalCode": "30315,30354",
+        "postalCode": "30315, 30354",
         "streetName": "Jonesboro Road Southeast"
       },
-      "id": "US/STR/p0/304801",
+      "id": "US/STR/p0/2740447",
       "position": {
         "lat": 33.68097,
         "lon": -84.3667
@@ -30,73 +98,6 @@
         "topLeftPoint": {
           "lat": 33.68141,
           "lon": -84.36741
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Fulton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Atlanta",
-        "freeformAddress": "Jonesboro Road Southeast, Atlanta, GA 30354",
-        "municipality": "Atlanta",
-        "municipalitySubdivision": "Atlanta, South River Gardens, Forest Park, Blair Villa Poole Creek",
-        "postalCode": "30354",
-        "streetName": "Jonesboro Road Southeast"
-      },
-      "id": "US/STR/p0/1400943",
-      "position": {
-        "lat": 33.64808,
-        "lon": -84.36544
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.64781,
-          "lon": -84.36532
-        },
-        "topLeftPoint": {
-          "lat": 33.64808,
-          "lon": -84.36544
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Fulton",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Atlanta",
-        "extendedPostalCode": "303542206,303542207,303542400,303542412,303542413,303542414,303542415,303542416,303542426,303542441,303542461,303542462,303542464,303542468,303542476,303542477,303542478,303542479,303542480,303542481,303542482,303542483,303542484,303542485,303542801,303542802,303542803,303544202",
-        "freeformAddress": "Jonesboro Road Southeast, Atlanta, GA 30354",
-        "municipality": "Atlanta",
-        "municipalitySubdivision": "Atlanta, South River Gardens, Orchard Knob",
-        "postalCode": "30354",
-        "streetName": "Jonesboro Road Southeast"
-      },
-      "id": "US/STR/p0/3964897",
-      "position": {
-        "lat": 33.67067,
-        "lon": -84.37278
-      },
-      "score": 12.44169,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.66119,
-          "lon": -84.36107
-        },
-        "topLeftPoint": {
-          "lat": 33.67917,
-          "lon": -84.38268
         }
       }
     },
@@ -141,7 +142,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/19859730",
+      "id": "US/PAD/p1/35226868",
       "position": {
         "lat": 33.64791,
         "lon": -84.36843
@@ -172,9 +173,9 @@
         "municipality": "Forest Park",
         "municipalitySubdivision": "Forest Park",
         "postalCode": "30297",
-        "streetName": "Jonesboro Road, Georgia State Route 54, State Route 54, Georgia 54 & Jonesboro Road Southeast, Georgia State Route 54, State Route 54, Georgia 54"
+        "streetName": "Jonesboro Road, Georgia 54, Georgia State Route 54, State Route 54 & Jonesboro Road Southeast, Georgia 54, Georgia State Route 54, State Route 54"
       },
-      "id": "US/XSTR/p1/1484743",
+      "id": "US/XSTR/p0/3695557",
       "position": {
         "lat": 33.64781,
         "lon": -84.36532
@@ -201,27 +202,27 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta",
-        "freeformAddress": "Cleveland Avenue Southeast & Jonesboro Road Southeast, Atlanta, GA 30354",
+        "freeformAddress": "Conley Road Southeast & Jonesboro Road Southeast, Atlanta, GA 30354",
         "municipality": "Atlanta",
         "municipalitySubdivision": "South River Gardens, Atlanta",
-        "postalCode": "30315,30354",
-        "streetName": "Cleveland Avenue Southeast & Jonesboro Road Southeast, Georgia State Route 54, State Route 54, Georgia 54"
+        "postalCode": "30354",
+        "streetName": "Conley Road Southeast & Jonesboro Road Southeast, Georgia 54, Georgia State Route 54, State Route 54"
       },
-      "id": "US/XSTR/p0/1879470",
+      "id": "US/XSTR/p0/1190981",
       "position": {
-        "lat": 33.68025,
-        "lon": -84.36741
+        "lat": 33.64839,
+        "lon": -84.36556
       },
       "score": 10.44471,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.67935,
-          "lon": -84.36633
+          "lat": 33.64749,
+          "lon": -84.36448
         },
         "topLeftPoint": {
-          "lat": 33.68115,
-          "lon": -84.36849
+          "lat": 33.64929,
+          "lon": -84.36664
         }
       }
     },
@@ -234,27 +235,27 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Atlanta",
-        "freeformAddress": "Jonesboro Road Southeast & Southside Industrial Parkway Southeast, Atlanta, GA 30354",
+        "freeformAddress": "Jonesboro Road Southeast & Poole Creek Road Southeast, Atlanta, GA 30354",
         "municipality": "Atlanta",
         "municipalitySubdivision": "Blair Villa Poole Creek, Atlanta",
         "postalCode": "30354",
-        "streetName": "Jonesboro Road Southeast, Georgia State Route 54, State Route 54, Georgia 54 & Southside Industrial Parkway Southeast"
+        "streetName": "Jonesboro Road Southeast, Georgia 54, Georgia State Route 54, State Route 54 & Poole Creek Road Southeast"
       },
-      "id": "US/XSTR/p0/3530178",
+      "id": "US/XSTR/p0/2177255",
       "position": {
-        "lat": 33.65937,
-        "lon": -84.37132
+        "lat": 33.65775,
+        "lon": -84.37026
       },
       "score": 10.44471,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.65847,
-          "lon": -84.37024
+          "lat": 33.65685,
+          "lon": -84.36918
         },
         "topLeftPoint": {
-          "lat": 33.66027,
-          "lon": -84.3724
+          "lat": 33.65865,
+          "lon": -84.37134
         }
       }
     }
@@ -265,7 +266,7 @@
     "numResults": 7,
     "offset": 0,
     "query": "3885 jonesboro rd se atlanta ga 30354",
-    "queryTime": 149,
+    "queryTime": 248,
     "queryType": "NON_NEAR",
     "totalResults": 64
   }

@@ -46,7 +46,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/21445394",
+      "id": "US/PAD/p1/38351792",
       "position": {
         "lat": 34.25515,
         "lon": -83.46867
@@ -69,32 +69,30 @@
         "country": "United States",
         "countryCode": "US",
         "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Jackson",
+        "countrySecondarySubdivision": "Jackson, Banks",
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Commerce",
-        "extendedPostalCode": "305293538,305293543,305293552,305293553,305293554,305293555,305293556,305293557,305293558,305293559,305293560,305293561,305293562,305293563,305293564,305293575,305293576,305293577,305293578,305293579,305293580,305293581,305293582,305293583,305293584,305293585,305293586,305293587,305293588,305293590,305293591,305293592",
+        "countryTertiarySubdivision": "Maysville",
         "freeformAddress": "Steven B Tanger Boulevard, Commerce, GA 30529",
         "municipality": "Commerce",
-        "municipalitySubdivision": "Commerce",
         "postalCode": "30529",
         "streetName": "Steven B Tanger Boulevard"
       },
-      "id": "US/STR/p0/305599",
+      "id": "US/STR/p0/3774366",
       "position": {
-        "lat": 34.24863,
-        "lon": -83.47536
+        "lat": 34.2565,
+        "lon": -83.46941
       },
       "score": 14.61557,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.24017,
-          "lon": -83.4648
+          "lat": 34.2565,
+          "lon": -83.46876
         },
         "topLeftPoint": {
-          "lat": 34.25816,
-          "lon": -83.48656
+          "lat": 34.25735,
+          "lon": -83.46941
         }
       }
     }
@@ -105,7 +103,7 @@
     "numResults": 2,
     "offset": 0,
     "query": "230 steven b tanger blvd commerce ga 30529",
-    "queryTime": 70,
+    "queryTime": 92,
     "queryType": "NON_NEAR",
     "totalResults": 2
   }

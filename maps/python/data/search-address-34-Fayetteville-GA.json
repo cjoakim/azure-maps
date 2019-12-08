@@ -48,7 +48,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/4551209",
+      "id": "US/PAD/p1/55880499",
       "position": {
         "lat": 33.48254,
         "lon": -84.43696
@@ -75,14 +75,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Fayetteville",
-        "extendedPostalCode": "3021446,3021477,302144056,302144065,302144098,302144099,302144600,302147705,302147706,302147707,302147708,302147709,302147710,302147711,302147723,302147724,302147732,302147736",
+        "extendedPostalCode": "302144056, 302144065, 302144098, 302144099, 3021446, 302144600, 3021477, 302147705, 302147706, 302147707, 302147708, 302147709, 302147710, 302147711, 302147723, 302147724, 302147732, 302147736",
         "freeformAddress": "Pavilion Parkway, Fayetteville, GA 30214",
         "municipality": "Fayetteville",
         "municipalitySubdivision": "Fayetteville",
         "postalCode": "30214",
         "streetName": "Pavilion Parkway"
       },
-      "id": "US/STR/p0/4888204",
+      "id": "US/STR/p0/6924272",
       "position": {
         "lat": 33.47953,
         "lon": -84.44298
@@ -113,23 +113,69 @@
         "municipality": "Fayetteville",
         "municipalitySubdivision": "Fayetteville",
         "postalCode": "30214",
-        "streetName": "Highway 314, Georgia 314, Georgia State Route 314, West Fayetteville Road, State Route 314 & Pavilion Parkway, Beckett Lane"
+        "streetName": "Highway 314, Georgia 314, Georgia State Route 314, State Route 314, West Fayetteville Road & Pavilion Parkway, Beckett Lane"
       },
-      "id": "US/XSTR/p0/3904727",
+      "id": "US/XSTR/p0/1122954",
       "position": {
-        "lat": 33.48041,
-        "lon": -84.44938
+        "lat": 33.4805,
+        "lon": -84.44953
       },
       "score": 8.18153,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.47951,
-          "lon": -84.4483
+          "lat": 33.4796,
+          "lon": -84.44845
         },
         "topLeftPoint": {
-          "lat": 33.48131,
-          "lon": -84.45046
+          "lat": 33.4814,
+          "lon": -84.45061
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fayette",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Peachtree City-Tyrone",
+        "extendedPostalCode": "302144269, 302144270, 302144271, 302144277",
+        "freeformAddress": "103 Veterans Parkway, Fayetteville, GA 30214",
+        "municipality": "Fayetteville",
+        "municipalitySubdivision": "Fayetteville",
+        "postalCode": "30214",
+        "streetName": "Veterans Parkway",
+        "streetNumber": "103"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.46,
+          "lon": -84.5094
+        },
+        "rangeRight": "103 - 103",
+        "to": {
+          "lat": 33.45976,
+          "lon": -84.5093
+        }
+      },
+      "id": "US/ADDR/p1/26505915",
+      "position": {
+        "lat": 33.45999,
+        "lon": -84.50945
+      },
+      "score": 7.96712,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.45976,
+          "lon": -84.5093
+        },
+        "topLeftPoint": {
+          "lat": 33.46,
+          "lon": -84.5094
         }
       }
     },
@@ -142,7 +188,54 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Fayetteville",
-        "extendedPostalCode": "302147149,302147150,302147151,302147152",
+        "extendedPostalCode": "302147722, 302147735",
+        "freeformAddress": "103 Promenade Parkway, Fayetteville, GA 30214",
+        "municipality": "Fayetteville",
+        "municipalitySubdivision": "Fayetteville",
+        "postalCode": "30214",
+        "streetName": "Promenade Parkway",
+        "streetNumber": "103"
+      },
+      "addressRanges": {
+        "from": {
+          "lat": 33.48259,
+          "lon": -84.43457
+        },
+        "rangeLeft": "102 - 102",
+        "rangeRight": "103 - 103",
+        "to": {
+          "lat": 33.48257,
+          "lon": -84.43448
+        }
+      },
+      "id": "US/ADDR/p2/2945029",
+      "position": {
+        "lat": 33.48255,
+        "lon": -84.43458
+      },
+      "score": 7.96712,
+      "type": "Address Range",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 33.48257,
+          "lon": -84.43448
+        },
+        "topLeftPoint": {
+          "lat": 33.48259,
+          "lon": -84.43457
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Fayette",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Fayetteville",
+        "extendedPostalCode": "302147149, 302147150, 302147151, 302147152",
         "freeformAddress": "103 Chaucer Parkway, Fayetteville, GA 30214",
         "municipality": "Fayetteville",
         "municipalitySubdivision": "Fayetteville",
@@ -162,7 +255,7 @@
           "lon": -84.45232
         }
       },
-      "id": "US/ADDR/p0/25467",
+      "id": "US/ADDR/p3/26577952",
       "position": {
         "lat": 33.48133,
         "lon": -84.45312
@@ -209,7 +302,7 @@
           "lon": -84.43833
         }
       },
-      "id": "US/ADDR/p2/12971234",
+      "id": "US/ADDR/p3/26614446",
       "position": {
         "lat": 33.47481,
         "lon": -84.4384
@@ -226,99 +319,6 @@
           "lon": -84.43888
         }
       }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Fayette",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Fayetteville",
-        "extendedPostalCode": "302147722,302147735",
-        "freeformAddress": "103 Promenade Parkway, Fayetteville, GA 30214",
-        "municipality": "Fayetteville",
-        "municipalitySubdivision": "Fayetteville",
-        "postalCode": "30214",
-        "streetName": "Promenade Parkway",
-        "streetNumber": "103"
-      },
-      "addressRanges": {
-        "from": {
-          "lat": 33.48259,
-          "lon": -84.43457
-        },
-        "rangeLeft": "102 - 102",
-        "rangeRight": "103 - 103",
-        "to": {
-          "lat": 33.48257,
-          "lon": -84.43448
-        }
-      },
-      "id": "US/ADDR/p2/29080043",
-      "position": {
-        "lat": 33.48255,
-        "lon": -84.43458
-      },
-      "score": 7.96712,
-      "type": "Address Range",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.48257,
-          "lon": -84.43448
-        },
-        "topLeftPoint": {
-          "lat": 33.48259,
-          "lon": -84.43457
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Fayette",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Peachtree City-Tyrone",
-        "extendedPostalCode": "302144269,302144270,302144271,302144277",
-        "freeformAddress": "103 Veterans Parkway, Fayetteville, GA 30214",
-        "municipality": "Fayetteville",
-        "municipalitySubdivision": "Fayetteville",
-        "postalCode": "30214",
-        "streetName": "Veterans Parkway",
-        "streetNumber": "103"
-      },
-      "addressRanges": {
-        "from": {
-          "lat": 33.46,
-          "lon": -84.5094
-        },
-        "rangeRight": "103 - 103",
-        "to": {
-          "lat": 33.45976,
-          "lon": -84.5093
-        }
-      },
-      "id": "US/ADDR/p3/30609350",
-      "position": {
-        "lat": 33.45999,
-        "lon": -84.50945
-      },
-      "score": 7.96712,
-      "type": "Address Range",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 33.45976,
-          "lon": -84.5093
-        },
-        "topLeftPoint": {
-          "lat": 33.46,
-          "lon": -84.5094
-        }
-      }
     }
   ],
   "search_address": "103 Pavillion Parkway Fayetteville GA 30214",
@@ -327,8 +327,8 @@
     "numResults": 7,
     "offset": 0,
     "query": "103 pavillion parkway fayetteville ga 30214",
-    "queryTime": 180,
+    "queryTime": 175,
     "queryType": "NON_NEAR",
-    "totalResults": 1897
+    "totalResults": 1901
   }
 }

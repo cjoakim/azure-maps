@@ -34,7 +34,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/5675195",
+      "id": "US/PAD/p1/55880496",
       "position": {
         "lat": 34.34798,
         "lon": -82.90158
@@ -61,28 +61,28 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Hartwell",
-        "extendedPostalCode": "306435259",
+        "extendedPostalCode": "306435268",
         "freeformAddress": "Anderson Highway, Hartwell, GA 30643",
         "municipality": "Hartwell",
         "municipalitySubdivision": "Hartwell",
         "postalCode": "30643",
         "streetName": "Anderson Highway"
       },
-      "id": "US/STR/p0/450010",
+      "id": "US/STR/p0/742117",
       "position": {
-        "lat": 34.33927,
-        "lon": -82.83317
+        "lat": 34.3516,
+        "lon": -82.81747
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.33879,
-          "lon": -82.83169
+          "lat": 34.35075,
+          "lon": -82.81698
         },
         "topLeftPoint": {
-          "lat": 34.34028,
-          "lon": -82.8339
+          "lat": 34.35221,
+          "lon": -82.81814
         }
       }
     },
@@ -95,48 +95,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Hartwell",
-        "extendedPostalCode": "306434430,306434431,306434432,306434433,306434434,306434435,306434436,306434437,306434438,306434439,306435246,306435247,306435248,306435249,306435251,306435280,306435281,306435288,306435295,306437134,306437144,306437157,306437158,306437159,306437160,306437196",
+        "extendedPostalCode": "3064344, 306434411, 306434413, 306434415, 306434416, 306434417, 306434418, 306434419, 306434420, 306434421, 306434422, 306434423, 306434424, 306434425, 306434426, 306434427, 306434428, 306434429, 306434478, 306434482, 306434483, 306437044, 306437113, 306437115, 306437117, 306437118, 306437145, 306437154, 306437155, 306437156, 306437171, 306437181, 306437182, 306437191, 306437197",
         "freeformAddress": "Anderson Highway, Hartwell, GA 30643",
         "municipality": "Hartwell",
         "municipalitySubdivision": "Hartwell",
         "postalCode": "30643",
         "streetName": "Anderson Highway"
       },
-      "id": "US/STR/p0/450012",
-      "position": {
-        "lat": 34.34329,
-        "lon": -82.85821
-      },
-      "score": 10.22519,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.33351,
-          "lon": -82.84751
-        },
-        "topLeftPoint": {
-          "lat": 34.3515,
-          "lon": -82.86929
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Hart",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Hartwell",
-        "extendedPostalCode": "3064344,306434411,306434413,306434415,306434416,306434417,306434418,306434419,306434420,306434421,306434422,306434423,306434424,306434425,306434426,306434427,306434428,306434429,306434478,306434482,306434483,306437044,306437113,306437115,306437117,306437118,306437145,306437154,306437155,306437156,306437171,306437181,306437182,306437191,306437197",
-        "freeformAddress": "Anderson Highway, Hartwell, GA 30643",
-        "municipality": "Hartwell",
-        "municipalitySubdivision": "Hartwell",
-        "postalCode": "30643",
-        "streetName": "Anderson Highway"
-      },
-      "id": "US/STR/p0/450013",
+      "id": "US/STR/p0/742118",
       "position": {
         "lat": 34.34692,
         "lon": -82.89262
@@ -163,26 +129,28 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Hartwell",
+        "extendedPostalCode": "306434430, 306434431, 306434432, 306434433, 306434434, 306434435, 306434436, 306434437, 306434438, 306434439, 306435246, 306435247, 306435248, 306435249, 306435251, 306435280, 306435281, 306435288, 306435295, 306437134, 306437144, 306437157, 306437158, 306437159, 306437160, 306437196",
         "freeformAddress": "Anderson Highway, Hartwell, GA 30643",
         "municipality": "Hartwell",
+        "municipalitySubdivision": "Hartwell",
         "postalCode": "30643",
         "streetName": "Anderson Highway"
       },
-      "id": "US/STR/p0/8378434",
+      "id": "US/STR/p0/742119",
       "position": {
-        "lat": 34.35271,
-        "lon": -82.81657
+        "lat": 34.34329,
+        "lon": -82.85821
       },
       "score": 10.22519,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.35221,
-          "lon": -82.81572
+          "lat": 34.33351,
+          "lon": -82.84751
         },
         "topLeftPoint": {
-          "lat": 34.35379,
-          "lon": -82.81698
+          "lat": 34.3515,
+          "lon": -82.86929
         }
       }
     },
@@ -195,27 +163,27 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Hartwell",
-        "freeformAddress": "Anderson Highway & State Highway 181 Spur, Hartwell, GA 30643",
+        "freeformAddress": "Anderson Highway & Smith McGee Highway, Hartwell, GA 30643",
         "municipality": "Hartwell",
         "municipalitySubdivision": "Hartwell",
         "postalCode": "30643",
-        "streetName": "Anderson Highway, United States Highway 29 North, State Route 8, United States Highway 29 South, US-29 South, Georgia State Route 8, US-29 North, Georgia 8 & State Highway 181 Spur"
+        "streetName": "Anderson Highway, Georgia 8, Georgia State Route 8, State Route 8, US-29 North, US-29 South, United States Highway 29 North, United States Highway 29 South & Smith McGee Highway, Georgia 181, Georgia State Route 181, State Route 181"
       },
-      "id": "US/XSTR/p0/3992238",
+      "id": "US/XSTR/p0/1214171",
       "position": {
-        "lat": 34.34,
-        "lon": -82.84677
+        "lat": 34.33916,
+        "lon": -82.83334
       },
-      "score": 8.71613,
+      "score": 8.53746,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.3391,
-          "lon": -82.84568
+          "lat": 34.33826,
+          "lon": -82.83225
         },
         "topLeftPoint": {
-          "lat": 34.3409,
-          "lon": -82.84786
+          "lat": 34.34006,
+          "lon": -82.83443
         }
       }
     }
@@ -223,11 +191,11 @@
   "search_address": "1700 Anderson Hwy Hartwell GA 30643",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 6,
+    "numResults": 5,
     "offset": 0,
     "query": "1700 anderson hwy hartwell ga 30643",
-    "queryTime": 129,
+    "queryTime": 115,
     "queryType": "NON_NEAR",
-    "totalResults": 10
+    "totalResults": 9
   }
 }

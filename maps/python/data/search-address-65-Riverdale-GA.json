@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/5675191",
+      "id": "US/PAD/p1/55880488",
       "position": {
         "lat": 33.55886,
         "lon": -84.41133
@@ -74,14 +74,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Riverdale",
-        "extendedPostalCode": "302742525,302742910",
+        "extendedPostalCode": "302742525, 302742910",
         "freeformAddress": "Lamar Hutcheson Parkway, Riverdale, GA 30274",
         "municipality": "Riverdale",
         "municipalitySubdivision": "Riverdale",
         "postalCode": "30274",
         "streetName": "Lamar Hutcheson Parkway"
       },
-      "id": "US/STR/p0/10085421",
+      "id": "US/STR/p0/13331616",
       "position": {
         "lat": 33.56618,
         "lon": -84.4073
@@ -108,14 +108,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Riverdale",
-        "extendedPostalCode": "302742944,302742949,302742971,302961858,302961859,302961860,302961861,302961887,302961888,302961922,302961933,302961934,302961935,302961936,302961957,302961958,302962018,302962019,302962020,302962021,302962022,302962086,302962087,302962102,302962103,302962104,302962146,302962147,302962164,302962165,302962167,302962210,302962211,302962212,302962213,302962214,302962215,302962216,302962217,302962235,302962236,302962237,302962238",
+        "extendedPostalCode": "302742944, 302742949, 302742971, 302961858, 302961859, 302961860, 302961861, 302961887, 302961888, 302961922, 302961933, 302961934, 302961935, 302961936, 302961957, 302961958, 302962018, 302962019, 302962020, 302962021, 302962022, 302962086, 302962087, 302962102, 302962103, 302962104, 302962146, 302962147, 302962164, 302962165, 302962167, 302962210, 302962211, 302962212, 302962213, 302962214, 302962215, 302962216, 302962217, 302962235, 302962236, 302962237, 302962238",
         "freeformAddress": "Bethsaida Road, Riverdale, GA",
         "municipality": "Riverdale",
         "municipalitySubdivision": "Riverdale",
-        "postalCode": "30274,30296",
+        "postalCode": "30274, 30296",
         "streetName": "Bethsaida Road"
       },
-      "id": "US/STR/p0/10297611",
+      "id": "US/STR/p0/2182819",
       "position": {
         "lat": 33.56681,
         "lon": -84.43583
@@ -148,7 +148,7 @@
         "postalCode": "30274",
         "streetName": "Lamar Hutcheson Parkway & Upper Riverdale Road Southwest"
       },
-      "id": "US/XSTR/p0/5458400",
+      "id": "US/XSTR/p0/6137789",
       "position": {
         "lat": 33.57318,
         "lon": -84.40332
@@ -181,21 +181,21 @@
         "postalCode": "30274",
         "streetName": "Bethsaida Road, Lamar Hutcheson Parkway & Lamar Hutcheson Parkway"
       },
-      "id": "US/XSTR/p0/5458379",
+      "id": "US/XSTR/p0/6137744",
       "position": {
-        "lat": 33.56124,
-        "lon": -84.41357
+        "lat": 33.56111,
+        "lon": -84.41358
       },
-      "score": 10.44471,
+      "score": 10.42685,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.56034,
-          "lon": -84.41249
+          "lat": 33.56021,
+          "lon": -84.4125
         },
         "topLeftPoint": {
-          "lat": 33.56214,
-          "lon": -84.41465
+          "lat": 33.56201,
+          "lon": -84.41466
         }
       }
     }
@@ -206,7 +206,7 @@
     "numResults": 5,
     "offset": 0,
     "query": "680 lamar hutcheson pkwy riverdale ga 30274",
-    "queryTime": 87,
+    "queryTime": 48,
     "queryType": "NON_NEAR",
     "totalResults": 5
   }

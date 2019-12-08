@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/5675181",
+      "id": "US/PAD/p1/55880468",
       "position": {
         "lat": 33.72704,
         "lon": -84.5039
@@ -80,21 +80,21 @@
         "postalCode": "30331",
         "streetName": "Research Center Atlanta Drive Southwest"
       },
-      "id": "US/STR/p0/2524759",
+      "id": "US/STR/p0/6251000",
       "position": {
-        "lat": 33.7269,
-        "lon": -84.50581
+        "lat": 33.72331,
+        "lon": -84.50613
       },
       "score": 14.66002,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.7269,
-          "lon": -84.50581
+          "lat": 33.72304,
+          "lon": -84.50604
         },
         "topLeftPoint": {
-          "lat": 33.72706,
-          "lon": -84.50582
+          "lat": 33.72351,
+          "lon": -84.50628
         }
       }
     }
@@ -105,7 +105,7 @@
     "numResults": 2,
     "offset": 0,
     "query": "1032 research center atlanta drive atlanta ga 30331",
-    "queryTime": 172,
+    "queryTime": 147,
     "queryType": "NON_NEAR",
     "totalResults": 2
   }

@@ -40,7 +40,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/25060894",
+      "id": "US/PAD/p1/33807614",
       "position": {
         "lat": 34.79021,
         "lon": -84.99934
@@ -67,14 +67,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Dalton",
-        "extendedPostalCode": "307202400,307202401,307202403,307202405,307202411,307202414,307202421,307202424,307202429,307202433,307202434,307202435,307202437,307202438,307202440,307202444,307202445,307202446,307202448,307202449,307202450,307202451,307202452,307202453,307202454,307202455,307202456,307202457,307202463,307202464,307202466,307202467,307202477,307202478,307202485,307202486,307202487",
+        "extendedPostalCode": "307202400, 307202401, 307202403, 307202405, 307202411, 307202414, 307202421, 307202424, 307202429, 307202433, 307202434, 307202435, 307202437, 307202438, 307202440, 307202444, 307202445, 307202446, 307202448, 307202449, 307202450, 307202451, 307202452, 307202453, 307202454, 307202455, 307202456, 307202457, 307202463, 307202464, 307202466, 307202467, 307202477, 307202478, 307202485, 307202486, 307202487",
         "freeformAddress": "Shugart Road, Dalton, GA 30720",
         "municipality": "Dalton",
         "municipalitySubdivision": "Dalton",
         "postalCode": "30720",
         "streetName": "Shugart Road"
       },
-      "id": "US/STR/p0/7412443",
+      "id": "US/STR/p0/4983910",
       "position": {
         "lat": 34.78693,
         "lon": -84.99646
@@ -107,7 +107,7 @@
         "postalCode": "30720",
         "streetName": "Ivy Gate Place & Shugart Road"
       },
-      "id": "US/XSTR/p1/290253",
+      "id": "US/XSTR/p1/1262613",
       "position": {
         "lat": 34.7791,
         "lon": -84.99555
@@ -138,23 +138,23 @@
         "municipality": "Dalton",
         "municipalitySubdivision": "Dalton",
         "postalCode": "30720",
-        "streetName": "Chattanooga Road, Georgia 3, State Route 3, US-76 East, United States Highway 41 South, Georgia State Route 3, US-41 South, United States Highway 76 East & Shugart Road"
+        "streetName": "Chattanooga Road, Georgia 3, Georgia State Route 3, State Route 3, US-41 N, US-76 West, United States Highway 41 North, United States Highway 76 West & Shugart Road"
       },
-      "id": "US/XSTR/p0/1520558",
+      "id": "US/XSTR/p0/2175095",
       "position": {
-        "lat": 34.79501,
-        "lon": -84.99655
+        "lat": 34.79513,
+        "lon": -84.99665
       },
       "score": 8.53746,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.79411,
-          "lon": -84.99545
+          "lat": 34.79423,
+          "lon": -84.99555
         },
         "topLeftPoint": {
-          "lat": 34.79591,
-          "lon": -84.99765
+          "lat": 34.79603,
+          "lon": -84.99775
         }
       }
     },
@@ -173,7 +173,7 @@
         "postalCode": "30720",
         "streetName": "North Tibbs Road & Shugart Road"
       },
-      "id": "US/XSTR/p0/3499241",
+      "id": "US/XSTR/p1/1262614",
       "position": {
         "lat": 34.7791,
         "lon": -84.99555
@@ -198,7 +198,7 @@
     "numResults": 5,
     "offset": 0,
     "query": "875 shugart rd dalton ga 30720",
-    "queryTime": 136,
+    "queryTime": 213,
     "queryType": "NON_NEAR",
     "totalResults": 5
   }

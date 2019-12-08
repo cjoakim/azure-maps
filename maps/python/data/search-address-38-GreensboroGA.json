@@ -41,7 +41,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/43587669",
+      "id": "US/PAD/p0/29864401",
       "position": {
         "lat": 33.54049,
         "lon": -83.20638
@@ -68,28 +68,26 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Greensboro",
-        "extendedPostalCode": "306425424,306425425,306425428",
         "freeformAddress": "Meadow Crest Road, Greensboro, GA 30642",
         "municipality": "Greensboro",
-        "municipalitySubdivision": "Greensboro",
         "postalCode": "30642",
         "streetName": "Meadow Crest Road"
       },
-      "id": "US/STR/p0/5748348",
+      "id": "US/STR/p0/1838383",
       "position": {
-        "lat": 33.53997,
-        "lon": -83.18671
+        "lat": 33.54356,
+        "lon": -83.20021
       },
       "score": 10.18086,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.53269,
-          "lon": -83.17638
+          "lat": 33.54346,
+          "lon": -83.19819
         },
         "topLeftPoint": {
-          "lat": 33.55068,
-          "lon": -83.19796
+          "lat": 33.54359,
+          "lon": -83.20206
         }
       }
     },
@@ -108,7 +106,7 @@
         "postalCode": "30642",
         "streetName": "Meadow Crest Spur"
       },
-      "id": "US/STR/p0/11716449",
+      "id": "US/STR/p0/7145495",
       "position": {
         "lat": 33.54346,
         "lon": -83.20456
@@ -141,12 +139,12 @@
         "postalCode": "30642",
         "streetName": "Meadow Crest Road & Meadow Crest Spur"
       },
-      "id": "US/XSTR/p0/5111790",
+      "id": "US/XSTR/p1/6183226",
       "position": {
         "lat": 33.54311,
         "lon": -83.20274
       },
-      "score": 8.51754,
+      "score": 8.49968,
       "type": "Cross Street",
       "viewport": {
         "btmRightPoint": {
@@ -166,7 +164,7 @@
     "numResults": 4,
     "offset": 0,
     "query": "2490 meadow crest greensboro ga 30642",
-    "queryTime": 109,
+    "queryTime": 50,
     "queryType": "NON_NEAR",
     "totalResults": 4
   }

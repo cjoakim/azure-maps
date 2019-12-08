@@ -41,7 +41,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/5675178",
+      "id": "US/PAD/p1/55880462",
       "position": {
         "lat": 34.18559,
         "lon": -84.78772
@@ -68,14 +68,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Cartersville",
-        "extendedPostalCode": "301208522,301208536",
+        "extendedPostalCode": "301208522, 301208536",
         "freeformAddress": "Gentilly Boulevard, Cartersville, GA 30120",
         "municipality": "Cartersville",
         "municipalitySubdivision": "Cartersville",
         "postalCode": "30120",
         "streetName": "Gentilly Boulevard"
       },
-      "id": "US/STR/p0/13336740",
+      "id": "US/STR/p0/6260679",
       "position": {
         "lat": 34.18606,
         "lon": -84.79037
@@ -100,7 +100,7 @@
     "numResults": 2,
     "offset": 0,
     "query": "100 gentilly blvd cartersville ga 30120",
-    "queryTime": 58,
+    "queryTime": 75,
     "queryType": "NON_NEAR",
     "totalResults": 2
   }

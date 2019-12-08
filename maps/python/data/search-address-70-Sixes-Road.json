@@ -41,7 +41,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p0/24923567",
+      "id": "US/PAD/p1/48801118",
       "position": {
         "lat": 34.1485,
         "lon": -84.51289
@@ -68,128 +68,93 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Holly Springs",
-        "extendedPostalCode": "3011550,3011599,301152039,301155000,301155001,301155003,301159006,301159007,301159013,301159036,301159037,301159038,301159040,301159046,301159047,301159079,301159504,301159580,301159581,301159582,301159583,301159597,301159598,301159901,301159997",
-        "freeformAddress": "Holly Springs Parkway, Holly Springs, GA 30115",
-        "municipality": "Holly Springs, Canton",
-        "municipalitySubdivision": "Holly Springs, Canton",
-        "postalCode": "30115",
-        "streetName": "Holly Springs Parkway"
-      },
-      "id": "US/STR/p0/2608678",
-      "position": {
-        "lat": 34.18002,
-        "lon": -84.50367
-      },
-      "score": 12.52697,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.17123,
-          "lon": -84.49205
-        },
-        "topLeftPoint": {
-          "lat": 34.18921,
-          "lon": -84.5138
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cherokee",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Holly Springs",
-        "freeformAddress": "Holly Springs Parkway, Holly Springs, GA",
-        "municipality": "Holly Springs, Canton",
-        "municipalitySubdivision": "Holly Springs, Canton",
-        "postalCode": "30114,30115",
-        "streetName": "Holly Springs Parkway"
-      },
-      "id": "US/STR/p0/2608679",
-      "position": {
-        "lat": 34.18933,
-        "lon": -84.50566
-      },
-      "score": 12.52697,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.18837,
-          "lon": -84.50456
-        },
-        "topLeftPoint": {
-          "lat": 34.19024,
-          "lon": -84.50681
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cherokee",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Holly Springs",
-        "extendedPostalCode": "3011574,301157400,301157401,301157402,301157403,301157404,301157405,301157406,301157407,301157408,301157409,301157410,301157411,301157412,301157413,301157414,301157415,301157416,301157417,301157418,301157420,301157421,301157422,301157423,301157424,301157425,301157426,301157427,301157428,301157429,301157430,301157431,301157433,301157434,301157436,301157437,301157438,301157439,301157445,301157446,301157449,301157450,301157451,301157452,301157453,301157454,301157455,301157457,301157459,301157460,301157461,301157462,301157463,301157464,301157465,301157466,301157467,301157468,301157469,301157470,301157471,301157472,301157473,301157474,301157475,301157476,301157477,301157478,301157479,301157480,301157481,301157482,301157483,301157484,301157485,301157486,301157487,301157488,301157489,301157490,301157491,301157492,301157493,301157494,301157495,301157496,301157497,301157498,301157499,301157551,301157588,301157589,301157590,301157591,301157592,301157593,301157594,301157595,301157596,301157597,301157599,301157602,301159087,301159176",
-        "freeformAddress": "Holly Springs Parkway, Holly Springs, GA",
-        "municipality": "Holly Springs, Canton",
-        "municipalitySubdivision": "Holly Springs, Canton",
-        "postalCode": "30114,30115",
-        "streetName": "Holly Springs Parkway"
-      },
-      "id": "US/STR/p0/2608677",
-      "position": {
-        "lat": 34.15903,
-        "lon": -84.50789
-      },
-      "score": 12.50783,
-      "type": "Street",
-      "viewport": {
-        "btmRightPoint": {
-          "lat": 34.14977,
-          "lon": -84.49584
-        },
-        "topLeftPoint": {
-          "lat": 34.16775,
-          "lon": -84.51758
-        }
-      }
-    },
-    {
-      "address": {
-        "country": "United States",
-        "countryCode": "US",
-        "countryCodeISO3": "USA",
-        "countrySecondarySubdivision": "Cherokee",
-        "countrySubdivision": "GA",
-        "countrySubdivisionName": "Georgia",
-        "countryTertiarySubdivision": "Holly Springs",
         "freeformAddress": "Holly Springs Parkway, Holly Springs, GA 30115",
         "municipality": "Holly Springs, Canton",
         "municipalitySubdivision": "Holly Springs",
         "postalCode": "30115",
         "streetName": "Holly Springs Parkway"
       },
-      "id": "US/STR/p0/7516936",
+      "id": "US/STR/p0/7397187",
       "position": {
-        "lat": 34.14491,
-        "lon": -84.51206
+        "lat": 34.17825,
+        "lon": -84.5034
+      },
+      "score": 12.52697,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.17786,
+          "lon": -84.5033
+        },
+        "topLeftPoint": {
+          "lat": 34.17873,
+          "lon": -84.50357
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Holly Springs",
+        "freeformAddress": "Holly Springs Parkway, Holly Springs, GA",
+        "municipality": "Holly Springs, Canton",
+        "municipalitySubdivision": "Holly Springs",
+        "postalCode": "30114, 30115",
+        "streetName": "Holly Springs Parkway"
+      },
+      "id": "US/STR/p0/7397191",
+      "position": {
+        "lat": 34.18467,
+        "lon": -84.50317
+      },
+      "score": 12.52697,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 34.17557,
+          "lon": -84.4934
+        },
+        "topLeftPoint": {
+          "lat": 34.19355,
+          "lon": -84.51515
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "Cherokee",
+        "countrySubdivision": "GA",
+        "countrySubdivisionName": "Georgia",
+        "countryTertiarySubdivision": "Holly Springs",
+        "freeformAddress": "Holly Springs Parkway, Holly Springs, GA",
+        "municipality": "Holly Springs, Canton, Woodstock",
+        "municipalitySubdivision": "Holly Springs, Canton",
+        "postalCode": "30115, 30188",
+        "streetName": "Holly Springs Parkway"
+      },
+      "id": "US/STR/p0/4062696",
+      "position": {
+        "lat": 34.14391,
+        "lon": -84.51155
       },
       "score": 12.50783,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 34.14391,
-          "lon": -84.51155
+          "lat": 34.14358,
+          "lon": -84.51129
         },
         "topLeftPoint": {
-          "lat": 34.14608,
-          "lon": -84.51215
+          "lat": 34.14391,
+          "lon": -84.51155
         }
       }
     }
@@ -197,11 +162,11 @@
   "search_address": "4520 Holly Springs Pkwy Canton GA 30115",
   "summary": {
     "fuzzyLevel": 1,
-    "numResults": 5,
+    "numResults": 4,
     "offset": 0,
     "query": "4520 holly springs pkwy canton ga 30115",
-    "queryTime": 64,
+    "queryTime": 60,
     "queryType": "NON_NEAR",
-    "totalResults": 134
+    "totalResults": 135
   }
 }

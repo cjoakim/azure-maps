@@ -62,7 +62,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/31884415",
+      "id": "US/PAD/p1/42548856",
       "position": {
         "lat": 33.50184,
         "lon": -82.0906
@@ -95,7 +95,7 @@
         "postalCode": "30907",
         "streetName": "Bobby Jones Expressway"
       },
-      "id": "US/STR/p0/9521393",
+      "id": "US/STR/p0/858720",
       "position": {
         "lat": 33.50213,
         "lon": -82.08792
@@ -128,7 +128,7 @@
         "postalCode": "30907",
         "streetName": "Bobby Jones Expressway West"
       },
-      "id": "US/STR/p0/9521459",
+      "id": "US/STR/p0/858785",
       "position": {
         "lat": 33.4972,
         "lon": -82.08571
@@ -161,7 +161,7 @@
         "postalCode": "30907",
         "streetName": "Bobby Jones Expressway East"
       },
-      "id": "US/STR/p0/9521500",
+      "id": "US/STR/p0/858826",
       "position": {
         "lat": 33.4933,
         "lon": -82.08434
@@ -186,7 +186,7 @@
     "numResults": 4,
     "offset": 0,
     "query": "499 bobby jones expy ste b augusta ga 30907",
-    "queryTime": 105,
+    "queryTime": 132,
     "queryType": "NON_NEAR",
     "totalResults": 28
   }

@@ -40,7 +40,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/26781546",
+      "id": "US/PAD/p1/1080623",
       "position": {
         "lat": 33.86234,
         "lon": -84.47627
@@ -73,7 +73,7 @@
         "postalCode": "30339",
         "streetName": "Cumberland Parkway"
       },
-      "id": "US/STR/p0/307530",
+      "id": "US/STR/p0/13481705",
       "position": {
         "lat": 33.87639,
         "lon": -84.46009
@@ -106,21 +106,21 @@
         "postalCode": "30339",
         "streetName": "Cumberland Parkway Southeast"
       },
-      "id": "US/STR/p0/97623",
+      "id": "US/STR/p0/6811567",
       "position": {
-        "lat": 33.87855,
-        "lon": -84.4719
+        "lat": 33.86049,
+        "lon": -84.4766
       },
       "score": 10.18086,
       "type": "Street",
       "viewport": {
         "btmRightPoint": {
-          "lat": 33.87789,
-          "lon": -84.47151
+          "lat": 33.86007,
+          "lon": -84.47475
         },
         "topLeftPoint": {
-          "lat": 33.87902,
-          "lon": -84.47237
+          "lat": 33.86089,
+          "lon": -84.47853
         }
       }
     }
@@ -131,7 +131,7 @@
     "numResults": 3,
     "offset": 0,
     "query": "2450 cumberland pkwy atlanta ga 30339",
-    "queryTime": 65,
+    "queryTime": 50,
     "queryType": "NON_NEAR",
     "totalResults": 59
   }

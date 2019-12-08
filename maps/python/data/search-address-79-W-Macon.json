@@ -47,7 +47,7 @@
           "type": "minor"
         }
       ],
-      "id": "US/PAD/p1/39576360",
+      "id": "US/PAD/p0/30723452",
       "position": {
         "lat": 32.82267,
         "lon": -83.71343
@@ -74,14 +74,14 @@
         "countrySubdivision": "GA",
         "countrySubdivisionName": "Georgia",
         "countryTertiarySubdivision": "Macon West",
-        "extendedPostalCode": "3120687,3120698,312068708,312068712,312068716,312068717,312068718,312068719,312068720,312068721,312068724,312068725,312068726,312068727,312068728,312068746,312068747,312068748,312068749,312068750,312068753,312068754,312068757,312069804",
+        "extendedPostalCode": "3120687, 312068708, 312068712, 312068716, 312068717, 312068718, 312068719, 312068720, 312068721, 312068724, 312068725, 312068726, 312068727, 312068728, 312068746, 312068747, 312068748, 312068749, 312068750, 312068753, 312068754, 312068757, 3120698, 312069804",
         "freeformAddress": "Presidential Parkway, Macon, GA 31206",
         "municipality": "Macon",
         "municipalitySubdivision": "Macon, Macon-Bibb County",
         "postalCode": "31206",
         "streetName": "Presidential Parkway"
       },
-      "id": "US/STR/p0/11948337",
+      "id": "US/STR/p0/5907809",
       "position": {
         "lat": 32.81679,
         "lon": -83.71449
@@ -106,7 +106,7 @@
     "numResults": 2,
     "offset": 0,
     "query": "4635 presidential pkwy macon ga 31206",
-    "queryTime": 72,
+    "queryTime": 79,
     "queryType": "NON_NEAR",
     "totalResults": 2
   }
