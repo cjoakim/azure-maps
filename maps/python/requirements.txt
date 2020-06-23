@@ -5,7 +5,7 @@
 #    pip-compile --output-file=requirements.txt requirements.in
 #
 adal==0.4.7               # via azure-datalake-store, msrestazure
-arrow==0.10.0
+arrow==0.10.0             # via -r requirements.in
 asn1crypto==0.23.0        # via cryptography
 azure-batch==3.0.0        # via azure
 azure-common==1.1.8       # via azure-batch, azure-graphrbac, azure-keyvault, azure-mgmt-authorization, azure-mgmt-batch, azure-mgmt-cdn, azure-mgmt-cognitiveservices, azure-mgmt-compute, azure-mgmt-containerregistry, azure-mgmt-datalake-analytics, azure-mgmt-datalake-store, azure-mgmt-devtestlabs, azure-mgmt-dns, azure-mgmt-documentdb, azure-mgmt-iothub, azure-mgmt-keyvault, azure-mgmt-logic, azure-mgmt-monitor, azure-mgmt-network, azure-mgmt-rdbms, azure-mgmt-redis, azure-mgmt-resource, azure-mgmt-scheduler, azure-mgmt-sql, azure-mgmt-storage, azure-mgmt-trafficmanager, azure-mgmt-web, azure-servicebus, azure-servicefabric, azure-servicemanagement-legacy, azure-storage
@@ -44,32 +44,32 @@ azure-servicebus==0.21.1  # via azure
 azure-servicefabric==5.6.130  # via azure
 azure-servicemanagement-legacy==0.20.6  # via azure
 azure-storage==0.34.3     # via azure
-azure==2.0.0
+azure==2.0.0              # via -r requirements.in
 certifi==2017.11.5        # via msrest, requests
 cffi==1.11.2              # via azure-datalake-store, cryptography
 chardet==3.0.4            # via requests
 click==6.7                # via pip-tools
-cryptography==2.6.1
-docopt==0.6.2
+cryptography==2.6.1       # via -r requirements.in, adal, azure-storage
+docopt==0.6.2             # via -r requirements.in
 first==2.0.1              # via pip-tools
 idna==2.6                 # via requests
 isodate==0.6.0            # via msrest
-jinja2==2.10.1
+jinja2==2.10.1            # via -r requirements.in
 keyring==10.4.0           # via msrestazure
 markupsafe==1.1.1         # via jinja2
 msrest==0.4.18            # via azure-datalake-store, msrestazure
 msrestazure==0.4.16       # via azure-batch, azure-graphrbac, azure-keyvault, azure-mgmt-authorization, azure-mgmt-batch, azure-mgmt-cdn, azure-mgmt-cognitiveservices, azure-mgmt-compute, azure-mgmt-containerregistry, azure-mgmt-datalake-analytics, azure-mgmt-datalake-store, azure-mgmt-devtestlabs, azure-mgmt-dns, azure-mgmt-documentdb, azure-mgmt-iothub, azure-mgmt-keyvault, azure-mgmt-logic, azure-mgmt-monitor, azure-mgmt-network, azure-mgmt-rdbms, azure-mgmt-redis, azure-mgmt-resource, azure-mgmt-scheduler, azure-mgmt-sql, azure-mgmt-storage, azure-mgmt-trafficmanager, azure-mgmt-web, azure-servicefabric
 oauthlib==2.0.6           # via requests-oauthlib
-pip-tools==1.10.1
-psutil==5.4.1
+pip-tools==1.10.1         # via -r requirements.in
+psutil==5.4.1             # via -r requirements.in
 pycparser==2.18           # via cffi
-pydocumentdb==2.3.0
+pydocumentdb==2.3.0       # via -r requirements.in
 pyjwt==1.5.3              # via adal
 python-dateutil==2.6.1    # via adal, arrow, azure-storage
 requests-oauthlib==0.8.0  # via msrest
-requests==2.21.0
+requests==2.21.0          # via -r requirements.in, adal, azure-servicebus, azure-servicemanagement-legacy, azure-storage, msrest, pydocumentdb, requests-oauthlib
 six==1.11.0               # via cryptography, isodate, pip-tools, pydocumentdb, python-dateutil
-urllib3==1.24.2
+urllib3==1.24.2           # via -r requirements.in, requests
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
