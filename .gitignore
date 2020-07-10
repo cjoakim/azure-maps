@@ -3,6 +3,13 @@
 **/__pycache__/
 **/*.pyc
 
+bin/
+include/
+lib/
+lib64/
+man/
+**/pyvenv.cfg
+
 cogsvcs/node/node_modules/
 
 maps/python/bin/
