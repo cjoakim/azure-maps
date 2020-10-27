@@ -6,7 +6,6 @@
 #
 adal==0.4.7               # via azure-datalake-store, msrestazure
 arrow==0.10.0             # via -r requirements.in
-asn1crypto==0.23.0        # via cryptography
 azure-batch==3.0.0        # via azure
 azure-common==1.1.8       # via azure-batch, azure-graphrbac, azure-keyvault, azure-mgmt-authorization, azure-mgmt-batch, azure-mgmt-cdn, azure-mgmt-cognitiveservices, azure-mgmt-compute, azure-mgmt-containerregistry, azure-mgmt-datalake-analytics, azure-mgmt-datalake-store, azure-mgmt-devtestlabs, azure-mgmt-dns, azure-mgmt-documentdb, azure-mgmt-iothub, azure-mgmt-keyvault, azure-mgmt-logic, azure-mgmt-monitor, azure-mgmt-network, azure-mgmt-rdbms, azure-mgmt-redis, azure-mgmt-resource, azure-mgmt-scheduler, azure-mgmt-sql, azure-mgmt-storage, azure-mgmt-trafficmanager, azure-mgmt-web, azure-servicebus, azure-servicefabric, azure-servicemanagement-legacy, azure-storage
 azure-datalake-store==0.0.17  # via azure
@@ -49,11 +48,12 @@ certifi==2017.11.5        # via msrest, requests
 cffi==1.11.2              # via azure-datalake-store, cryptography
 chardet==3.0.4            # via requests
 click==6.7                # via pip-tools
-cryptography==2.6.1       # via -r requirements.in, adal, azure-storage
+cryptography==3.2         # via -r requirements.in, adal, azure-storage, secretstorage
 docopt==0.6.2             # via -r requirements.in
 first==2.0.1              # via pip-tools
 idna==2.6                 # via requests
 isodate==0.6.0            # via msrest
+jeepney==0.4.3            # via secretstorage
 jinja2==2.10.1            # via -r requirements.in
 keyring==10.4.0           # via msrestazure
 markupsafe==1.1.1         # via jinja2
@@ -68,6 +68,7 @@ pyjwt==1.5.3              # via adal
 python-dateutil==2.6.1    # via adal, arrow, azure-storage
 requests-oauthlib==0.8.0  # via msrest
 requests==2.21.0          # via -r requirements.in, adal, azure-servicebus, azure-servicemanagement-legacy, azure-storage, msrest, pydocumentdb, requests-oauthlib
+secretstorage==3.1.2      # via keyring
 six==1.11.0               # via cryptography, isodate, pip-tools, pydocumentdb, python-dateutil
 urllib3==1.24.2           # via -r requirements.in, requests
 
